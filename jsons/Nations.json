@@ -32,7 +32,7 @@
 		"outerColor": [212, 168, 79],
 		"innerColor": [74, 52, 34],
 		"uniqueName": "Sekolah Hutang",
-		"uniques": ["Gain [-962350000] [Gold]", "+1 Gold for every 1 population [Your]"],
+		"uniques": ["Gain [-962350000] [Gold]", "[+1 Gold] per [1] population [in all cities]"],
 		"cities": ["Abydos","Foreclosure Task Force", "Kaiser Corporation", "Private Military Company", "Shiba Seki Ramen"]
 	}
 ]
