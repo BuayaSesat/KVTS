@@ -29,10 +29,10 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [228, 194, 122],
-		"innerColor": [255,255,255],
+		"outerColor": [212, 168, 79],
+		"innerColor": [74, 52, 34],
 		"uniqueName": "Sekolah Hutang",
-		"uniques": ["Gain [-962350000] [Gold]", "+100 Gold"],
+		"uniques": ["-962350000 Gold", "+100 Gold Per Turn"],
 		"cities": ["Abydos","Foreclosure Task Force", "Kaiser Corporation", "Private Military Company", "Shiba Seki Ramen"]
 	}
 ]
