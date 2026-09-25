@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Arius",
-		"leaderName": "Atsuko",
+		"leaderName": "Beatrice",
 		"adjective": ["Arius"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
@@ -29,13 +29,10 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"uniqueName": "Everything is in Vain",
-		"uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion"],
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniques": [""],
+		"cities": ["Arius Satellite School","Arius Squad","Nicomedia's Troop","Saint Justina Council","Eden Treaty","Catacombs","Basilica"]
 	}
 ]
