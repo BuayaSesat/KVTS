@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Arius",
-		"leaderName": "Beatrice",
-		"adjective": ["Arius"],
-		"startBias": ["Tundra"],
-		"preferredVictoryType": "Scientific",
+		"name": "Abydos",
+		"leaderName": "Ayane",
+		"adjective": ["abydos"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -31,8 +31,8 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
-		"uniqueName": "Everything is in Vain",
-		"uniques": [""],
-		"cities": ["Arius Satellite School","Arius Squad","Nicomedia's Troop","Saint Justina Council","Eden Treaty","Catacombs","Basilica"]
+		"uniqueName": "Sekolah Hutang",
+		"uniques": ["Gain [-962350] [Gold]"],
+		"cities": ["Abydos","Foreclosure Task Force", "Kaiser Corporation", "Private Military Company", "Shiba Seki Ramen"]
 	}
 ]
