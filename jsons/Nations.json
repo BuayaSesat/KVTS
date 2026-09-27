@@ -32,7 +32,7 @@
 		"outerColor": [212, 168, 79],
 		"innerColor": [74, 52, 34],
 		"uniqueName": "Hutang Sekolah",
-		"uniques": ["Gain [-962350] [Gold]", "[+100 Gold] per [1] population [in your cities]", "[+150 Gold] in cities on [your] tiles", "[+200 Gold] from all [all] buildings", "Earn [1000%] of killed [All] unit's [Cost] as [Gold]", "Empire enters a [999]-turn Golden Age <when above [0] [Gold]>"],
+		"uniques": ["Gain [-962350] [Gold]", "[+100 Gold] per [1] population [in your cities]", "[+150 Gold] in cities on [your] tiles", "[+200 Gold] from all [all] buildings", "Earn [1000%] of killed [Embarked] unit's [Cost] as [Gold]", "Empire enters a [999]-turn Golden Age <when above [0] [Gold]>"],
 		"cities": ["Abydos","Foreclosure Task Force", "Kaiser Corporation", "Private Military Company", "Shiba Seki Ramen"]
 	}
 ]
