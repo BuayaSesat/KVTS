@@ -25,6 +25,7 @@
 		"innerColor": [74, 52, 34],
 		"uniqueName": "Hutang Sekolah",
 		"uniques": ["Gain [-962350] [Gold]",
+			"Gain [+999] [Faith]",
 			"[+1000 Gold] per [1] population [in your cities]",
 			"[+30]% Strength <vs [Barbarians]>",
 			"Earn [3000]% of killed [Barbarians] unit's [Cost] as [Gold]",
