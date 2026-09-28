@@ -1,16 +1,13 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Arius",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Kaiser Loan",
+		"replaces": "National Treasury",
+		"uniqueTo": "Abydos",
+		"cost": 125,
+		"gold": 250%,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Market",
+		"requiredTech": "Guilds"
 	},
 	{
 		"name": "Breeders",
