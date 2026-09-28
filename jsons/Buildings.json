@@ -5,18 +5,8 @@
 		"uniqueTo": "Abydos",
 		"cost": 125,
 		"isNationalWonder": true,
-		"requiredBuilding": "Market",
+		"requiredBuildingInAllNonPuppetCities": "Market",
 		"uniques": ["Gain [200000] [Gold]"]
 		"requiredTech": "Guilds"
 	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Arius",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
 ]
