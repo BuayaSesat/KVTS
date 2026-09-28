@@ -15,16 +15,8 @@
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
 		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
@@ -32,7 +24,12 @@
 		"outerColor": [212, 168, 79],
 		"innerColor": [74, 52, 34],
 		"uniqueName": "Hutang Sekolah",
-		"uniques": ["Gain [-962350] [Gold]", "[+100 Gold] per [1] population [in your cities]", "[+150 Gold] in cities on [your] tiles", "[+200 Gold] from all [all] buildings", "Earn [1000]% of killed [All] unit's [Cost] as [Gold]", "Empire enters a [999]-turn Golden Age <when above [0] [Gold]>"],
+		"uniques": ["Gain [-962350] [Gold]",
+		"[+100000000 Gold] per [1] population [in your cities]",
+		"[+150 Gold] in cities on [your] tiles",
+		"[+200 Gold] from all [all] buildings",
+		"Earn [5000]% of killed [All] unit's [Cost] as [Gold]",
+		"Empire enters a [999]-turn Golden Age <when above [0] [Gold]> <upon turn start>"],
 		"cities": ["Abydos","Foreclosure Task Force", "Kaiser Corporation", "Private Military Company", "Shiba Seki Ramen"]
 	}
 ]
