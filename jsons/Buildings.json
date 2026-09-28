@@ -6,7 +6,7 @@
 		"cost": 125,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Market",
-		"uniques": ["Gain [250000] [Gold]"]
+		"uniques": ["Gain [100000] [Gold]"]
 		"requiredTech": "Guilds"
 	},
 	{
