@@ -4,9 +4,9 @@
 		"replaces": "National Treasury",
 		"uniqueTo": "Abydos",
 		"cost": 125,
-		"gold": [+250]%,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Market",
+		"uniques": ["Gain [250000] [Gold] <once>"]
 		"requiredTech": "Guilds"
 	},
 	{
