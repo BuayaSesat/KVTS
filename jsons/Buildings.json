@@ -5,7 +5,7 @@
 		"uniqueTo": "Abydos",
 		"cost": 125,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Market",
+		"requiredBuilding": "Market",
 		"uniques": ["Gain [200000] [Gold]"]
 		"requiredTech": "Guilds"
 	},
