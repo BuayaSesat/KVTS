@@ -3,6 +3,6 @@
 	{
 		"name": "Malas Menanggapi",
 		"type": "Pantheon"
-		"uniques": ["[-1]% [Production] from every [Terrain] <for [Human player] Civilizations>"],
+		"uniques": ["[-100]% [Production] from every [Your] <for [Human player] Civilizations>"],
 	}
 ]
