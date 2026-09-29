@@ -1,17 +1,17 @@
 [
 
 	{
-		"name": "Tidak Produktif",
+		"name": "Kemalasan",
 		"type": "Pantheon"
 		"uniques": ["[-10]% [Production] <for [AI player] Civilizations>"],
 	},
 	{
-		"name": "Persembahan Makanan"
+		"name": "Kelaparan"
 		"type": "Pantheon"
 		"uniques": ["[-10]% [Food] <for [AI player] Civilizations>"],
 	},
 	{
-		"name": "Arisan"
+		"name": "Kemiskinan"
 		"type": "Pantheon"
 		"uniques": ["[-10]% [Gold] <for [AI player] Civilizations>"],
 	},
@@ -24,5 +24,15 @@
 		"name": "Kebiadaban"
 		"type": "Pantheon"
 		"uniques": ["[-10]% [Culture] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "Ketidakbahagiaan"
+		"type": "Pantheon"
+		"uniques": ["[-10]% [Happiness] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "Keraguan"
+		"type": "Pantheon"
+		"uniques": ["[-10]% [Faith] <for [AI player] Civilizations>"],
 	},
 ]
