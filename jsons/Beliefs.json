@@ -1,9 +1,23 @@
 [
 
 	{
-		"name": "Malas Menanggapi",
+		"name": "Tidak Produktif",
 		"type": "Pantheon"
 		"uniques": ["[-10]% [Production] <for [AI player] Civilizations>"],
 	},
 	{
+		"name": "Persembahan Makanan"
+		"type": "Pantheon"
+		"uniques": ["[-10]% [Food] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "Arisan"
+		"type": "Pantheon"
+		"uniques": ["[-10]% [Gold] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "Kebodohan"
+		"type": "Pantheon"
+		"uniques": "["[-10]% [Science] <for [AI player] Civilizations>"],
+    },
 ]
