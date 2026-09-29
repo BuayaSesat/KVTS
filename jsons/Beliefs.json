@@ -3,6 +3,6 @@
 	{
 		"name": "Malas Menanggapi",
 		"type": "Pantheon"
-		"uniques": ["[-1]% [Production] from [All] tiles [in all cities] <for [Human player] Civilizations>"],
+		"uniques": ["[-1 Production]% from [All] tiles [in all cities] <for [Human player] Civilizations>"],
 	}
 ]
