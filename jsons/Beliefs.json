@@ -18,6 +18,11 @@
 	{
 		"name": "Kebodohan"
 		"type": "Pantheon"
-		"uniques": "["[-10]% [Science] <for [AI player] Civilizations>"],
+		"uniques": ["[-10]% [Science] <for [AI player] Civilizations>"],
     },
+    {
+		"name": "Kebiadaban"
+		"type": "Pantheon"
+		"uniques": ["[-10]% [Culture] <for [AI player] Civilizations>"],
+	},
 ]
