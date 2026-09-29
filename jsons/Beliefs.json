@@ -8,12 +8,12 @@
 	{
 		"name": "Kelaparan"
 		"type": "Pantheon"
-		"uniques": ["[-10]% [Food] <for [AI player] Civilizations>"],
+		"uniques": ["[-11]% [Food] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Kemiskinan"
 		"type": "Pantheon"
-		"uniques": ["[-10]% [Gold] <for [AI player] Civilizations>"],
+		"uniques": ["[-13]% [Gold] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Kebodohan"
@@ -23,16 +23,16 @@
     {
 		"name": "Kebiadaban"
 		"type": "Pantheon"
-		"uniques": ["[-10]% [Culture] <for [AI player] Civilizations>"],
+		"uniques": ["[-12]% [Culture] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Ketidakbahagiaan"
 		"type": "Pantheon"
-		"uniques": ["[-10]% [Happiness] <for [AI player] Civilizations>"],
+		"uniques": ["[-12]% [Happiness] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Keraguan"
 		"type": "Pantheon"
-		"uniques": ["[-10]% [Faith] <for [AI player] Civilizations>"],
+		"uniques": ["[-14]% [Faith] <for [AI player] Civilizations>"],
 	},
 ]
