@@ -1,8 +1,8 @@
 [
 
 	{
-		"name": "Menunggu 19jt Lapangan Pekerjaan",
-		"type": "Follower"
-		"uniques": ["[-1000]% [Production] [in all cities] <for [Human player] Civilizations>"],
+		"name": "Malas Menanggapi",
+		"type": "Pantheon"
+		"uniques": ["[-1]% [Production] from [All] tiles [in all cities] <for [Human player] Civilizations>"],
 	}
 ]
