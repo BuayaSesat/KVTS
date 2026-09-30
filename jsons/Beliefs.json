@@ -52,7 +52,7 @@
 	{
 		"name": "11 + 6 = 17"
 		"type": "Follower"
-		"uniques": ["[-2]% [Science] from every follower, up to [-100]% [Science] <for [AI player] Civilizations>"],
+		"uniques": ["[-2]% [Science] from every follower, up to [-100]% <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Batik Is From Malaysia"
@@ -62,7 +62,7 @@
 	{
 		"name": "WNI Seumur Hidup"
 		"type": "Follower"
-		"uniques": ["[+100]% Unhappiness from [Follower of this Religion] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[+100]% Unhappiness from [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Cabulisme"
