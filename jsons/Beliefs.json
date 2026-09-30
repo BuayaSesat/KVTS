@@ -35,8 +35,8 @@
 		"uniques": ["[-18]% [Faith] <for [AI player] Civilizations>"],
 	},
 	{
-		"name": "19jt"
+		"name": "19jt Lapangan Pekerjaan"
 		"type": "Founder"
-		"uniques": ["-[10]% [Production] <for [AI player] Civilizations>"],
+		"uniques": ["-[1]% [Production] from every [1] global followers [in all cities] <for [AI player] Civilizations>"],
 	},
 ]
