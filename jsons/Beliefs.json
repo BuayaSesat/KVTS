@@ -62,11 +62,11 @@
 	{
 		"name": "WNI Seumur Hidup"
 		"type": "Follower"
-		"uniques": ["[+100]% Unhappiness from [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[-4]% [Happiness] from [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Cabulisme"
 		"type": "Follower"
-		"uniques": ["[-9 Faith] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[-4 Faith] [in all cities] <for [AI player] Civilizations>"],
 	},
 ]
