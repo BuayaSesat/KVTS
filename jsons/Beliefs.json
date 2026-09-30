@@ -37,27 +37,27 @@
 	{
 		"name": "Menunggu 19jt Lapangan Pekerjaan"
 		"type": "Follower"
-		"uniques": ["[-4]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
+		"uniques": ["[-5]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Makan Siang Gratis"
 		"type": "Follower"
-		"uniques": ["[+40]% Food consumption by [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[+75]% Food consumption by [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "PPN 12%"
 		"type": "Follower"
-		"uniques": ["[-1 Gold] per [2] population [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[-1 Gold] per [1] population [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
-		"name": "11 + 6 = 17"
+		"name": "10 + 6 = 17"
 		"type": "Follower"
-		"uniques": ["[-4]% [Science] from every follower, up to [-100]% <for [AI player] Civilizations>"],
+		"uniques": ["[-5]% [Science] from every follower, up to [-100]% <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Batik Is From Malaysia"
 		"type": "Follower"
-		"uniques": ["[-4]% [Culture] from every [Terrain] <for [AI player] Civilizations>"],
+		"uniques": ["[-5]% [Culture] from every [Terrain] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "WNI Seumur Hidup"
@@ -67,6 +67,6 @@
 	{
 		"name": "Cabulisme"
 		"type": "Follower"
-		"uniques": ["[-4 Faith] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[-10 Faith] [in all cities] <for [AI player] Civilizations>"],
 	},
 ]
