@@ -37,7 +37,7 @@
 	{
 		"name": "Menunggu 19jt Lapangan Pekerjaan"
 		"type": "Follower"
-		"uniques": ["[-2]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
+		"uniques": ["[-4]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Makan Siang Gratis"
@@ -47,22 +47,22 @@
 	{
 		"name": "PPN 12%"
 		"type": "Follower"
-		"uniques": ["[-1 Gold] per [4] population [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[-1 Gold] per [2] population [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "11 + 6 = 17"
 		"type": "Follower"
-		"uniques": ["[-2]% [Science] from every follower, up to [-100]% <for [AI player] Civilizations>"],
+		"uniques": ["[-4]% [Science] from every follower, up to [-100]% <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Batik Is From Malaysia"
 		"type": "Follower"
-		"uniques": ["[-2]% [Culture] from every [Terrain] <for [AI player] Civilizations>"],
+		"uniques": ["[-4]% [Culture] from every [Terrain] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "WNI Seumur Hidup"
 		"type": "Follower"
-		"uniques": ["[-1 Happiness] per [3] population [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[-1 Happiness] per [1] population [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Cabulisme"
