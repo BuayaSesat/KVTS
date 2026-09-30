@@ -12,7 +12,7 @@
 	{
 		"name": "Kemiskinan"
 		"type": "Pantheon"
-		"uniques": ["[-16]% [Gold] <for [AI player] Civilizations>"],
+		"uniques": ["[-15]% [Gold] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Kebodohan"
@@ -22,17 +22,17 @@
     {
 		"name": "Kebiadaban"
 		"type": "Pantheon"
-		"uniques": ["[-14]% [Culture] <for [AI player] Civilizations>"],
+		"uniques": ["[-15]% [Culture] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Ketidakbahagiaan"
 		"type": "Pantheon"
-		"uniques": ["[-14]% [Happiness] <for [AI player] Civilizations>"],
+		"uniques": ["[-15]% [Happiness] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Keraguan"
 		"type": "Pantheon"
-		"uniques": ["[-18]% [Faith] <for [AI player] Civilizations>"],
+		"uniques": ["[-20]% [Faith] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Menunggu 19jt Lapangan Pekerjaan"
@@ -62,7 +62,7 @@
 	{
 		"name": "WNI Seumur Hidup"
 		"type": "Follower"
-		"uniques": ["[-4]% [Happiness] from [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[-1 Happiness] per [3] population [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Cabulisme"
