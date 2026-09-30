@@ -35,8 +35,38 @@
 		"uniques": ["[-18]% [Faith] <for [AI player] Civilizations>"],
 	},
 	{
-		"name": "19jt Lapangan Pekerjaan"
-		"type": "Founder"
-		"uniques": ["[-1 Production] from every [1] global followers [in all cities] <for [AI player] Civilizations>"],
+		"name": "Menunggu 19jt Lapangan Pekerjaan"
+		"type": "Follower"
+		"uniques": ["[-2]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "Makan Siang Gratis"
+		"type": "Follower"
+		"uniques": ["[+40]% Food consumption by [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "PPN 12%"
+		"type": "Follower"
+		"uniques": ["[-1 Gold] per [4] population [in all cities] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "11 + 6 = 17"
+		"type": "Follower"
+		"uniques": ["[-2]% [Science] from every follower, up to [-100]% [Science] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "Batik Is From Malaysia"
+		"type": "Follower"
+		"uniques": ["[-2]% [Culture] from every [Terrain] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "WNI Seumur Hidup"
+		"type": "Follower"
+		"uniques": ["[+100]% Unhappiness from [Follower of this Religion] [in all cities] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "Cabulisme"
+		"type": "Follower"
+		"uniques": ["[-9 Faith] [in all cities] <for [AI player] Civilizations>"],
 	},
 ]
