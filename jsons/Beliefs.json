@@ -34,4 +34,9 @@
 		"type": "Pantheon"
 		"uniques": ["[-18]% [Faith] <for [AI player] Civilizations>"],
 	},
+	{
+		"name": "19jt"
+		"type": "Founder"
+		"uniques": ["-[10]% [Production] <for [AI player] Civilizations>"],
+	},
 ]
