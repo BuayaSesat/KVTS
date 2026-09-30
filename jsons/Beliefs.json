@@ -7,7 +7,7 @@
 	{
 		"name": "Kelaparan"
 		"type": "Pantheon"
-		"uniques": ["[-12]% [Food] <for [AI player] Civilizations>"],
+		"uniques": ["[-15]% [Food] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Kemiskinan"
@@ -62,7 +62,7 @@
 	{
 		"name": "WNI Seumur Hidup"
 		"type": "Follower"
-		"uniques": ["[+100]% Unhappiness from [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[-1 Happiness] per [3] population [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Cabulisme"
