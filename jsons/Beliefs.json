@@ -40,6 +40,11 @@
 		"uniques": ["Reveals the entire map"],
 	},
 	{
+		"name": "Pertahanan Terbaik Adalah Serangan"
+		"type": "Founder"
+		"uniques": ["[+30]% Strength <for cities when attacking>"],
+	},
+	{
 		"name": "Menunggu 19jt Lapangan Pekerjaan"
 		"type": "Follower"
 		"uniques": ["[-5]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
