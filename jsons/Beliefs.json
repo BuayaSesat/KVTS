@@ -37,7 +37,7 @@
 	{
 		"name": "Terangi Dunia"
 		"type": "Founder"
-		"uniques": ["Reveals the entire map", "Can see over obstacles <for [All] units>"],
+		"uniques": ["Reveals the entire map", "[3] Sight"],
 	},
 	{
 		"name": "Preman Klasik"
