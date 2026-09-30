@@ -62,7 +62,7 @@
 	{
 		"name": "Mobilitas"
 		"type": "Enhancer"
-		"uniques": ["[1] Movement", "No movement cost to pillage", "Can move after attacking"],
+		"uniques": ["[1] Movement", "No movement cost to pillage"],
 	},
 	{
 		"name": "Menunggu 19jt Lapangan Pekerjaan"
