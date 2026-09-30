@@ -40,9 +40,9 @@
 		"uniques": ["Reveals the entire map", "[1] Sight"],
 	},
 	{
-		"name": "Tembok Ratapan Solo"
+		"name": "Sumber Daya Strategis"
 		"type": "Founder"
-		"uniques": ["[+25]% Strength for cities <when attacking>", "[+25]% Strength for cities <with a garrison> <when attacking>"],
+		"uniques": ["[+100]% [Strategic] resource production"],
 	},
 	{
 		"name": "Preman Klasik"
@@ -57,7 +57,12 @@
 	{
 		"name": "Negara Emas 2045"
 		"type": "Founder"
-		"uniques": ["[+20]% Production [in all cities] <during a Golden Age>"],
+		"uniques": ["[+100]% Golden Age length"],
+	},
+	{
+		"name": "Hacker Jangan Menyerang"
+		"type": "Founder"
+		"uniques": ["[+100]% spy effectiveness [in all cities]", "[-100]% enemy spy effectiveness [in your cities]", "Gain an extra spy"],
 	},
 	{
 		"name": "Bongkar Turret"
@@ -72,7 +77,17 @@
 	{
 		"name": "Mobilitas"
 		"type": "Enhancer"
-		"uniques": ["[1] Movement", "No movement cost to pillage"],
+		"uniques": ["No movement cost to pillage", "[1] Movement"],
+	},
+	{
+		"name": "Tembok Ratapan Solo"
+		"type": "Enhancer"
+		"uniques": ["[+25]% Strength for cities <when attacking>", "[+25]% Strength for cities <with a garrison> <when attacking>"],
+	},
+	{
+		"name": "Pengalaman Minimal 10 Tahun"
+		"type": "Enhancer"
+		"uniques": ["[+100]% XP gained from combat"],
 	},
 	{
 		"name": "Menunggu 19jt Lapangan Pekerjaan"
