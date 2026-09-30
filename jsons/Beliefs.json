@@ -32,7 +32,12 @@
 	{
 		"name": "Keraguan"
 		"type": "Pantheon"
-		"uniques": ["[-20]% [Faith] <for [AI player] Civilizations>"],
+		"uniques": ["[-2 Faith] [in all cities] <for [AI player] Civilizations>"],
+	},
+	{
+		"name": "Terangi Dunia"
+		"type": "Founder"
+		"uniques": ["Reveals the entire map"],
 	},
 	{
 		"name": "Menunggu 19jt Lapangan Pekerjaan"
