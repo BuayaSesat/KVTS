@@ -37,12 +37,12 @@
 	{
 		"name": "Terangi Dunia"
 		"type": "Founder"
-		"uniques": ["Reveals the entire map"],
+		"uniques": ["Reveals the entire map", "Can see over obstacles"],
 	},
 	{
-		"name": "Pertahanan Terbaik Adalah Serangan"
+		"name": "Preman Klasik"
 		"type": "Founder"
-		"uniques": ["[+30]% Strength for cities <when attacking>"],
+		"uniques": ["[+30]% Strength <vs [Barbarians] units>", "[+30]% Strength <vs [City-State]>"],
 	},
 	{
 		"name": "Menunggu 19jt Lapangan Pekerjaan"
