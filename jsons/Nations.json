@@ -24,7 +24,8 @@
 		"outerColor": [212, 168, 79],
 		"innerColor": [74, 52, 34],
 		"uniqueName": "Hutang Sekolah",
-		"uniques": ["Gain [-962350] [Gold]",
+		"uniques": [
+			"Gain [-962350] [Gold]",
 			"[+500 Gold] per [1] population [in your cities]",
 			"[+30]% Strength for cities <when attacking>",
 			"[+30]% Strength <vs [Barbarians]>",
@@ -32,7 +33,117 @@
 			"[Great Merchant] is earned [+100]% faster",
 			"[+900]% Gold from Great Merchant trade missions",
 			"Empire enters a [999]-turn Golden Age <when above [0] [Gold]> <upon turn start> <when not in a Golden Age>"],
-		"cities": ["Abydos","Foreclosure Task Force","Kaiser Corporation","Private Military Company","Shiba Seki Ramen"]
+		"cities": [
+			"Foreclosure Task Force",
+			"Shiba Seki Ramen",
+			"Masked Swimsuit Gang",
+			"Kata-Kata Helmet Gang",
+			"Kaiser Corporation",
+			"Private Military Company",
+			"Black Market",
+			"Kaiser Bank"],
+		"spyNames": [
+			"Hoshino",
+			"Shiroko",
+			"Serika",
+			"Nonomi",
+			"Faust",
+			"Helmet Gang"]
 	},
-	
+	{
+		"name": "Millenium",
+		"leaderName": "Rio",
+		"adjective": ["Millenium"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "P",
+		"startIntroPart2": "P",
+		
+		"declaringWar": "p",
+		"attacked": "p",
+		"defeated": "p",
+		"introduction": "p",
+		
+		"neutralHello": "p",
+		"hateHello": "p",
+		"afterPeace": "p",
+		"tradeRequest": "p",
+		"denounced": "p",
+		"declaringfriendship": "p",
+
+		"outerColor": [0, 128, 255],
+		"innerColor": [0, 26, 51],
+		"uniqueName": "Teknologi Canggih",
+		"uniques": [
+			"Free Technology <upon entering a new era>",
+			"Research [+10]% of [All]",
+			"[+1 Science] per [1] population [in your cities]",
+			"Enables Research agreements",
+			"Science gained from research agreements [+50]%",
+			"[Great Scientist] is earned [+100]% faster",
+			"[+50]% maintenance costs"],
+		"cities": [
+			"Seminar",
+			"Veritas",
+			"Cleaning & Clearing",
+			"Paranormal Affairs Department",
+			"Engineering Department",
+			"Game Development Department",
+			"Gym Training Department",
+			"Pseudoscience Department"],
+		"spyNames": [
+			"Yuuka",
+			"Noa",
+			"Koyuki",
+			"Himari",
+			"Maki",
+			"Hare",
+			"Kotama",
+			"Chihiro",
+			"Neru",
+			"Asuna",
+			"Karin",
+			"Akane",
+			"Toki",
+			"Eimi",
+			"Utaha",
+			"Hibiki",
+			"Kotori",
+			"Momoi",
+			"Midori",
+			"Yuzu",
+			"Aris",
+			"Sumire"]
+	},
+	{
+		"name": "",
+		"leaderName": "",
+		"adjective": [""],
+		"startBias": [""],
+		"preferredVictoryType": "",
+		
+		"startIntroPart1": "P",
+		"startIntroPart2": "P",
+		
+		"declaringWar": "p",
+		"attacked": "p",
+		"defeated": "p",
+		"introduction": "p",
+		
+		"neutralHello": "p",
+		"hateHello": "p",
+		"afterPeace": "p",
+		"tradeRequest": "p",
+		"denounced": "p",
+		"declaringfriendship": "p",
+
+		"outerColor": [0, 0, 0],
+		"innerColor": [0, 0, 0],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": [
+			"
+		"spyNames": [
+			"
+	},
 ]
