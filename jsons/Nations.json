@@ -116,11 +116,11 @@
 			"Sumire"]
 	},
 	{
-		"name": "",
-		"leaderName": "",
-		"adjective": [""],
-		"startBias": [""],
-		"preferredVictoryType": "",
+		"name": "Trinity",
+		"leaderName": "Nagisa",
+		"adjective": ["Trinity"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "P",
 		"startIntroPart2": "P",
@@ -137,13 +137,47 @@
 		"denounced": "p",
 		"declaringfriendship": "p",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [0, 0, 0],
-		"uniqueName": "",
-		"uniques": [""],
+		"outerColor": [255, 248, 231],
+		"innerColor": [242, 199, 92],
+		"uniqueName": "Perjanjian Eden",
+		"uniques": [
+			"[+100]% [Faith]",
+			"May buy [All] buildings with [Faith] for [2] times their normal Production cost",
+			"Gain a free [Founder] belief",
+			"[Great Prophet] is earned [+100]% faster"]	
 		"cities": [
-			"
+			"Tea Party",
+			"Sisterhood",
+			"Justice Task Force",
+			"Remedial Knights",
+			"Library Committee",
+			"After-School Sweets Club",
+			"Trinity Vigilante Crew",
+			"Make-Up Work Club"],
 		"spyNames": [
-			"
+			"Mika",
+			"Seia",
+			"Sakurako",
+			"Mari",
+			"Hinata",
+			"Tsurugi",
+			"Hasumi",
+			"Mashiro",
+			"Ichika",
+			"Mine",
+			"Hanae",
+			"Serina",
+			"Ui",
+			"Shimiko",
+			"Yoshimi",
+			"Natsu",
+			"Airi",
+			"Kazusa",
+			"Suzumi",
+			"Reisa",
+			"Hifumi",
+			"Azusa",
+			"Koharu",
+			"Hanako"]
 	},
 ]
