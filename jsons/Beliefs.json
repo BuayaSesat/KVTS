@@ -37,7 +37,7 @@
 	{
 		"name": "Terangi Dunia"
 		"type": "Founder"
-		"uniques": ["Reveals the entire map", "[1] Sight"],
+		"uniques": ["Reveals the entire map", "[1] Sight <for [All] units>"],
 	},
 	{
 		"name": "Sumber Daya Strategis"
@@ -52,7 +52,7 @@
 	{
 		"name": "Keajaiban Dunia"
 		"type": "Founder"
-		"uniques": ["[+25]% Production when constructing [Wonders] wonders [in all cities]"],
+		"uniques": ["[+30]% Production when constructing [Wonders] wonders [in all cities]"],
 	},
 	{
 		"name": "Negara Emas 2045"
@@ -62,7 +62,7 @@
 	{
 		"name": "Hacker Jangan Menyerang"
 		"type": "Founder"
-		"uniques": ["[+100]% spy effectiveness [in all cities]", "[-100]% enemy spy effectiveness [in your cities]", "Gain an extra spy"],
+		"uniques": ["[+50]% spy effectiveness [in all cities]", "[-50]% enemy spy effectiveness [in your cities]", "Gain an extra spy"],
 	},
 	{
 		"name": "Bongkar Turret"
@@ -77,7 +77,12 @@
 	{
 		"name": "Mobilitas"
 		"type": "Enhancer"
-		"uniques": ["No movement cost to pillage", "[1] Movement"],
+		"uniques": ["No movement cost to pillage", "[1] Movement <for [All] units"],
+	},
+	{
+		"name": "Mata Elang"
+		"type": "Enhancer"
+		"uniques": ["Ranged attacks may be performed over obstacles", "[1] Range <for [Ranged] units>"],
 	},
 	{
 		"name": "Tembok Ratapan Solo"
