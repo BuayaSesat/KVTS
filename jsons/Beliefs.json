@@ -77,7 +77,7 @@
 	{
 		"name": "Mobilitas"
 		"type": "Enhancer"
-		"uniques": ["No movement cost to pillage", "[1] Movement <for [All] units"],
+		"uniques": ["No movement cost to pillage", "[1] Movement <for [All] units>"],
 	},
 	{
 		"name": "Mata Elang"
