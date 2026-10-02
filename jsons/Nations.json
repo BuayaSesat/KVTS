@@ -148,6 +148,7 @@
 			"[+10]% Strength <vs [Gehenna]>",
 			"[-20]% [Happiness] <upon entering a war with [Gehenna] Civilizations>",
 			"[+20]% [Happiness] <upon signing a peace treaty with [Gehenna] Civilizations",
+			"[+50]% enemy spy effectiveness [in your cities]",
 			"[Great Prophet] is earned [+100]% faster"],
 		"cities": [
 			"Tea Party",
@@ -258,7 +259,9 @@
 		"innerColor": [8, 0, 13],
 		"uniqueName": "Raja Iblis",
 		"uniques": [
-			"
+			"Gain an extra spy",
+			"Great General provides double combat bonus",
+			"[Great General] is earned [+100]% faster]"],
 		"cities": [
 			"Pandemonium Society",
 			"Prefect Team",
