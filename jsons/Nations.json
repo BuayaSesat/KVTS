@@ -4,7 +4,7 @@
 		"leaderName": "Ayane",
 		"adjective": ["Abydos"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Time",
 		
 		"startIntroPart1": "P",
 		"startIntroPart2": "P",
@@ -26,7 +26,7 @@
 		"uniqueName": "Hutang Sekolah",
 		"uniques": [
 			"Gain [-962350] [Gold]",
-			"[+500 Gold] per [1] population [in your cities]",
+			"[+500 Gold] per [1] population [in all cities]",
 			"[+30]% Strength for cities <when attacking>",
 			"[+30]% Strength <vs [Barbarians]>",
 			"Earn [5000]% of killed [Barbarians] unit's [Cost] as [Gold]",
@@ -40,16 +40,13 @@
 			"Masked Swimsuit Gang",
 			"Kata-Kata Helmet Gang",
 			"Kaiser Corporation",
-			"Private Military Company",
-			"Black Market",
-			"Kaiser Bank"],
+			"Private Military Company"],
 		"spyNames": [
 			"Hoshino",
 			"Shiroko",
 			"Serika",
 			"Nonomi",
-			"Faust",
-			"Helmet Gang"]
+			"Faust"]
 	},
 	{
 		"name": "Millenium",
@@ -80,7 +77,7 @@
 			"[-10]% Science cost of researching new Technologies",
 			"Science gained from research agreements [+50]%",
 			"[Great Scientist] is earned [+100]% faster",
-			"[+50]% maintenance costs"],
+			"[+10]% maintenance costs <upon entering a new era>"],
 		"cities": [
 			"Seminar",
 			"Veritas",
@@ -186,5 +183,54 @@
 			"Azusa",
 			"Koharu",
 			"Hanako"]
+	},
+	{
+		"name": "Arius",
+		"leaderName": "Beatrice",
+		"adjective": ["Arius"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "P",
+		"startIntroPart2": "P",
+		
+		"declaringWar": "p",
+		"attacked": "p",
+		"defeated": "p",
+		"introduction": "p",
+		
+		"neutralHello": "p",
+		"hateHello": "p",
+		"afterPeace": "p",
+		"tradeRequest": "p",
+		"denounced": "p",
+		"declaringfriendship": "p",
+
+		"outerColor": [8, 8, 8],
+		"innerColor": [175, 175, 180],
+		"uniqueName": "Semuanya Sia-Sia",
+		"uniques": [
+			"[+100]% unhappiness from the number of cities",
+			"[-5]% [Happiness] per [2] population [in all cities]",
+			"[+5]% [Production] per [2] population [in all cities]",
+			"[+50]% growth [in all cities] <when between [-1] and [-10] [Happiness]",
+			"[+50]% [Production] [in all cities] <when below [-10] [Happiness]>",
+			"[+33]% Strength <for [All] units> <when below [-10] [Happiness]>",
+			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
+			"[+20]% Strength <vs [Trinity]>",
+			"[+20]% Strength <vs [Gehenna]>",
+			"[Great Engineer] is earned [+100]% faster"],
+		"cities": [
+			"Arius Squad",
+			"Nicomedia Troop",
+			"Basilica",
+			"Catacombs",
+			"Former Institute"],
+		"spyNames": [
+			"Saori",
+			"Atsuko",
+			"Misaki",
+			"Hiyori",
+			"Subaru"]
 	},
 ]
