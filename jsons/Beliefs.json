@@ -65,6 +65,11 @@
 		"uniques": ["Gain an extra spy", "[-50]% enemy spy effectiveness [in your cities]"],
 	},
 	{
+		"name": "Warga Saling Lempar Menu MBG"
+		"type": "Enhancer"
+		"uniques": ["[+50]% Strength for cities <when attacking>"],
+	},
+	{
 		"name": "Bongkar Turret"
 		"type": "Enhancer"
 		"uniques": ["[+50]% Strength <vs [City]>"],
@@ -75,6 +80,11 @@
 		"uniques": ["Heals [25] damage if it kills a unit"],
 	},
 	{
+		"name": "Serangan Kritis"
+		"type": "Enhancer"
+		"uniques": ["[1] additional attacks per turn <with [25]% chance>"],
+	},
+	{
 		"name": "Mobilitas"
 		"type": "Enhancer"
 		"uniques": ["[1] Movement <for [All] units>"],
@@ -83,11 +93,6 @@
 		"name": "Penembak Jitu"
 		"type": "Enhancer"
 		"uniques": ["[1] Range <for [Ranged] units>", "Ranged attacks may be performed over obstacles"],
-	},
-	{
-		"name": "Warga Saling Lempar Menu MBG"
-		"type": "Enhancer"
-		"uniques": ["[+50]% Strength for cities <when attacking>"],
 	},
 	{
 		"name": "Seruan Perang"
