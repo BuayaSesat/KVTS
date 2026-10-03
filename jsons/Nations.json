@@ -52,6 +52,7 @@
 		"name": "Millenium",
 		"leaderName": "Rio",
 		"adjective": ["Millenium"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "P",
@@ -149,6 +150,7 @@
 			"[-20]% [Happiness] <upon entering a war with [Gehenna] Civilizations>",
 			"[+20]% [Happiness] <upon signing a peace treaty with [Gehenna] Civilizations",
 			"[+50]% enemy spy effectiveness [in your cities]",
+			"[+20]% Food consumption by [All] [in all cities]",
 			"[Great Prophet] is earned [+100]% faster"],
 		"cities": [
 			"Tea Party",
@@ -217,6 +219,8 @@
 			"[+50]% growth [in all cities] <when between [-1] and [-10] [Happiness]",
 			"[+50]% [Production] [in all cities] <when below [-10] [Happiness]>",
 			"[+33]% Strength <for [All] units> <when below [-10] [Happiness]>",
+			"No damage penalty for wounded units",
+			"May heal outside of friendly territory",
 			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
 			"[+10]% Strength <vs [Trinity]>",
 			"[+10]% Strength <vs [Gehenna]>",
@@ -238,6 +242,7 @@
 		"name": "Gehenna",
 		"leaderName": "Makoto",
 		"adjective": ["Gehenna"],
+		"startBias": ["Avoid [Coast]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "P",
@@ -260,6 +265,11 @@
 		"uniqueName": "Raja Iblis",
 		"uniques": [
 			"Gain an extra spy",
+			"New spies start with [2] level(s)",
+			"[+20]% Production when constructing [Land] units [in all cities]",
+			"[-20]% maintenance costs <for [Land] units>",
+			"[1] additional attacks per turn <for [Melee] units",
+			"Heals [25] damage if it kills a unit",
 			"Great General provides double combat bonus",
 			"[Great General] is earned [+100]% faster]"],
 		"cities": [
