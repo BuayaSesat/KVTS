@@ -37,17 +37,17 @@
 	{
 		"name": "Terangi Dunia"
 		"type": "Founder"
-		"uniques": ["Reveals the entire map", "[1] Sight <for [All] units>"],
+		"uniques": ["[1] Sight <for [All] units>", "Reveals the entire map"],
 	},
 	{
 		"name": "Sumber Daya Strategis"
 		"type": "Founder"
-		"uniques": ["[+100]% [Strategic] resource production"],
+		"uniques": ["[+100]% [Strategic] resource production", "[+100]% [Luxury] resource production"],
 	},
 	{
-		"name": "Preman Klasik"
+		"name": "Penculikan"
 		"type": "Founder"
-		"uniques": ["[+50]% Strength <vs [Barbarians] units>", "[+50]% Strength <vs [City-State]>"],
+		"uniques": ["When defeating a [All] unit, earn [0] Gold and recruit it <with [50]% chance>"],
 	},
 	{
 		"name": "Keajaiban Dunia"
@@ -57,12 +57,12 @@
 	{
 		"name": "Negara Emas 20.45"
 		"type": "Founder"
-		"uniques": ["[+100]% Golden Age length"],
+		"uniques": ["[+100]% Golden Age length", "[+10]% [Production] <during a Golden Age>"],
 	},
 	{
 		"name": "Hacker Jangan Menyerang"
 		"type": "Founder"
-		"uniques": ["[+50]% spy effectiveness [in all cities]", "[-50]% enemy spy effectiveness [in your cities]", "Gain an extra spy"],
+		"uniques": ["Gain an extra spy", "[-50]% enemy spy effectiveness [in your cities]"],
 	},
 	{
 		"name": "Bongkar Turret"
@@ -77,20 +77,20 @@
 	{
 		"name": "Mobilitas"
 		"type": "Enhancer"
-		"uniques": ["No movement cost to pillage", "[1] Movement <for [All] units>"],
+		"uniques": ["[1] Movement <for [All] units>"],
 	},
 	{
-		"name": "Mata Elang"
+		"name": "Penembak Jitu"
 		"type": "Enhancer"
-		"uniques": ["Ranged attacks may be performed over obstacles", "[1] Range <for [Ranged] units>"],
+		"uniques": ["[1] Range <for [Ranged] units>", "Ranged attacks may be performed over obstacles"],
 	},
 	{
-		"name": "Tembok Ratapan Solo"
+		"name": "Warga Saling Lempar Menu MBG"
 		"type": "Enhancer"
-		"uniques": ["[+25]% Strength for cities <when attacking>", "[+25]% Strength for cities <with a garrison> <when attacking>"],
+		"uniques": ["[+50]% Strength for cities <when attacking>"],
 	},
 	{
-		"name": "Pengalaman Minimal 10 Tahun"
+		"name": "Seruan Perang"
 		"type": "Enhancer"
 		"uniques": ["[+100]% XP gained from combat"],
 	},
