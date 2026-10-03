@@ -6,7 +6,7 @@
 		"cost": 100,
 		"gold": 2
 		"percentStatBonus": {"gold": 250},
-		"specialistSlots": {"merchant": 1},
+		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Currency"
 	},
 	{
