@@ -63,6 +63,7 @@
 		"replaces": "Heroic Epic",
 		"uniqueTo": "Gehenna",
 		"cost": 125,
+		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
 			"Only available <if [Barracks] is constructed [in all non-Puppeted cities]",
