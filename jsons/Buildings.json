@@ -1,12 +1,22 @@
 [
 	{
+		"name": "Shiba Seki Ramen",
+		"replaces": "Market",
+		"uniqueTo": "Abydos",
+		"cost": 100,
+		"gold": 2
+		"percentStatBonus": {"gold": 250},
+		"specialistSlots": {"merchant": 1},
+		"requiredTech": "Currency"
+	},
+	{
 		"name": "Kaiser Loan",
 		"replaces": "National Treasury",
 		"uniqueTo": "Abydos",
 		"cost": 125,
 		"isNationalWonder": true,
-		"requiredBuilding": "Market",
-		"uniques": ["Gain [200000] [Gold]"]
+		"requiredBuilding": "Shiba Seki Ramen",
+		"uniques": ["Gain [100000] [Gold]"]
 		"requiredTech": "Guilds"
 	},
 ]
