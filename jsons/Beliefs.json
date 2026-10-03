@@ -40,9 +40,9 @@
 		"uniques": ["[1] Sight <for [All] units>", "Reveals the entire map"],
 	},
 	{
-		"name": "Sumber Daya Strategis"
+		"name": "Sumber Daya Alam"
 		"type": "Founder"
-		"uniques": ["[+100]% [Strategic] resource production", "[+100]% [Luxury] resource production"],
+		"uniques": ["[+100]% [Luxury] resource production", "[+100]% [Strategic] resource production"],
 	},
 	{
 		"name": "Penculikan"
@@ -87,7 +87,7 @@
 	{
 		"name": "Mobilitas"
 		"type": "Enhancer"
-		"uniques": ["[1] Movement <for [All] units>"],
+		"uniques": ["[1] Movement <for [All] units>", "[0] Movement point cost to embark", "[0] Movement point cost to disembark"],
 	},
 	{
 		"name": "Penembak Jitu"
@@ -110,7 +110,7 @@
 		"uniques": ["[+50]% Food consumption by [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
-		"name": "PPN 12%"
+		"name": "Emas 74 KG"
 		"type": "Follower"
 		"uniques": ["[-1 Gold] per [1] population [in all cities] <for [AI player] Civilizations>"],
 	},
