@@ -80,8 +80,95 @@
 		"range": 3,
 		"cost": 665,
 		"uniques": [
-			"
-		"requiredTech": "",
+			"[1] additional attacks per turn <every [2] turn>",
+			"[+4]% Strength bonus for [All] units within [1] tiles <for [20] turns> <every [2] turns>"],
+		"requiredTech": "Scientific Theory",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Yuuka",
+		"unitType": "Armored",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 130,
+		"cost": 650,
+		"uniques": [
+			"[This Unit] heals [10] HP <every [3] turns>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Noa",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 72,
+		"rangedStrength": 28,
+		"range": 2,
+		"cost": 510,
+		"uniques": [
+			"[-2]% Strength for enemy [All] units in adjacent [All] tiles <for [40] turns> <every [3] turns>"],
+		"requiredTech": "Scientific Theory",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Koyuki",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 45,
+		"rangedStrength": 90,
+		"range": 3,
+		"cost": 690,
+		"uniques": [
+			"[1] additional attacks per turn <every [4] turns>",
+			"[+12]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Himari",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 73,
+		"rangedStrength": 57,
+		"range": 3,
+		"cost": 665,
+		"uniques": [
+			"[+6]% Strength bonus for [All] units within [1] tiles <for [13] turns> <every [3] turns>"],
+		"requiredTech": "Scientific Theory",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Maki",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 46,
+		"rangedStrength": 63,
+		"range": 3,
+		"cost": 560,
+		"uniques": [
+			"[+58]% Strength <when attacking> <every [5] turns>",
+			"[+4]% Strength <when attacking> <for [30] turns> <every [5] turns>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Hare",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 56,
+		"rangedStrength": 53,
+		"range": 3,
+		"cost": 560,
+		"uniques": [
+			"[+17]% Strength <when attacking> <every [4] turns>",
+			"
+			"[1] additional attacks per turn <every [4] turns>"],
+		"requiredTech": "Electricity",
+		"attackSound": "bombing"
 	},
 ]
