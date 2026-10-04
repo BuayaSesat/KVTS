@@ -5,8 +5,6 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 115,
-		"rangedStrength": 999,
-		"range": 1,
 		"cost": 575,
 		"uniques": [
 			"[+33]% Strength <when attacking> <every [4] turns>"],
@@ -21,7 +19,7 @@
 		"strength": 54,
 		"rangedStrength": 77,
 		"range": 2,
-		"cost": 655,
+		"cost": 675,
 		"uniques": [
 			"[+30]% Strength <when attacking> <every [2] turns>"],
 		"requiredTech": "Plastics",
@@ -35,7 +33,7 @@
 		"strength": 52,
 		"rangedStrength": 76,
 		"range": 2,
-		"cost": 640,
+		"cost": 660,
 		"uniques": [
 			"[+4]% Strength <when attacking> <for [30] turns> <every [2] turns>"],
 		"requiredTech": "Plastics",
@@ -49,9 +47,10 @@
 		"strength": 45,
 		"rangedStrength": 66,
 		"range": 3,
-		"cost": 555,
+		"cost": 585,
 		"uniques": [
-			""],
+			"[+33]% Strength <when attacking> <every [5] turns>",
+			"
 		"requiredTech": "",
 		"attackSound": ""
 	},
