@@ -4,24 +4,55 @@
 		"unitType": "Armored",
 		"uniqueTo": "Abydos",
 		"movement": 2,
-		"strength": 113,
-		"cost": 559,
+		"strength": 115,
+		"rangedStrength": 999,
+		"range": 1,
+		"cost": 575,
 		"uniques": [
-			"[+43]% Strength <when attacking> <every [4] turns>",
-			"[This Unit] heals [5] HP <for [20] turns> <when below [30] HP> <once>"],
+			"[+33]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
 	{
 		"name": "Shiroko",
-		"unitType": "Gunpowder",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Abydos",
 		"movement": 2,
-		"strength": 57,
-		"rangedStrength": 63
-		"range": 2
-		"cost": 600
+		"strength": 54,
+		"rangedStrength": 77,
+		"range": 2,
+		"cost": 655,
+		"uniques": [
+			"[+30]% Strength <when attacking> <every [2] turns>"],
 		"requiredTech": "Plastics",
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Serika",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Abydos",
+		"movement": 2,
+		"strength": 52,
+		"rangedStrength": 76,
+		"range": 2,
+		"cost": 640,
+		"uniques": [
+			"[+4]% Strength <when attacking> <for [30] turns> <every [2] turns>],
+		"requiredTech": "Plastics",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Nonomi",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Abydos",
+		"movement": 2,
+		"strength": 45,
+		"rangedStrength": 66,
+		"range": 3,
+		"cost": 555,
+		"uniques": [
+			"
+		"requiredTech": "",
+		"attackSound": ""
 	},
 ]
