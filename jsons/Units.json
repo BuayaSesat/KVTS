@@ -37,7 +37,7 @@
 		"range": 2,
 		"cost": 640,
 		"uniques": [
-			"[+4]% Strength <when attacking> <for [30] turns> <every [2] turns>],
+			"[+4]% Strength <when attacking> <for [30] turns> <every [2] turns>"],
 		"requiredTech": "Plastics",
 		"attackSound": "machinegun"
 	},
@@ -51,7 +51,7 @@
 		"range": 3,
 		"cost": 555,
 		"uniques": [
-			"
+			""],
 		"requiredTech": "",
 		"attackSound": ""
 	},
