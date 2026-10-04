@@ -4,24 +4,24 @@
 		"unitType": "Armored",
 		"uniqueTo": "Abydos",
 		"movement": 2,
-		"strength": 111,
-		"cost": 555,
+		"strength": 113,
+		"cost": 559,
 		"uniques": [
 			"[+43]% Strength <when attacking> <every [4] turns>",
 			"[This Unit] heals [5] HP <for [20] turns> <when below [30] HP> <once>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "Phasers"
+		"attackSound": "shot"
 	},
 	{
-		"name": "",
-		"unitType": "",
-		"uniqueTo": "",
-		"movement": 
-		"strength": 
-		"rangedStrength": 
-		"range": 
-		"cost": 
-		"requiredTech": "",
-		"attackSound": ""
+		"name": "Shiroko",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Abydos",
+		"movement": 2,
+		"strength": 57,
+		"rangedStrength": 63
+		"range": 2
+		"cost": 600
+		"requiredTech": "Plastics",
+		"attackSound": "machinegun"
 	},
 ]
