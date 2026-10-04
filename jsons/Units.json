@@ -24,7 +24,7 @@
 		"uniques": [
 			"[+33]% Strength <when attacking> <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>"],
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Metallurgy",
 		"attackSound": "shot"
 	},
 	{
@@ -38,7 +38,7 @@
 		"cost": 675,
 		"uniques": [
 			"[+30]% Strength <when attacking> <every [2] turns>"],
-		"requiredTech": "Plastics",
+		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
 	},
 	{
@@ -52,7 +52,7 @@
 		"cost": 660,
 		"uniques": [
 			"[+4]% Strength <when attacking> <for [30] turns> <every [2] turns>"],
-		"requiredTech": "Plastics",
+		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
 	},
 	{
@@ -69,19 +69,5 @@
 			"[1] additional attacks per turn <every [5] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
-	},
-	{
-		"name": "Rio",
-		"unitType": "",
-		"uniqueTo": "",
-		"movement": ,
-		"strength": ,
-		"rangedStrength": ,
-		"range": ,
-		"cost": ,
-		"uniques": [
-			"
-		"requiredTech": "",
-		"attackSound": ""
 	},
 ]
