@@ -1,9 +1,9 @@
-Images/NationIcons/Abydos.png
+Images/NationIcons/Millennium.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Abydos
+NationIcons/Millennium
   rotate: false
   xy: 0, 0
   size: 100, 91
