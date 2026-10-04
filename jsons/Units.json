@@ -7,7 +7,7 @@
 		"strength": 52,
 		"rangedStrength": 27,
 		"range": 3,
-		"cost": 425,
+		"cost": 410,
 		"uniques": [
 			"All adjacent units heal [12] HP when healing <every [4] turns>",
 			"Can see over obstacles"],
@@ -35,7 +35,7 @@
 		"strength": 54,
 		"rangedStrength": 77,
 		"range": 2,
-		"cost": 675,
+		"cost": 665,
 		"uniques": [
 			"[+30]% Strength <when attacking> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
@@ -49,7 +49,7 @@
 		"strength": 52,
 		"rangedStrength": 76,
 		"range": 2,
-		"cost": 660,
+		"cost": 650,
 		"uniques": [
 			"[+4]% Strength <when attacking> <for [30] turns> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
@@ -63,11 +63,25 @@
 		"strength": 45,
 		"rangedStrength": 66,
 		"range": 3,
-		"cost": 585,
+		"cost": 570,
 		"uniques": [
 			"[+33]% Strength <when attacking> <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Rio",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 72,
+		"rangedStrength": 58,
+		"range": 3,
+		"cost": 665,
+		"uniques": [
+			"
+		"requiredTech": "",
+		"attackSound": "shot"
 	},
 ]
