@@ -1,5 +1,20 @@
 [
 	{
+		"name": "Ayane",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Abydos",
+		"movement": 2,
+		"strength": 52,
+		"rangedStrength": 27,
+		"range": 3,
+		"cost": 425,
+		"uniques": [
+			"All adjacent units heal [12] HP when healing <every [4] turns>",
+			"Can see over obstacles"],
+		"requiredTech": "Biology",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Hoshino",
 		"unitType": "Armored",
 		"uniqueTo": "Abydos",
@@ -7,7 +22,8 @@
 		"strength": 115,
 		"cost": 575,
 		"uniques": [
-			"[+33]% Strength <when attacking> <every [4] turns>"],
+			"[+33]% Strength <when attacking> <every [4] turns>",
+			"[1] additional attacks per turn <every [4] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
@@ -50,8 +66,22 @@
 		"cost": 585,
 		"uniques": [
 			"[+33]% Strength <when attacking> <every [5] turns>",
-			"Blast radius [1] <every [5] turns>"],
+			"[1] additional attacks per turn <every [5] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
-	}
+	},
+	{
+		"name": "",
+		"unitType": "",
+		"uniqueTo": "",
+		"movement": ,
+		"strength": ,
+		"rangedStrength": ,
+		"range": ,
+		"cost": ,
+		"uniques": [
+			"
+		"requiredTech": "",
+		"attackSound": ""
+	},
 ]
