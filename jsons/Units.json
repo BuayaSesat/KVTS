@@ -7,9 +7,21 @@
 		"strength": 111,
 		"cost": 555,
 		"uniques": [
-			"[+43]% Strength <when attacking> <with [30]% chance>",
+			"[+43]% Strength <when attacking> <every [4] turns>",
 			"[This Unit] heals [5] HP <for [20] turns> <when below [30] HP> <once>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "Phasers"
-	}
+	},
+	{
+		"name": "",
+		"unitType": "",
+		"uniqueTo": "",
+		"movement": 
+		"strength": 
+		"rangedStrength": 
+		"range": 
+		"cost": 
+		"requiredTech": "",
+		"attackSound": ""
+	},
 ]
