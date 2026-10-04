@@ -1,74 +1,9 @@
-Images/NationIcons/Abydos.png
-size: 512, 128
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Abydos
-  rotate: false
-  xy: 0, 0
-  size: 100, 91
-  orig: 100, 91
-  offset: 0, -10
-  index: -1
-
-Images/NationIcons/Millenium.png
-size: 512, 128
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Millenium
-  rotate: false
-  xy: 0, 0
-  size: 100, 91
-  orig: 100, 91
-  offset: 0, 0
-  index: -1
-
-Images/NationIcons/Trinity.png
-size: 512, 128
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Trinity
-  rotate: false
-  xy: 0, 0
-  size: 100, 91
-  orig: 100, 91
-  offset: 0, 0
-  index: -1
-
-Images/NationIcons/Arius.png
-size: 512, 128
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Arius
-  rotate: false
-  xy: 0, 0
-  size: 100, 91
-  orig: 100, 91
-  offset: 0, 0
-  index: -1
-
-Images/NationIcons/Gehenna.png
-size: 512, 128
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationIcons/Gehenna
-  rotate: false
-  xy: 0, 0
-  size: 100, 91
-  orig: 100, 91
-  offset: 0, 0
-  index: -1
-
 Images/UnitIcons/Hoshino.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Hoshino
+NationIcons/Hoshino
   rotate: false
   xy: 0, 0
   size: 100, 100
