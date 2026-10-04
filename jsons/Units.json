@@ -50,8 +50,8 @@
 		"cost": 585,
 		"uniques": [
 			"[+33]% Strength <when attacking> <every [5] turns>",
-			"
-		"requiredTech": "",
-		"attackSound": ""
-	},
+			"Blast radius [1] <every [5] turns>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "machinegun"
+	}
 ]
