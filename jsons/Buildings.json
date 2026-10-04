@@ -17,7 +17,7 @@
 	{
 		"name": "Eridu",
 		"replaces": "National College",
-		"uniqueTo": "Millenium",
+		"uniqueTo": "Millennium",
 		"cost": 125,
 		"science": 6,
 		"culture": 1,
@@ -27,7 +27,7 @@
 			"Only available <if [Library] is constructed in all [non-Puppeted] cities>",
 			"Cost increases by [30] per owned city",
 			"Free Technology"],
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Philosophy"
 	},
 	{
 		"name": "Katedral",
