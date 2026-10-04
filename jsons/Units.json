@@ -1,15 +1,15 @@
 [
 	{
 		"name": "Hoshino",
-		"unitType": "Melee",
+		"unitType": "Armored",
 		"uniqueTo": "Abydos",
-		"replaces": "",
-		"movement": 
-		"strength": 
-		"rangedStrength": 
-		"range": 
-		"cost": 
-		"requiredTech": "",
-		"attackSound": ""
-	},
+		"movement": 2,
+		"strength": 111,
+		"cost": 555,
+		"uniques": [
+			"[+43]% Strength <when attacking> <with [30]% chance>",
+			"[This Unit] heals [5] HP <for [20] turns> <when below [30] HP> <once>"],
+		"requiredTech": "Gunpowder",
+		"attackSound": "Phasers"
+	}
 ]
