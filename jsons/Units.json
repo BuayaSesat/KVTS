@@ -9,8 +9,7 @@
 		"range": 3,
 		"cost": 410,
 		"uniques": [
-			"All adjacent units heal [12] HP when healing <every [4] turns>",
-			"Can see over obstacles"],
+			"All adjacent units heal [12] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
 		"attackSound": "shot"
 	},
@@ -166,9 +165,36 @@
 		"cost": 560,
 		"uniques": [
 			"[+17]% Strength <when attacking> <every [4] turns>",
-			"
 			"[1] additional attacks per turn <every [4] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "bombing"
+	},
+	{
+		"name": "Kotama",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 49,
+		"rangedStrength": 28,
+		"range": 3,
+		"cost": 400,
+		"uniques": [
+			"[+2]% Strength bonus for [All] units wihtin [2] tiles <for [30] turns> <every [3] turns>"],
+		"requiredTech": "Scientific Theory",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Chihiro",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 55,
+		"rangedStrength": 64,
+		"range": 3,
+		"cost": 610,
+		"uniques": [
+			"[+16]% Strength <when attacking> <every [3] turns>"],
+		"requiredTech": "Metallurgy",
+		"attackSound": "machinegun"
 	},
 ]
