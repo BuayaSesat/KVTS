@@ -224,7 +224,7 @@
 		"uniques": [
 			"Withdraws before melee combat <with [43]% chance>",
 			"[+9]% Strength <every [2] turns>"],
-		"requiredTech": "Metallury",
+		"requiredTech": "Metallurgy",
 		"attackSound": "machinegun"
 	},
 	{
