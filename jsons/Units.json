@@ -22,6 +22,7 @@
 		"cost": 575,
 		"uniques": [
 			"[+33]% Strength <when attacking> <every [4] turns>",
+			"[-999]% Strength <for [Non-City] units>",
 			"[1] additional attacks per turn <every [4] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
