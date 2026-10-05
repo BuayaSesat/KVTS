@@ -21,8 +21,8 @@
 		"strength": 115,
 		"cost": 580,
 		"uniques": [
-			"[+23]% Strength <when attacking> <every [4] turns>",
-			"[1] additional attacks per turn <every [4] turns>"],
+			"[1] additional attacks per turn <every [4] turns>",
+			"[+23]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
@@ -50,8 +50,8 @@
 		"range": 2,
 		"cost": 650,
 		"uniques": [
-			"[+12]% Strength <every [2] turns>",
-			"Can move after attacking <every [2] turns>"],
+			"Can move after attacking <every [2] turns>",
+			"[+14]% Strength <when attacking> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "machinegun"
 	},
@@ -65,8 +65,8 @@
 		"range": 3,
 		"cost": 570,
 		"uniques": [
-			"[+23]% Strength <when attacking> <every [5] turns>",
-			"[1] additional attacks per turn <every [5] turns>"],
+			"[1] additional attacks per turn <every [5] turns>",
+			"[+23]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
 	},
@@ -82,7 +82,7 @@
 		"uniques": [
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
-			"[+8]% Strength bonus for [All] units within [1] tiles <every [2] turns>"],
+			"[+10]% Strength bonus for [All] units within [1] tiles <every [2] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shot"
 	},
@@ -94,7 +94,7 @@
 		"strength": 130,
 		"cost": 655,
 		"uniques": [
-			"[This Unit] heals [10] HP <every [3] turns>"],
+			"[+21]% Strength <when defending> <every [3] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
 	},
@@ -108,7 +108,7 @@
 		"range": 2,
 		"cost": 510,
 		"uniques": [
-			"[-8]% Strength for enemy [All] units in adjacent [All] tiles <every [3] turns>"],
+			"[-11]% Strength for enemy [All] units in adjacent [All] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shot"
 	},
@@ -137,7 +137,7 @@
 		"range": 3,
 		"cost": 665,
 		"uniques": [
-			"[+8]% Strength bonus for [All] units within [1] tiles <every [3] turns>"],
+			"[+13]% Strength bonus for [All] units within [1] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shot"
 	},
@@ -151,8 +151,7 @@
 		"range": 3,
 		"cost": 560,
 		"uniques": [
-			"[+58]% Strength <when attacking> <every [5] turns>",
-			"[+12]% Strength <every [5] turns>"],
+			"[+75]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
 	},
@@ -166,9 +165,9 @@
 		"range": 3,
 		"cost": 560,
 		"uniques": [
+			"[1] additional attacks per turn <every [4] turns>",
 			"[+7]% Strength <when attacking> <every [4] turns>",
-			"[-3]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>",
-			"[1] additional attacks per turn <every [4] turns>"],
+			"[-4]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "bombing"
 	},
@@ -182,7 +181,7 @@
 		"range": 3,
 		"cost": 400,
 		"uniques": [
-			"[+2]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
+			"[+10]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shot"
 	},
@@ -197,7 +196,7 @@
 		"cost": 610,
 		"uniques": [
 			"[+16]% Strength <when attacking> <every [3] turns>",
-			"[-6]% Strength for enemy [Armored] units in adjacent [All] tiles <every [3] turns>"],
+			"[-7]% Strength for enemy [Armored] units in adjacent [All] tiles <every [3] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "machinegun"
 	},
@@ -223,8 +222,8 @@
 		"range": 2,
 		"cost": 605,
 		"uniques": [
-			"Withdraws before melee combat <with [43]% chance>",
-			"[+9]% Strength <every [2] turns>"],
+			"[+12]% Strength <when attacking> <every [2] turns>",
+			"Withdraws before melee combat <with [43]% chance> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "machinegun"
 	},
@@ -254,7 +253,7 @@
 		"cost": 455,
 		"uniques": [
 			"[+45]% Strength <when attacking> <every [2] turns>",
-			"[-9]% Strength for enemy [All] units in adjacent [All] tiles <every [2] turns>"],
+			"[-12]% Strength for enemy [All] units in adjacent [All] tiles <every [2] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
@@ -269,7 +268,7 @@
 		"cost": 615,
 		"uniques": [
 			"[+27]% Strength <when attacking> <every [2] turns>",
-			"Withdraws before melee combat <with [12]% chance>"],
+			"Withdraws before melee combat <with [12]% chance> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "machinegun"
 	},
@@ -281,7 +280,7 @@
 		"strength": 131,
 		"cost": 660,
 		"uniques": [
-			"[This Unit] heals [10] HP <every [4] turns>"],
+			"[This Unit] heals [15] HP <every [4] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
@@ -295,7 +294,7 @@
 		"range": 3,
 		"cost": 565,
 		"uniques": [
-			"[+24]% Strength <when attacking> <every [4] turns>"],
+			"[+33]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "shipguns"
 	},
@@ -309,8 +308,8 @@
 		"range": 3,
 		"cost": 565,
 		"uniques": [
-			"[5] additional attacks per turn <every [4] turns>",
-			"[-29]% Strength <when attacking> <every [4] turns>"],
+			"[4] additional attacks per turn <every [4] turns>",
+			"[-19]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Dynamite",
 		"attackSound": "artillery"
 	},
@@ -325,7 +324,7 @@
 		"cost": 430,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
-			"All adjacent units heal [13] HP when healing <every [4] turns>"],
+			"[+14]% Strength bonus for [All] units within [2] tiles <every [4] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
 	},
@@ -354,8 +353,8 @@
 		"range": 3,
 		"cost": 725,
 		"uniques": [
-			"[5] additional attacks per turn <every [3] turns>",
-			"[-48]% Strength <when attacking> <every [3] turns>"],
+			"[4] additional attacks per turn <every [3] turns>",
+			"[-38]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Rifling",
 		"attackSound": "shot"
 	},
@@ -369,8 +368,8 @@
 		"range": 2,
 		"cost": 670,
 		"uniques": [
-			"[+11]% Strength <when attacking> <every [4] turns>",
-			"[1] additional attacks per turn <every [4] turns>"],
+			"[1] additional attacks per turn <every [4] turns>",
+			"[+11]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Dynamite",
 		"attackSound": "bombing"
 	},
@@ -384,8 +383,8 @@
 		"range": 3,
 		"cost": 765,
 		"uniques": [
-			"[+11]% Strength <when attacking> <every [6] turns>",
-			"[1] additional attacks per turn <every [6] turns>"],
+			"[1] additional attacks per turn <every [6] turns>",
+			"[+11]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "nuke"
 	},
@@ -414,7 +413,7 @@
 		"uniques": [
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+28]% Strength <when attacking> <every [3] turns>",
-			"[-3]% Strength for enemy [All] units in adjacent [All] tiles <vs [Ranged Gunpowder] units> <every [3] turns>"],
+			"[-8]% Strength for enemy [All] units in adjacent [All] tiles <vs [Ranged Gunpowder] units> <every [3] turns>"],
 		"requiredTech": "Military Science",
 		"attackSound": "bombing"
 	},
@@ -442,7 +441,7 @@
 		"cost": 480,
 		"uniques": [
 			"[+5]% Strength bonus for [All] units within [1] tiles <every [3] turns>",
-			"[This Unit] heals [4] HP <every [3] turns>"],
+			"[This Unit] heals [9] HP <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shot"
 	},
@@ -456,8 +455,140 @@
 		"range": 2,
 		"cost": 625,
 		"uniques": [
-			""],
-		"requiredTech": "Industrialization",
+			"[+33]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Metallurgy",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Mari",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 63,
+		"rangedStrength": 35,
+		"range": 3,
+		"cost": 505,
+		"uniques": [
+			"[+13]% Strength bonus for [All] units within [1] tiles <every [2] turns>"],
+		"requiredTech": "Acoustics",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Hinata",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 55,
+		"rangedStrength": 67,
+		"range": 2,
+		"cost": 620,
+		"uniques": [
+			"[4] additional attacks per turn <every [6] turns>",
+			"[-25]% Strength <when attacking> <every [6] turns>"],
+		"requiredTech": "Gunpowder",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Tsurugi",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 84,
+		"cost": 425,
+		"uniques": [
+			"[1] Movement <every [3] turns>",
+			"[1] additional attacks per turn <every [3] turns>",
+			"[-1]% Strength <when attacking> <every [3] turns>"],
+		"requiredTech": "Gunpowder",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Hasumi",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 43,
+		"rangedStrength": 83,
+		"range": 3,
+		"cost": 645,
+		"uniques": [
+			"[+47]% Strength <when attacking> <every [5] turns>"],
+		"requiredTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Mashiro",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 45,
+		"rangedStrength": 78,
+		"range": 3,
+		"cost": 630,
+		"uniques": [
+			"[+31]% Strength <when attacking> <every [3] turns>",
+			"[+62]% Strength <when attacking> <with [50]% chance> <every [3] turns>"],
+		"requiredTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Ichika",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 53,
+		"rangedStrength": 72,
+		"range": 2,
+		"cost": 635,
+		"uniques": [
+			"[1] additional attacks per turn <every [6] turns>",
+			"[+52]% Strength <when attacking> <every [6] turns>"],
+		"requiredTech": "Metallurgy",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Mine",
+		"unitType": "Armored",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 111,
+		"cost": 560,
+		"uniques": [
+			"May Paradrop to [All] tiles up to [4] tiles away <every [4] turns>",
+			"[1] additional attacks per turn <every [4] turns>",
+			"[-7]% Strength <when attacking> <every [4] turns>",
+			"[-3]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>",
+			"[-5]% Strength for enemy [Gunpowder] units in adjacent [All] tiles <every [4] turns>"],
+		"requiredTech": "Gunpowder",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Hanae",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 48,
+		"rangedStrength": 39,
+		"range": 3,
+		"cost": 450,
+		"uniques": [
+			"All adjacent units heal [19] HP when healing <every [4] turns>"],
+		"requiredTech": "Biology",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Serina",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 48,
+		"rangedStrength": 38,
+		"range": 3,
+		"cost": 445,
+		"uniques": [
+			"[1] Movement <every [2] turns>",
+			"All adjacent units heal [12] HP when healing <every [2] turns>"],
+		"requiredTech": "Biology",
 		"attackSound": "machinegun"
 	},
 ]
