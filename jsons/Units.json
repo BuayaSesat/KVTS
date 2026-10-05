@@ -355,7 +355,7 @@
 		"cost": 725,
 		"uniques": [
 			"[5] additional attacks per turn <every [3] turns>",
-			"[-40]% Strength <when attacking> <every [3] turns>"],
+			"[-48]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Rifling",
 		"attackSound": "shot"
 	},
@@ -375,17 +375,31 @@
 		"attackSound": "bombing"
 	},
 	{
-		"name": "",
-		"unitType": "",
-		"uniqueTo": "",
-		"movement": ,
-		"strength": ,
-		"rangedStrength": ,
-		"range": ,
-		"cost": ,
+		"name": "Aris",
+		"unitType": "Siege",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 37,
+		"rangedStrength": 113,
+		"range": 3,
+		"cost": 765,
 		"uniques": [
-			"
-		"requiredTech": "",
-		"attackSound": ""
+			"[+11]% Strength <when attacking> <every [6] turns>",
+			"[1] additional attacks per turn <every [6] turns>"],
+		"requiredTech": "Electricity",
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sumire",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 77,
+		"cost": 385,
+		"uniques": [
+			"[1] additional attacks per turn <every [3] turns>",
+			"[+54]% Strength <when attacking> <every [3] turns>"],
+		"requiredTech": "Gunpowder",
+		"attackSound": "shot"
 	},
 ]
