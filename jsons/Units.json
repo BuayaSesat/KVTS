@@ -7,7 +7,7 @@
 		"strength": 52,
 		"rangedStrength": 27,
 		"range": 3,
-		"cost": 426,
+		"cost": 507,
 		"uniques": [
 			"All adjacent units heal [13] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
@@ -19,7 +19,7 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 115,
-		"cost": 621,
+		"cost": 734,
 		"uniques": [
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+23]% Strength <when attacking> <every [4] turns>"],
@@ -48,7 +48,7 @@
 		"strength": 52,
 		"rangedStrength": 76,
 		"range": 2,
-		"cost": 710,
+		"cost": 735,
 		"uniques": [
 			"Can move after attacking <every [2] turns>",
 			"[+14]% Strength <when attacking> <every [2] turns>"],
@@ -63,7 +63,7 @@
 		"strength": 45,
 		"rangedStrength": 66,
 		"range": 3,
-		"cost": 603,
+		"cost": 693,
 		"uniques": [
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+23]% Strength <when attacking> <every [5] turns>"],
@@ -78,7 +78,7 @@
 		"strength": 72,
 		"rangedStrength": 58,
 		"range": 3,
-		"cost": 665,
+		"cost": 1040,
 		"uniques": [
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
@@ -92,7 +92,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 130,
-		"cost": 655,
+		"cost": 690,
 		"uniques": [
 			"[+21]% Strength <when defending> <every [3] turns>"],
 		"requiredTech": "Industrialization",
@@ -106,7 +106,7 @@
 		"strength": 72,
 		"rangedStrength": 28,
 		"range": 2,
-		"cost": 510,
+		"cost": 620,
 		"uniques": [
 			"[-11]% Strength for enemy [All] units in adjacent [All] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -120,7 +120,7 @@
 		"strength": 45,
 		"rangedStrength": 90,
 		"range": 3,
-		"cost": 690,
+		"cost": 817,
 		"uniques": [
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+2]% Strength <when attacking> <every [4] turns>"],
@@ -135,7 +135,7 @@
 		"strength": 73,
 		"rangedStrength": 57,
 		"range": 3,
-		"cost": 665,
+		"cost": 795,
 		"uniques": [
 			"[+13]% Strength bonus for [All] units within [1] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -149,7 +149,7 @@
 		"strength": 46,
 		"rangedStrength": 63,
 		"range": 3,
-		"cost": 560,
+		"cost": 635,
 		"uniques": [
 			"[+75]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Industrialization",
@@ -163,7 +163,7 @@
 		"strength": 56,
 		"rangedStrength": 53,
 		"range": 3,
-		"cost": 560,
+		"cost": 724,
 		"uniques": [
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+7]% Strength <when attacking> <every [4] turns>",
@@ -179,7 +179,7 @@
 		"strength": 49,
 		"rangedStrength": 28,
 		"range": 3,
-		"cost": 400,
+		"cost": 700,
 		"uniques": [
 			"[+10]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -193,7 +193,7 @@
 		"strength": 55,
 		"rangedStrength": 64,
 		"range": 3,
-		"cost": 610,
+		"cost": 707,
 		"uniques": [
 			"[+16]% Strength <when attacking> <every [3] turns>",
 			"[-7]% Strength for enemy [Armored] units in adjacent [All] tiles <every [3] turns>"],
@@ -206,7 +206,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 81,
-		"cost": 410,
+		"cost": 505,
 		"uniques": [
 			"[+38]% Strength <when attacking> <every [2] turns>"],
 		"requiredTech": "Industrialization",
@@ -220,7 +220,7 @@
 		"strength": 52,
 		"rangedStrength": 67,
 		"range": 2,
-		"cost": 605,
+		"cost": 656,
 		"uniques": [
 			"[+12]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [43]% chance> <every [2] turns>"],
@@ -235,7 +235,7 @@
 		"strength": 41,
 		"rangedStrength": 77,
 		"range": 3,
-		"cost": 605,
+		"cost": 739,
 		"uniques": [
 			"[+59]% Strength <when attacking> <every [4] turns>",
 			"[+48]% Strength <when attacking> <vs [Armored] units> <every [4] turns>"],
@@ -250,7 +250,7 @@
 		"strength": 60,
 		"rangedStrength": 29,
 		"range": 2,
-		"cost": 455,
+		"cost": 747,
 		"uniques": [
 			"[+45]% Strength <when attacking> <every [2] turns>",
 			"[-12]% Strength for enemy [All] units in adjacent [All] tiles <every [2] turns>"],
@@ -265,7 +265,7 @@
 		"strength": 53,
 		"rangedStrength": 68,
 		"range": 2,
-		"cost": 615,
+		"cost": 688,
 		"uniques": [
 			"[+27]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [12]% chance> <every [2] turns>"],
@@ -278,7 +278,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 131,
-		"cost": 660,
+		"cost": 679,
 		"uniques": [
 			"[This Unit] heals [15] HP <every [4] turns>"],
 		"requiredTech": "Gunpowder",
@@ -292,7 +292,7 @@
 		"strength": 50,
 		"rangedStrength": 60,
 		"range": 3,
-		"cost": 565,
+		"cost": 606,
 		"uniques": [
 			"[+33]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Industrialization",
@@ -306,7 +306,7 @@
 		"strength": 43,
 		"rangedStrength": 67,
 		"range": 3,
-		"cost": 565,
+		"cost": 1041,
 		"uniques": [
 			"[4] additional attacks per turn <every [4] turns>",
 			"[-19]% Strength <when attacking> <every [4] turns>"],
@@ -321,7 +321,7 @@
 		"strength": 46,
 		"rangedStrength": 37,
 		"range": 3,
-		"cost": 430,
+		"cost": 537,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[+14]% Strength bonus for [All] units within [2] tiles <every [4] turns>"],
@@ -336,7 +336,7 @@
 		"strength": 60,
 		"rangedStrength": 53,
 		"range": 2,
-		"cost": 575,
+		"cost": 765,
 		"uniques": [
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+14]% Strength <when attacking> <every [3] turns>"],
@@ -351,7 +351,7 @@
 		"strength": 43,
 		"rangedStrength": 99,
 		"range": 3,
-		"cost": 725,
+		"cost": 1328,
 		"uniques": [
 			"[4] additional attacks per turn <every [3] turns>",
 			"[-38]% Strength <when attacking> <every [3] turns>"],
@@ -366,7 +366,7 @@
 		"strength": 47,
 		"rangedStrength": 85,
 		"range": 2,
-		"cost": 670,
+		"cost": 809,
 		"uniques": [
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+11]% Strength <when attacking> <every [4] turns>"],
@@ -381,7 +381,7 @@
 		"strength": 37,
 		"rangedStrength": 113,
 		"range": 3,
-		"cost": 765,
+		"cost": 857,
 		"uniques": [
 			"[1] additional attacks per turn <every [6] turns>",
 			"[+11]% Strength <when attacking> <every [6] turns>"],
@@ -394,7 +394,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 77,
-		"cost": 390,
+		"cost": 647,
 		"uniques": [
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+54]% Strength <when attacking> <every [3] turns>"],
