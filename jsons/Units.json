@@ -80,7 +80,7 @@
 		"range": 3,
 		"cost": 665,
 		"uniques": [
-			"[1] additional attacks per turn <every [2] turn>",
+			"[1] additional attacks per turn <every [2] turns>",
 			"[+4]% Strength bonus for [All] units within [1] tiles <for [20] turns> <every [2] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shot"
@@ -180,7 +180,7 @@
 		"range": 3,
 		"cost": 400,
 		"uniques": [
-			"[+2]% Strength bonus for [All] units wihtin [2] tiles <for [30] turns> <every [3] turns>"],
+			"[+2]% Strength bonus for [All] units within [2] tiles <for [30] turns> <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shot"
 	},
