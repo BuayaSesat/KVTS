@@ -485,7 +485,7 @@
 		"uniques": [
 			"[4] additional attacks per turn <every [6] turns>",
 			"[-25]% Strength <when attacking> <every [6] turns>"],
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Metallurgy",
 		"attackSound": "shot"
 	},
 	{
@@ -559,7 +559,7 @@
 			"[-7]% Strength <when attacking> <every [4] turns>",
 			"[-3]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>",
 			"[-5]% Strength for enemy [Gunpowder] units in adjacent [All] tiles <every [4] turns>"],
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Biology",
 		"attackSound": "shot"
 	},
 	{
@@ -588,6 +588,183 @@
 		"uniques": [
 			"[1] Movement <every [2] turns>",
 			"All adjacent units heal [12] HP when healing <every [2] turns>"],
+		"requiredTech": "Biology",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Ui",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 37,
+		"rangedStrength": 68,
+		"range": 3,
+		"cost": 540,
+		"uniques": [
+			"[+16]% Strength bonus for [All] units within [1] tiles <every [5] turns>"],
+		"requiredTech": "Scientific Theory",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Shimiko",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 42,
+		"range": 3,
+		"cost": 475,
+		"uniques": [
+			"[+7]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
+		"requiredTech": "Scientific Theory",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Yoshimi",
+		"unitType": "Siege",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 44,
+		"rangedStrength": 66,
+		"range": 3,
+		"cost": 565,
+		"uniques": [
+			"[1] additional attacks per turn <every [4] turns>",
+			"[+2]% Strength <when attacking> <every [4] turns>",
+			"[-3]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>"],
+		"requiredTech": "Dynamite",
+		"attackSound": "missile"
+	},
+	{
+		"name": "Natsu",
+		"unitType": "Armored",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 105,
+		"cost": 530,
+		"uniques": [
+			"[This Unit] heals [10] HP <every [3] turns>"],
+		"requiredTech": "Fertilizer",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Airi",
+		"unitType": "Siege",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 51,
+		"rangedStrength": 36,
+		"range": 3,
+		"cost": 435,
+		"uniques": [
+			"[1] additional attacks per turn <every [5] turns>",
+			"[+6]% Strength <when attacking> <every [5] turns>",
+			"[-2]% Strength for enemy [All] units in adjacent [All] tiles <every [5] turns>"],
+		"requiredTech": "Fertilizer",
+		"attackSound": "throw"
+	},
+	{
+		"name": "Kazusa",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 46,
+		"rangedStrength": 64,
+		"range": 3,
+		"cost": 565,
+		"uniques": [
+			"Can move after attacking <every [4] turns>",
+			"[+83]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Fertilizer",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Suzumi",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 52,
+		"rangedStrength": 44,
+		"range": 2,
+		"cost": 490,
+		"uniques": [
+			"[1] additional attacks per turn <every [4] turns>",
+			"[+19]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Reisa",
+		"unitType": "Armored",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 108,
+		"cost": 545,
+		"uniques": [
+			"[1] additional attacks per turn <every [3] turns>",
+			"[+17]% Strength <when attacking> <every [3] turns>"],
+		"requiredTech": "Gunpowder",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Hifumi",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 55,
+		"rangedStrength": 51,
+		"range": 2,
+		"cost": 540,
+		"uniques": [
+			"May Paradrop to [All] tiles up to [3] tiles away <every [5] turns>",
+			"[1] additional attacks per turn <every [5] turns>",
+			"[+10]% Strength <when attacking> <every [5] turns>",
+			"[+16]% Strength <when defending> <every [5] turns>",
+			"[-4]% Strength for enemy [All] units in adjacent [All] tiles <every [5] turns>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Azusa",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 53,
+		"rangedStrength": 60,
+		"range": 2,
+		"cost": 575,
+		"uniques": [
+			"[+96]% Strength <when attacking> <every [5] turns>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Koharu",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 40,
+		"rangedStrength": 57,
+		"range": 3,
+		"cost": 500,
+		"uniques": [
+			"[1] additional attacks per turn <every [3] turns>",
+			"[+3]% Strength <when attacking> <every [3] turns>",
+			"All adjacent units heal [11] HP when healing <every [3] turns>"],
+		"requiredTech": "Scientific Theory",
+		"attackSound": "throw"
+	},
+	{
+		"name": "Hanako",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 49,
+		"rangedStrength": 40,
+		"range": 3,
+		"cost": 460,
+		"uniques": [
+			"All adjacent units heal [25] HP when healing <every [5] turns>"],
 		"requiredTech": "Biology",
 		"attackSound": "machinegun"
 	},
