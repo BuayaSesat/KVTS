@@ -809,4 +809,34 @@
 		"requiredTech": "Dynamite",
 		"attackSound": "missile"
 	},
+	{
+		"name": "Hiyori",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Arius",
+		"movement": 2,
+		"strength": 59,
+		"rangedStrength": 68,
+		"range": 3,
+		"cost": 650,
+		"uniques": [
+			"[+11]% Strength <when attacking> <every [3] turns>",
+			"[-9]% Strength for enemy [All] units in adjacent [All] tiles <every [3] turns>"],
+		"requiredTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Subaru",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Arius",
+		"movement": 2,
+		"strength": 48,
+		"rangedStrength": 64,
+		"range": 2,
+		"cost": 570,
+		"uniques": [
+			"Can move after attacking <every [4] turns>",
+			"[+23]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "shot"
+	},
 ]
