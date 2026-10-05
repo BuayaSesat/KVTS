@@ -427,7 +427,36 @@
 		"cost": 480,
 		"uniques": [
 			"[+71]% Strength <when attacking> <every [6] turns>",
-			"[+71]% Strength <when attacking> <vs [non-[Wounded]] units>"],
+			"[+71]% Strength <when attacking> <vs [non-[Wounded]] units> <every [6] turns>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Seia",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 56,
+		"rangedStrength": 38,
+		"range": 2,
+		"cost": 480,
+		"uniques": [
+			"[+5]% Strength bonus for [All] units within [1] tiles <every [3] turns>",
+			"[This Unit] heals [4] HP <every [3] turns>"],
+		"requiredTech": "Scientific Theory",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Sakurako",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 53,
+		"rangedStrength": 70,
+		"range": 2,
+		"cost": 625,
+		"uniques": [
+			""],
 		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
 	},
