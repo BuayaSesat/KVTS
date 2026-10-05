@@ -764,7 +764,7 @@
 		"range": 3,
 		"cost": 460,
 		"uniques": [
-			"All adjacent units heal [25] HP when healing <every [5] turns>"],
+			"All adjacent units heal [16] HP when healing <every [5] turns>"],
 		"requiredTech": "Biology",
 		"attackSound": "machinegun"
 	},
