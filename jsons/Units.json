@@ -402,4 +402,18 @@
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
+	{
+		"name": "",
+		"unitType": "",
+		"uniqueTo": "",
+		"movement": ,
+		"strength": ,
+		"rangedStrength": ,
+		"range": ,
+		"cost": ,
+		"uniques": [
+			"
+		"requiredTech": "",
+		"attackSound": ""
+	},
 ]
