@@ -22,7 +22,7 @@
 		"cost": 580,
 		"uniques": [
 			"[+33]% Strength <when attacking> <every [4] turns>",
-			"[-999]% Strength for enemy [All] units in adjacent [1] tiles",
+			"[-999]% Strength for enemy [All] units in adjacent [All] tiles",
 			"[1] additional attacks per turn <every [4] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
