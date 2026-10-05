@@ -72,7 +72,7 @@
 	{
 		"name": "Bongkar Turret"
 		"type": "Enhancer"
-		"uniques": ["[+50]% Strength <vs [City]>"],
+		"uniques": ["[+50]% Strength <when attacking> <vs [City]>"],
 	},
 	{
 		"name": "Pembunuhan Beruntun"
