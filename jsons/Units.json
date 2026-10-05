@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Ayane",
-		"unitType": "Gunpowder",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 52,
@@ -376,7 +376,7 @@
 	},
 	{
 		"name": "Aris",
-		"unitType": "Siege",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 37,
@@ -395,11 +395,40 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 77,
-		"cost": 385,
+		"cost": 390,
 		"uniques": [
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+54]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Nagisa",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 67,
+		"rangedStrength": 72,
+		"range": 3,
+		"cost": 710,
+		"uniques": [
+			"[1] additional attacks per turn <every [3] turns>",
+			"[+28]% Strength <when attacking> <every [3] turns>",
+			"[-3]% Strength for enemy [All] units in adjacent [All] tiles <vs [Ranged Gunpowder] units> <every [3] turns>"],
+		"requiredTech": "Military Science",
+		"attackSound": "bombing"
+	},
+	{
+		"name": "Mika",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 95,
+		"cost": 480,
+		"uniques": [
+			"[+71]% Strength <when attacking> <every [6] turns>",
+			"[+71]% Strength <when attacking> <vs [non-[Wounded]] units>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "machinegun"
 	},
 ]
