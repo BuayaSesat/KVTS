@@ -768,4 +768,45 @@
 		"requiredTech": "Biology",
 		"attackSound": "machinegun"
 	},
+	{
+		"name": "Saori",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Arius",
+		"movement": 2,
+		"strength": 54,
+		"rangedStrength": 64,
+		"range": 2,
+		"cost": 600,
+		"uniques": [
+			"[+96]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Industrialization",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Atsuko",
+		"unitType": "Armored",
+		"uniqueTo": "Arius",
+		"movement": 2,
+		"strength": 116,
+		"cost": 585,
+		"uniques": [
+			"All adjacent units heal [9] HP when healing <every [4] turns>"],
+		"requiredTech": "Biology",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Misaki",
+		"unitType": "Siege",
+		"uniqueTo": "Arius",
+		"movement": 2,
+		"strength": 40,
+		"rangedStrength": 157,
+		"range": 3,
+		"cost": 1000,
+		"uniques": [
+			"[6] additional attacks per turn <every [5] turns>",
+			"[-66]% Strength <when attacking> <every [5] turns>"],
+		"requiredTech": "Dynamite",
+		"attackSound": "missile"
+	},
 ]
