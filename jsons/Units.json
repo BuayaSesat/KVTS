@@ -1032,4 +1032,64 @@
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Haruna",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 43,
+		"rangedStrength": 93,
+		"range": 3,
+		"cost": 859,
+		"uniques": [
+			"[1] additional attacks per turn <every [4] turns>",
+			"[+31]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Fertilizer",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Akari",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 52,
+		"rangedStrength": 66,
+		"range": 2,
+		"cost": 749,
+		"uniques": [
+			"[1] additional attacks per turn <every [4] turns>",
+			"[+19]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Fertilizer",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Junko",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 52,
+		"rangedStrength": 79,
+		"range": 2,
+		"cost": 794,
+		"uniques": [
+			"[1] additional attacks per turn <every [5] turns>",
+			"[+55]% Strength <when attacking> <every [5] turns>",
+			"[-26]% Strength <when defending> <every [5] turns>"],
+		"requiredTech": "Fertilizer",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Izumi",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 48,
+		"rangedStrength": 57,
+		"range": 3,
+		"cost": 552,
+		"uniques": [
+			"[This Unit] heals [7] HP <every [3] turns>"],
+		"requiredTech": "Fertilizer",
+		"attackSound": "machinegun"
+	},
 ]
