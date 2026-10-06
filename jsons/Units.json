@@ -1004,4 +1004,32 @@
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Mutsuki",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 46,
+		"rangedStrength": 51,
+		"range": 3,
+		"cost": 776,
+		"uniques": [
+			"[2] additional attacks per turn <every [4] turns>",
+			"[+21]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Dynamite",
+		"attackSound": "bombing"
+	},
+	{
+		"name": "Haruka",
+		"unitType": "Armored",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 110,
+		"cost": 777,
+		"uniques": [
+			"[1] additional attacks per turn <every [4] turns>",
+			"[+62]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Gunpowder",
+		"attackSound": "shot"
+	},
 ]
