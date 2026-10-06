@@ -776,7 +776,7 @@
 		"strength": 54,
 		"rangedStrength": 64,
 		"range": 2,
-		"cost": 600,
+		"cost": 720,
 		"uniques": [
 			"[+96]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Industrialization",
@@ -788,7 +788,7 @@
 		"uniqueTo": "Arius",
 		"movement": 2,
 		"strength": 116,
-		"cost": 585,
+		"cost": 652,
 		"uniques": [
 			"All adjacent units heal [9] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
@@ -802,7 +802,7 @@
 		"strength": 40,
 		"rangedStrength": 157,
 		"range": 3,
-		"cost": 1000,
+		"cost": 1534,
 		"uniques": [
 			"[6] additional attacks per turn <every [5] turns>",
 			"[-66]% Strength <when attacking> <every [5] turns>"],
@@ -817,7 +817,7 @@
 		"strength": 59,
 		"rangedStrength": 68,
 		"range": 3,
-		"cost": 650,
+		"cost": 758,
 		"uniques": [
 			"[+11]% Strength <when attacking> <every [3] turns>",
 			"[-9]% Strength for enemy [All] units in adjacent [All] tiles <every [3] turns>"],
@@ -832,7 +832,7 @@
 		"strength": 48,
 		"rangedStrength": 64,
 		"range": 2,
-		"cost": 570,
+		"cost": 611,
 		"uniques": [
 			"Can move after attacking <every [4] turns>",
 			"[+23]% Strength <when attacking> <every [4] turns>"],
