@@ -663,7 +663,7 @@
 			"[+6]% Strength <when attacking> <every [5] turns>",
 			"[-2]% Strength for enemy [All] units in adjacent [All] tiles <every [5] turns>"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "throw"
+		"attackSound": "bombing"
 	},
 	{
 		"name": "Kazusa",
