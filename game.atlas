@@ -23,3 +23,42 @@ NationIcons/Millennium
   orig: 100, 91
   offset: 0, 0
   index: -1
+
+Images/NationIcons/Trinity.png
+size: 100, 91
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Trinity
+  rotate: false
+  xy: 0, 0
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+
+Images/NationIcons/Arius.png
+size: 100, 91
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Arius
+  rotate: false
+  xy: 0, 0
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+
+Images/NationIcons/Gehenna.png
+size: 100, 91
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Gehenna
+  rotate: false
+  xy: 0, 0
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
