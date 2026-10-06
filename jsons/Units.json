@@ -1151,7 +1151,7 @@
 		"uniques": [
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+3]% Strength <when attacking> <every [4] turns>",
-			"[-6]% Strength for enemy [All] in adjacent [All] tiles <every [4] turns>"],
+			"[-6]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
