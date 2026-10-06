@@ -1092,4 +1092,65 @@
 		"requiredTech": "Fertilizer",
 		"attackSound": "machinegun"
 	},
+	{
+		"name": "Fuuka",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 52,
+		"rangedStrength": 30,
+		"range": 3,
+		"cost": 507,
+		"uniques": [
+			"[1] Movement <every [5] turns>",
+			"All adjacent units heal [12] HP when healing <every [5] turns>"],
+		"requiredTech": "Fertilizer",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Juri",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 46,
+		"rangedStrength": 37,
+		"range": 3,
+		"cost": 627,
+		"uniques": [
+			"[1] Movement <every [3] turns>",
+			"[1] additional attacks per turn <every [3] turns>",
+			"[+8]% Strength <when attacking> <every [3] turns>"],
+		"requiredTech": "Chemistry",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Sena",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 45,
+		"rangedStrength": 37,
+		"range": 3,
+		"cost": 527,
+		"uniques": [
+			"May Paradrop to [All] tiles up to [3] tiles away <every [5] turns>",
+			"[+2]% Strength bonus for [All] units within [2] tiles <every [5] turns>",
+			"All adjacent units heal [10] HP when healing <every [5] turns>"],
+		"requiredTech": "Biology",
+		"attackSound": "bombing"
+	},
+	{
+		"name": "",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": ,
+		"rangedStrength": ,
+		"range": ,
+		"cost": ,
+		"uniques": [
+			"
+		"requiredTech": "",
+		"attackSound": ""
+	},
 ]
