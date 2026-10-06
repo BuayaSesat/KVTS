@@ -1140,17 +1140,61 @@
 		"attackSound": "bombing"
 	},
 	{
-		"name": "",
+		"name": "Kasumi",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
-		"strength": ,
-		"rangedStrength": ,
-		"range": ,
-		"cost": ,
+		"strength": 59,
+		"rangedStrength": 58,
+		"range": 2,
+		"cost": 769,
 		"uniques": [
-			"
-		"requiredTech": "",
-		"attackSound": ""
+			"[1] additional attacks per turn <every [4] turns>",
+			"[+3]% Strength <when attacking> <every [4] turns>",
+			"[-6]% Strength for enemy [All] in adjacent [All] tiles <every [4] turns>"],
+		"requiredTech": "Gunpowder",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Megu",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 81,
+		"cost": 552,
+		"uniques": [
+			"[1] additional attacks per turn <every [5] turns>",
+			"[+22]% Strength <when attacking> <every [5] turns>"],
+		"requiredTech": "Chemistry",
+		"attackSound": "bombing"
+	},
+	{
+		"name": "Kirara",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 67,
+		"rangedStrength": 70,
+		"range": 2,
+		"cost": 741,
+		"uniques": [
+			"[1] Movement <every [4] turns>",
+			"[+27]% Strength <when attacking> <every [4] turns>"],
+		"requiredTech": "Metallurgy",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Erika",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Gehenna",
+		"movement": 2,
+		"strength": 71,
+		"rangedStrength": 52,
+		"range": 3,
+		"cost": 750,
+		"uniques": [
+			"All adjacent units heal [12] HP when healing <every [3] turns>"],
+		"requiredTech": "Biology",
+		"attackSound": "shot"
 	},
 ]
