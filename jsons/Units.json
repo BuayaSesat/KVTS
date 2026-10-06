@@ -798,7 +798,7 @@
 	},
 	{
 		"name": "Misaki",
-		"unitType": "Siege",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Arius",
 		"movement": 2,
 		"strength": 40,
