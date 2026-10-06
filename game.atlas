@@ -47,7 +47,7 @@ NationIcons/Arius
   xy: 0, 0
   size: 100, 91
   orig: 100, 91
-  offset: 0, 5
+  offset: 0, 10
   index: -1
 
 Images/NationIcons/Gehenna.png
@@ -71,7 +71,7 @@ repeat: none
 UnitPortraits/Hoshino
   rotate: false
   xy: 0, 0
-  size: 404, 404
+  size: 100, 100
   orig: 404, 404
   offset: 0, 0
   index: -1
