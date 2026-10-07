@@ -8,7 +8,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [Market] is constructed in all [non-Puppeted] cities>",
+			"Only available <if [Market] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
 			"Gain [100000] [Gold]",
 			"[-1000]% Gold given to enemy if city is captured"],
@@ -24,7 +24,7 @@
 		"percentageStatBonus": {"science": 100}
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [Library] is constructed in all [non-Puppeted] cities>",
+			"Only available <if [Library] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
 			"Free Technology"],
 		"requiredTech": "Philosophy"
@@ -38,7 +38,7 @@
 		"faith": 16,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [Temple] is constructed in all [non-Puppeted] cities>",
+			"Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
 			"[+150]% Natural religion spread [in all cities]"],
 		"requiredTech": "Theology"
@@ -52,7 +52,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [Workshop] is constructed in all [non-Puppeted] cities>",
+			"Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
 			"Enemy [Land] units must spend [1] extra movement points when inside your territory",
 			"Population loss from nuclear attacks [-50]% [in all cities]"],
@@ -66,7 +66,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [Barracks] is constructed in all [non-Puppeted] cities>",
+			"Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
 			"All newly-trained [All] units [in all cities] receive the [Morale] promotion",
 			"[+15]% Strength <for [All] units>"],
