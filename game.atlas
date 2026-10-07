@@ -1156,14 +1156,40 @@ UnitIcons/Hoshino
   index: -1
 
 Images/UnitIcons/Shiroko.png
-size: 200, 200
+size: 118, 124
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitIcons/Shiroko
   rotate: false
   xy: 0, 0
-  size: 200, 200
-  orig: 200, 200
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Serika.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Serika
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Nonomi.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Nonomi
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
   offset: 0, 0
   index: -1
