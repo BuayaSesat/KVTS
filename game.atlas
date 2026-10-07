@@ -1817,3 +1817,68 @@ UnitIcons/Hanako
   orig: 118, 124
   offset: 0, 0
   index: -1
+
+Images/UnitIcons/Saori.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Saori
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Atsuko.png
+size: 35, 42
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Atsuko
+  rotate: false
+  xy: 0, 0
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Misaki.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Misaki
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Hiyori.png
+size: 51, 46
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Hiyori
+  rotate: false
+  xy: 0, 0
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Subaru.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Subaru
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
