@@ -47,17 +47,17 @@
 	{
 		"name": "Penculikan"
 		"type": "Founder"
-		"uniques": ["When defeating a [All] unit, earn [0] Gold and recruit it <with [50]% chance>"],
+		"uniques": ["When defeating a [All] unit, earn [0] Gold and recruit it <with [40]% chance>"],
 	},
 	{
 		"name": "Keajaiban Dunia"
 		"type": "Founder"
-		"uniques": ["[+30]% Production when constructing [Wonders] wonders [in all cities]"],
+		"uniques": ["[+20]% Production when constructing [Wonders] wonders [in all cities]"],
 	},
 	{
 		"name": "Negara Emas 20.45"
 		"type": "Founder"
-		"uniques": ["[+100]% Golden Age length", "[+10]% [Production] <during a Golden Age>"],
+		"uniques": ["[+40]% Golden Age length", "[+10]% [Production] <during a Golden Age>"],
 	},
 	{
 		"name": "Hacker Jangan Menyerang"
@@ -67,27 +67,27 @@
 	{
 		"name": "Warga Saling Lempar Menu MBG"
 		"type": "Enhancer"
-		"uniques": ["[+50]% Strength for cities <when attacking>"],
+		"uniques": ["[+40]% Strength for cities <when attacking>"],
 	},
 	{
 		"name": "Bongkar Turret"
 		"type": "Enhancer"
-		"uniques": ["[+50]% Strength <when attacking> <vs [City]>"],
+		"uniques": ["[+40]% Strength <when attacking> <vs [City]>"],
 	},
 	{
 		"name": "Pembunuhan Beruntun"
 		"type": "Enhancer"
-		"uniques": ["Heals [25] damage if it kills a unit"],
+		"uniques": ["Heals [20] damage if it kills a unit"],
 	},
 	{
 		"name": "Serangan Kritis"
 		"type": "Enhancer"
-		"uniques": ["[1] additional attacks per turn <with [25]% chance>"],
+		"uniques": ["[1] additional attacks per turn <with [20]% chance>"],
 	},
 	{
 		"name": "Mobilitas"
 		"type": "Enhancer"
-		"uniques": ["[1] Movement <for [All] units>", "[0] Movement point cost to embark", "[0] Movement point cost to disembark"],
+		"uniques": ["[1] Movement <for [All] units>", "No movement cost to pillage"],
 	},
 	{
 		"name": "Penembak Jitu"
@@ -97,17 +97,17 @@
 	{
 		"name": "Seruan Perang"
 		"type": "Enhancer"
-		"uniques": ["[+100]% XP gained from combat"],
+		"uniques": ["[+80]% XP gained from combat"],
 	},
 	{
 		"name": "Menunggu 19jt Lapangan Pekerjaan"
 		"type": "Follower"
-		"uniques": ["[-5]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
+		"uniques": ["[-2]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Makan Siang Gratis"
 		"type": "Follower"
-		"uniques": ["[+50]% Food consumption by [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[+40]% Food consumption by [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Emas 74 KG"
@@ -117,12 +117,12 @@
 	{
 		"name": "10 + 6 = 17"
 		"type": "Follower"
-		"uniques": ["[-5]% [Science] from every follower, up to [-100]% <for [AI player] Civilizations>"],
+		"uniques": ["[-2]% [Science] from every follower, up to [-100]% <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Batik Is From Malaysia"
 		"type": "Follower"
-		"uniques": ["[-5]% [Culture] from every [Terrain] <for [AI player] Civilizations>"],
+		"uniques": ["[-3]% [Culture] from every [Terrain] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "WNI Seumur Hidup"
@@ -132,6 +132,6 @@
 	{
 		"name": "Cabulisme"
 		"type": "Follower"
-		"uniques": ["[-10 Faith] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[-4 Faith] [in all cities] <for [AI player] Civilizations>"],
 	},
 ]
