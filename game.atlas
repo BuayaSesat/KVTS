@@ -1351,15 +1351,15 @@ UnitIcons/Karin
   index: -1
 
 Images/UnitIcons/Akane.png
-size: 51, 46
+size: 118, 124
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitIcons/Akane
   rotate: false
   xy: 0, 0
-  size: 51, 46
-  orig: 51, 46
+  size: 118, 124
+  orig: 118, 124
   offset: 0, 0
   index: -1
 
