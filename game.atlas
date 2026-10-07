@@ -1492,3 +1492,328 @@ UnitIcons/Sumire
   orig: 118, 124
   offset: 0, 0
   index: -1
+
+Images/UnitIcons/Nagisa.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Nagisa
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Mika.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Mika
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Seia.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Seia
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Sakurako.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Sakurako
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Mari.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Mari
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Hinata.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Hinata
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Tsurugi.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Tsurugi
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Hasumi.png
+size: 50, 50
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Hasumi
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Mashiro.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Mashiro
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Ichika.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Ichika
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Mine.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Mine
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Hanae.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Hanae
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Serina.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Serina
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Ui.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Ui
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Shimiko.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Shimiko
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Yoshimi.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Yoshimi
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Natsu.png
+size: 45, 43
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Natsu
+  rotate: false
+  xy: 0, 0
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Airi.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Airi
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Kazusa.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Kazusa
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Suzumi.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Suzumi
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Reisa.png
+size: 35, 42
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Reisa
+  rotate: false
+  xy: 0, 0
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Hifumi.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Hifumi
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Azusa.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Azusa
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Koharu.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Koharu
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Hanako.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Hanako
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
