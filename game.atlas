@@ -1,5 +1,5 @@
-School.png
-size: 500, 91
+Images/NationIcons/Abydos.png
+size: 100, 91
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -8,57 +8,1123 @@ NationIcons/Abydos
   xy: 0, 0
   size: 100, 91
   orig: 100, 91
-  offset: 0, 0
+  offset: 0, -10
   index: -1
 
-School.png
-size: 500, 91
+Images/NationIcons/Millennium.png
+size: 100, 91
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Millennium
   rotate: false
-  xy: 100, 0
+  xy: 0, 0
   size: 100, 91
   orig: 100, 91
   offset: 0, 0
   index: -1
 
-School.png
-size: 500, 91
+Images/NationIcons/Trinity.png
+size: 100, 91
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Trinity
   rotate: false
-  xy: 200, 0
+  xy: 0, 0
   size: 100, 91
   orig: 100, 91
   offset: 0, 0
   index: -1
 
-School.png
-size: 500, 91
+Images/NationIcons/Arius.png
+size: 100, 91
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Arius
   rotate: false
-  xy: 300, 0
+  xy: 0, 0
   size: 100, 91
   orig: 100, 91
-  offset: 0, 0
+  offset: 0, 10
   index: -1
 
-School.png
-size: 500, 91
+Images/NationIcons/Gehenna.png
+size: 100, 91
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Gehenna
   rotate: false
-  xy: 400, 0
+  xy: 0, 0
   size: 100, 91
   orig: 100, 91
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Ayane.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Ayane
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Hoshino.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Hoshino
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Shiroko.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Shiroko
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Serika.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Serika
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Nonomi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Nonomi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Rio.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Rio
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Yuuka.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Yuuka
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Noa.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Noa
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Koyuki.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Koyuki
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Himari.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Himari
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Maki.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Maki
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Hare.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Hare
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Kotama.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Kotama
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Chihiro.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Chihiro
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Neru.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Neru
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Asuna.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Asuna
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Karin.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Karin
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Akane.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Akane
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Toki.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Toki
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Eimi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Eimi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Utaha.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Utaha
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Hibiki.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Hibiki
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Kotori.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Kotori
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Momoi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Momoi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Midori.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Midori
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Yuzu.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Yuzu
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Aris.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Aris
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Sumire.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Sumire
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Nagisa.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Nagisa
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Mika.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Mika
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Seia.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Seia
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Sakurako.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Sakurako
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Mari.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Mari
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Hinata.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Hinata
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Tsurugi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Tsurugi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Hasumi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Hasumi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Mashiro.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Mashiro
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Ichika.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Ichika
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Mine.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Mine
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Hanae.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Hanae
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Serina.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Serina
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Ui.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Ui
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Shimiko.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Shimiko
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Yoshimi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Yoshimi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Natsu.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Natsu
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Airi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Airi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Kazusa.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Kazusa
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Suzumi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Suzumi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Reisa.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Reisa
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Hifumi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Hifumi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Azusa.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Azusa
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Koharu.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Koharu
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Hanako.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Hanako
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Saori.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Saori
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Atsuko.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Atsuko
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Misaki.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Misaki
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Hiyori.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Hiyori
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Subaru.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Subaru
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Makoto.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Makoto
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Iroha.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Iroha
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Ibuki.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Ibuki
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Satsuki.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Satsuki
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Chiaki.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Chiaki
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Hina.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Hina
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Ako.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Ako
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Iori.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Iori
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Chinatsu.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Chinatsu
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Aru.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Aru
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Kayoko.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Kayoko
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Mutsuki.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Mutsuki
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Haruka.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Haruka
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Haruna.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Haruna
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Akari.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Akari
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Junko.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Junko
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Izumi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Izumi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Fuuka.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Fuuka
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Juri.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Juri
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Sena.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Sena
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Kasumi.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Kasumi
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Kirara.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Kirara
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Megu.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Megu
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+Images/UnitPortraits/Erika.png
+size: 200, 200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Erika
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
