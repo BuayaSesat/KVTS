@@ -1143,15 +1143,15 @@ UnitIcons/Ayane
   index: -1
 
 Images/UnitIcons/Hoshino.png
-size: 35, 42
+size: 118, 124
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitIcons/Hoshino
   rotate: false
   xy: 0, 0
-  size: 35, 42
-  orig: 35, 42
+  size: 118, 124
+  orig: 118, 124
   offset: 0, 0
   index: -1
 
@@ -1876,6 +1876,318 @@ format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitIcons/Subaru
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Makoto.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Makoto
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Iroha.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Iroha
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Ibuki.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Ibuki
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Satsuki.png
+size: 114, 114
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Satsuki
+  rotate: false
+  xy: 0, 0
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Chiaki.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Chiaki
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Hina.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Hina
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Ako.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Ako
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Iori.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Iori
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Chinatsu.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Chinatsu
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Aru.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Aru
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Kayoko.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Kayoko
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Mutsuki.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Mutsuki
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Haruka.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Haruka
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Haruna.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Haruna
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Akari.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Akari
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Junko.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Junko
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Izumi.png
+size: 240, 114
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Izumi
+  rotate: false
+  xy: 0, 0
+  size: 240, 114
+  orig: 240, 114
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Fuuka.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Fuuka
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Juri.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Juri
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Sena.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Sena
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Kasumi.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Kasumi
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Kirara.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Kirara
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Megu.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Megu
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Erika.png
+size: 118, 124
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Erika
   rotate: false
   xy: 0, 0
   size: 118, 124
