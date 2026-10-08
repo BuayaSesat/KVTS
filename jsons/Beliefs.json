@@ -42,7 +42,7 @@
 	{
 		"name": "Sumber Daya Alam"
 		"type": "Founder"
-		"uniques": ["[+100]% [Luxury] resource production", "[+100]% [Strategic] resource production"],
+		"uniques": ["[1] Happiness from each type of luxury resource", "[+100]% [Luxury] resource production", "[+100]% [Strategic] resource production"],
 	},
 	{
 		"name": "Penculikan"
