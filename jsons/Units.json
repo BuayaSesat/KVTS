@@ -850,7 +850,7 @@
 		"strength": 58,
 		"rangedStrength": 81,
 		"range": 3,
-		"cost": 1027,
+		"cost": 822,
 		"uniques": [
 			"[4] additional attacks per turn <every [6] turns>",
 			"[-19]% Strength <when attacking> <every [6] turns>"],
@@ -865,9 +865,9 @@
 		"strength": 56,
 		"rangedStrength": 88,
 		"range": 3,
-		"cost": 799,
+		"cost": 644,
 		"uniques": [
-			"May Paradrop to [All] tiles up to [3] tiles away <every [8] turns>",
+			"May Paradrop to [All] tiles up to [4] tiles away <every [8] turns>",
 			"[+73]% Strength <when attacking> <every [8] turns>"],
 		"requiredTech": "Dynamite",
 		"attackSound": "tankshot"
@@ -880,7 +880,7 @@
 		"strength": 44,
 		"rangedStrength": 58,
 		"range": 2,
-		"cost": 880,
+		"cost": 560,
 		"uniques": [
 			"[+12]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
 		"requiredTech": "Military Science",
@@ -894,7 +894,7 @@
 		"strength": 68,
 		"rangedStrength": 75,
 		"range": 3,
-		"cost": 977,
+		"cost": 782,
 		"uniques": [
 			"[+77]% Strength <when attacking> <every [3] turns>",
 			"[+62]% Strength <vs [Armored] units> <when attacking> <every [3] turns>",
@@ -910,7 +910,7 @@
 		"strength": 46,
 		"rangedStrength": 71,
 		"range": 2,
-		"cost": 708,
+		"cost": 567,
 		"uniques": [
 			"[+136]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Metallurgy",
@@ -924,7 +924,7 @@
 		"strength": 47,
 		"rangedStrength": 65,
 		"range": 3,
-		"cost": 678,
+		"cost": 542,
 		"uniques": [
 			"[1] additional attacks per turn <every [7] turns>",
 			"[+44]% Strength <when attacking> <every [7] turns>"],
@@ -939,7 +939,7 @@
 		"strength": 59,
 		"rangedStrength": 41,
 		"range": 3,
-		"cost": 655,
+		"cost": 468,
 		"uniques": [
 			"[+14]% Strength bonus for [All] units within [1] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -953,7 +953,7 @@
 		"strength": 47,
 		"rangedStrength": 82,
 		"range": 3,
-		"cost": 1002,
+		"cost": 801,
 		"uniques": [
 			"[2] additional attacks per turn <every [3] turns>",
 			"[+5]% Strength <when attacking> <every [3] turns>"],
@@ -968,7 +968,7 @@
 		"strength": 49,
 		"rangedStrength": 24,
 		"range": 3,
-		"cost": 545,
+		"cost": 326,
 		"uniques": [
 			"All adjacent units heal [22] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
