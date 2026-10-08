@@ -200,8 +200,8 @@
 		"denounced": "Berani sekali kau menghakimiku. Kau pikir moralitasmu membuatmu lebih baik dariku? Pada akhirnya, kita semua hanya berusaha mendapatkan apa yang kita inginkan.",
 		"declaringfriendship": "Persahabatan? Hah. Aku tidak membutuhkan teman. Namun... jika kau bersedia berdiri di sisiku, mungkin aku bisa memberimu tempat di dunia yang akan kubangun.",
 
-		"outerColor": [175, 175, 180],
-		"innerColor": [8, 8, 8],
+		"outerColor": [8, 8, 8],
+		"innerColor": [175, 175, 180],
 		"uniqueName": "Semuanya Sia-Sia",
 		"uniques": [
 			"[+100]% unhappiness from the number of cities",
