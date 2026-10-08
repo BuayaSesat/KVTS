@@ -78,7 +78,7 @@
 		"strength": 72,
 		"rangedStrength": 58,
 		"range": 3,
-		"cost": 1040,
+		"cost": 772,
 		"uniques": [
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
@@ -92,7 +92,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 130,
-		"cost": 690,
+		"cost": 564,
 		"uniques": [
 			"[+21]% Strength <when defending> <every [3] turns>"],
 		"requiredTech": "Industrialization",
@@ -106,7 +106,7 @@
 		"strength": 72,
 		"rangedStrength": 28,
 		"range": 2,
-		"cost": 620,
+		"cost": 452,
 		"uniques": [
 			"[-11]% Strength for enemy [All] units in adjacent [All] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -120,7 +120,7 @@
 		"strength": 45,
 		"rangedStrength": 90,
 		"range": 3,
-		"cost": 817,
+		"cost": 654,
 		"uniques": [
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+2]% Strength <when attacking> <every [4] turns>"],
@@ -135,7 +135,7 @@
 		"strength": 73,
 		"rangedStrength": 57,
 		"range": 3,
-		"cost": 795,
+		"cost": 584,
 		"uniques": [
 			"[+13]% Strength bonus for [All] units within [1] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -149,7 +149,7 @@
 		"strength": 46,
 		"rangedStrength": 63,
 		"range": 3,
-		"cost": 635,
+		"cost": 508,
 		"uniques": [
 			"[+75]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Industrialization",
@@ -163,7 +163,7 @@
 		"strength": 56,
 		"rangedStrength": 53,
 		"range": 3,
-		"cost": 724,
+		"cost": 567,
 		"uniques": [
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+7]% Strength <when attacking> <every [4] turns>",
@@ -179,7 +179,7 @@
 		"strength": 49,
 		"rangedStrength": 28,
 		"range": 3,
-		"cost": 700,
+		"cost": 440,
 		"uniques": [
 			"[+10]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -193,7 +193,7 @@
 		"strength": 55,
 		"rangedStrength": 64,
 		"range": 3,
-		"cost": 672,
+		"cost": 523,
 		"uniques": [
 			"[+16]% Strength <when attacking> <every [3] turns>",
 			"[-7]% Strength for enemy [Armored] units in adjacent [All] tiles <every [3] turns>"],
