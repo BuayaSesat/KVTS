@@ -206,7 +206,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 81,
-		"cost": 505,
+		"cost": 416,
 		"uniques": [
 			"[+38]% Strength <when attacking> <every [2] turns>"],
 		"requiredTech": "Industrialization",
@@ -220,7 +220,7 @@
 		"strength": 52,
 		"rangedStrength": 67,
 		"range": 2,
-		"cost": 656,
+		"cost": 551,
 		"uniques": [
 			"[+12]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [43]% chance> <every [2] turns>"],
@@ -235,7 +235,7 @@
 		"strength": 41,
 		"rangedStrength": 77,
 		"range": 3,
-		"cost": 709,
+		"cost": 567,
 		"uniques": [
 			"[+59]% Strength <when attacking> <every [4] turns>",
 			"[+48]% Strength <when attacking> <vs [Armored] units> <every [4] turns>"],
@@ -250,7 +250,7 @@
 		"strength": 60,
 		"rangedStrength": 29,
 		"range": 2,
-		"cost": 747,
+		"cost": 526,
 		"uniques": [
 			"[+45]% Strength <when attacking> <every [2] turns>",
 			"[-12]% Strength for enemy [All] units in adjacent [All] tiles <every [2] turns>"],
@@ -265,7 +265,7 @@
 		"strength": 53,
 		"rangedStrength": 68,
 		"range": 2,
-		"cost": 688,
+		"cost": 558,
 		"uniques": [
 			"[+27]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [12]% chance> <every [2] turns>"],
@@ -278,7 +278,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 131,
-		"cost": 679,
+		"cost": 555,
 		"uniques": [
 			"[This Unit] heals [15] HP <every [4] turns>"],
 		"requiredTech": "Gunpowder",
