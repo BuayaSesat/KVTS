@@ -411,11 +411,11 @@
 		"strength": 67,
 		"rangedStrength": 72,
 		"range": 3,
-		"cost": 963,
+		"cost": 755,
 		"uniques": [
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+28]% Strength <when attacking> <every [3] turns>",
-			"[-8]% Strength for enemy [Ranged Gunpowder] units in adjacent [All] tiles <every [3] turns>"],
+			"[-8]% Strength for enemy [Gunpowder] units in adjacent [All] tiles <every [3] turns>"],
 		"requiredTech": "Military Science",
 		"attackSound": "bombing"
 	},
