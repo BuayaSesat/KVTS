@@ -1148,7 +1148,7 @@
 		"strength": 59,
 		"rangedStrength": 58,
 		"range": 2,
-		"cost": 769,
+		"cost": 597,
 		"uniques": [
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+3]% Strength <when attacking> <every [4] turns>",
@@ -1162,7 +1162,7 @@
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 81,
-		"cost": 552,
+		"cost": 438,
 		"uniques": [
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+22]% Strength <when attacking> <every [5] turns>"],
@@ -1177,7 +1177,7 @@
 		"strength": 67,
 		"rangedStrength": 70,
 		"range": 2,
-		"cost": 741,
+		"cost": 593,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[+27]% Strength <when attacking> <every [4] turns>"],
@@ -1192,7 +1192,7 @@
 		"strength": 71,
 		"rangedStrength": 52,
 		"range": 3,
-		"cost": 750,
+		"cost": 552,
 		"uniques": [
 			"All adjacent units heal [12] HP when healing <every [3] turns>"],
 		"requiredTech": "Biology",
