@@ -286,13 +286,13 @@
 	},
 	{
 		"name": "Utaha",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Siege",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 50,
 		"rangedStrength": 60,
 		"range": 3,
-		"cost": 606,
+		"cost": 485,
 		"uniques": [
 			"[+33]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Industrialization",
@@ -306,7 +306,7 @@
 		"strength": 43,
 		"rangedStrength": 67,
 		"range": 3,
-		"cost": 1041,
+		"cost": 833,
 		"uniques": [
 			"[4] additional attacks per turn <every [4] turns>",
 			"[-19]% Strength <when attacking> <every [4] turns>"],
@@ -321,7 +321,7 @@
 		"strength": 46,
 		"rangedStrength": 37,
 		"range": 3,
-		"cost": 537,
+		"cost": 470,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[+14]% Strength bonus for [All] units within [2] tiles <every [4] turns>"],
@@ -336,7 +336,7 @@
 		"strength": 60,
 		"rangedStrength": 53,
 		"range": 2,
-		"cost": 765,
+		"cost": 612,
 		"uniques": [
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+14]% Strength <when attacking> <every [3] turns>"],
@@ -351,7 +351,7 @@
 		"strength": 43,
 		"rangedStrength": 99,
 		"range": 3,
-		"cost": 1328,
+		"cost": 1063,
 		"uniques": [
 			"[4] additional attacks per turn <every [3] turns>",
 			"[-38]% Strength <when attacking> <every [3] turns>"],
@@ -366,7 +366,7 @@
 		"strength": 47,
 		"rangedStrength": 85,
 		"range": 2,
-		"cost": 809,
+		"cost": 647,
 		"uniques": [
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+11]% Strength <when attacking> <every [4] turns>"],
@@ -381,7 +381,7 @@
 		"strength": 37,
 		"rangedStrength": 113,
 		"range": 3,
-		"cost": 870,
+		"cost": 696,
 		"uniques": [
 			"[1] additional attacks per turn <every [6] turns>",
 			"[+11]% Strength <when attacking> <every [6] turns>",
@@ -396,7 +396,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 77,
-		"cost": 647,
+		"cost": 529,
 		"uniques": [
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+54]% Strength <when attacking> <every [3] turns>"],
