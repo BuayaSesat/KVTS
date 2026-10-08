@@ -425,7 +425,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 95,
-		"cost": 569,
+		"cost": 467,
 		"uniques": [
 			"[+71]% Strength <when attacking> <every [6] turns>",
 			"[+71]% Strength <when attacking> <vs [non-[Wounded]] units> <every [6] turns>"],
@@ -440,7 +440,7 @@
 		"strength": 56,
 		"rangedStrength": 38,
 		"range": 2,
-		"cost": 545,
+		"cost": 416,
 		"uniques": [
 			"[+5]% Strength bonus for [All] units within [1] tiles <every [3] turns>",
 			"[This Unit] heals [9] HP <every [3] turns>"],
@@ -455,7 +455,7 @@
 		"strength": 53,
 		"rangedStrength": 70,
 		"range": 2,
-		"cost": 666,
+		"cost": 533,
 		"uniques": [
 			"[+33]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Metallurgy",
@@ -469,7 +469,7 @@
 		"strength": 63,
 		"rangedStrength": 35,
 		"range": 3,
-		"cost": 700,
+		"cost": 482,
 		"uniques": [
 			"[+13]% Strength bonus for [All] units within [1] tiles <every [2] turns>"],
 		"requiredTech": "Acoustics",
@@ -483,7 +483,7 @@
 		"strength": 55,
 		"rangedStrength": 67,
 		"range": 2,
-		"cost": 932,
+		"cost": 746,
 		"uniques": [
 			"[4] additional attacks per turn <every [6] turns>",
 			"[-25]% Strength <when attacking> <every [6] turns>"],
@@ -496,7 +496,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 84,
-		"cost": 607,
+		"cost": 497,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
@@ -512,7 +512,7 @@
 		"strength": 43,
 		"rangedStrength": 83,
 		"range": 3,
-		"cost": 692,
+		"cost": 554,
 		"uniques": [
 			"[+47]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Rifling",
@@ -526,7 +526,7 @@
 		"strength": 45,
 		"rangedStrength": 78,
 		"range": 3,
-		"cost": 733,
+		"cost": 587,
 		"uniques": [
 			"[+31]% Strength <when attacking> <every [3] turns>",
 			"[+62]% Strength <when attacking> <with [50]% chance> <every [3] turns>"],
@@ -541,7 +541,7 @@
 		"strength": 53,
 		"rangedStrength": 72,
 		"range": 2,
-		"cost": 762,
+		"cost": 609,
 		"uniques": [
 			"[1] additional attacks per turn <every [6] turns>",
 			"[+52]% Strength <when attacking> <every [6] turns>"],
