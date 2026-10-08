@@ -572,7 +572,7 @@
 		"strength": 48,
 		"rangedStrength": 39,
 		"range": 3,
-		"cost": 592,
+		"cost": 417,
 		"uniques": [
 			"All adjacent units heal [19] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
@@ -586,7 +586,7 @@
 		"strength": 48,
 		"rangedStrength": 38,
 		"range": 3,
-		"cost": 650,
+		"cost": 448,
 		"uniques": [
 			"[1] Movement <every [2] turns>",
 			"All adjacent units heal [12] HP when healing <every [2] turns>"],
@@ -601,7 +601,7 @@
 		"strength": 37,
 		"rangedStrength": 68,
 		"range": 3,
-		"cost": 636,
+		"cost": 470,
 		"uniques": [
 			"[+16]% Strength bonus for [All] units within [1] tiles <every [5] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -615,7 +615,7 @@
 		"strength": 50,
 		"rangedStrength": 42,
 		"range": 3,
-		"cost": 811,
+		"cost": 464,
 		"uniques": [
 			"[+7]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
