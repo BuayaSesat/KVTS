@@ -7,7 +7,7 @@
 		"strength": 52,
 		"rangedStrength": 27,
 		"range": 3,
-		"cost": 507,
+		"cost": 406,
 		"uniques": [
 			"All adjacent units heal [13] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
@@ -19,7 +19,7 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 115,
-		"cost": 734,
+		"cost": 599,
 		"uniques": [
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+23]% Strength <when attacking> <every [4] turns>"],
@@ -34,7 +34,7 @@
 		"strength": 54,
 		"rangedStrength": 77,
 		"range": 2,
-		"cost": 740,
+		"cost": 592,
 		"uniques": [
 			"[+30]% Strength <when attacking> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
@@ -48,7 +48,7 @@
 		"strength": 52,
 		"rangedStrength": 76,
 		"range": 2,
-		"cost": 710,
+		"cost": 568,
 		"uniques": [
 			"Can move after attacking <every [2] turns>",
 			"[+14]% Strength <when attacking> <every [2] turns>"],
@@ -63,7 +63,7 @@
 		"strength": 45,
 		"rangedStrength": 66,
 		"range": 3,
-		"cost": 693,
+		"cost": 554,
 		"uniques": [
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+23]% Strength <when attacking> <every [5] turns>"],
