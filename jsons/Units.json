@@ -554,7 +554,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 111,
-		"cost": 767,
+		"cost": 609,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
