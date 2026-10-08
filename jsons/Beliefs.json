@@ -62,7 +62,7 @@
 	{
 		"name": "Hacker Jangan Menyerang"
 		"type": "Founder"
-		"uniques": ["Gain an extra spy", "[-50]% enemy spy effectiveness [in your cities]"],
+		"uniques": ["Gain an extra spy", "[-80]% enemy spy effectiveness [in your cities]"],
 	},
 	{
 		"name": "Warga Saling Lempar Menu MBG"
