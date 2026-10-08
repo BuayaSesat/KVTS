@@ -4,7 +4,7 @@
 		"replaces": "National Treasury",
 		"uniqueTo": "Abydos",
 		"cost": 125,
-		"gold": 8,
+		"gold": 800,
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
