@@ -59,7 +59,7 @@
 		"requiredTech": "Machinery"
 	},
 	{
-		"name": "Kampus",
+		"name": "OSIS",
 		"replaces": "Heroic Epic",
 		"uniqueTo": "Gehenna",
 		"cost": 125,
