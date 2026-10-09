@@ -4,7 +4,7 @@
 		"replaces": "National Treasury",
 		"uniqueTo": "Abydos",
 		"cost": 125,
-		"gold": 800,
+		"gold": 1000,
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
@@ -44,7 +44,7 @@
 		"requiredTech": "Theology"
 	},
 	{
-		"name": "Katakomba",
+		"name": "Basilika",
 		"replaces": "Ironworks",
 		"uniqueTo": "Arius",
 		"cost": 125,
@@ -59,7 +59,7 @@
 		"requiredTech": "Machinery"
 	},
 	{
-		"name": "Kegelapan",
+		"name": "Kampus",
 		"replaces": "Heroic Epic",
 		"uniqueTo": "Gehenna",
 		"cost": 125,
