@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Ayane",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 52,
@@ -129,7 +129,7 @@
 	},
 	{
 		"name": "Himari",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 73,
@@ -173,7 +173,7 @@
 	},
 	{
 		"name": "Kotama",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 49,
@@ -244,7 +244,7 @@
 	},
 	{
 		"name": "Akane",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 60,
@@ -315,7 +315,7 @@
 	},
 	{
 		"name": "Kotori",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 46,
@@ -434,7 +434,7 @@
 	},
 	{
 		"name": "Seia",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 56,
@@ -463,7 +463,7 @@
 	},
 	{
 		"name": "Mari",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 63,
@@ -566,7 +566,7 @@
 	},
 	{
 		"name": "Hanae",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 48,
@@ -580,7 +580,7 @@
 	},
 	{
 		"name": "Serina",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 48,
@@ -595,7 +595,7 @@
 	},
 	{
 		"name": "Ui",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 37,
@@ -609,7 +609,7 @@
 	},
 	{
 		"name": "Shimiko",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 50,
@@ -742,7 +742,7 @@
 	},
 	{
 		"name": "Koharu",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 40,
@@ -758,7 +758,7 @@
 	},
 	{
 		"name": "Hanako",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 49,
@@ -874,7 +874,7 @@
 	},
 	{
 		"name": "Ibuki",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 44,
@@ -933,7 +933,7 @@
 	},
 	{
 		"name": "Ako",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 59,
@@ -962,7 +962,7 @@
 	},
 	{
 		"name": "Chinatsu",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 49,
@@ -1095,7 +1095,7 @@
 	},
 	{
 		"name": "Fuuka",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 52,
@@ -1126,7 +1126,7 @@
 	},
 	{
 		"name": "Sena",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 45,
@@ -1186,7 +1186,7 @@
 	},
 	{
 		"name": "Erika",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 71,
