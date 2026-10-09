@@ -102,12 +102,12 @@ BuildingPortraits/Katedral
   offset: 0, 0
   index: -1
 
-Images/BuildingPortraits/Katakomba.png
+Images/BuildingPortraits/Basilika.png
 size: 100, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingPortraits/Katakomba
+BuildingPortraits/Basilika
   rotate: false
   xy: 0, 0
   size: 100, 100
@@ -115,12 +115,12 @@ BuildingPortraits/Katakomba
   offset: 0, 0
   index: -1
 
-Images/BuildingPortraits/Kegelapan.png
+Images/BuildingPortraits/OSIS.png
 size: 100, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingPortraits/Kegelapan
+BuildingPortraits/OSIS
   rotate: false
   xy: 0, 0
   size: 100, 100
