@@ -47,12 +47,12 @@
 	{
 		"name": "Penculikan"
 		"type": "Founder"
-		"uniques": ["When defeating a [All] unit, earn [0] Gold and recruit it <with [40]% chance>"],
+		"uniques": ["When defeating a [All] unit, earn [40] Gold and recruit it <with [40]% chance>"],
 	},
 	{
 		"name": "Keajaiban Dunia"
 		"type": "Founder"
-		"uniques": ["[+20]% Production when constructing [Wonders] wonders [in all cities]"],
+		"uniques": ["[+40]% Production when constructing [Wonders] wonders [in all cities]"],
 	},
 	{
 		"name": "Negara Emas 20.45"
