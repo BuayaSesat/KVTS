@@ -37,7 +37,7 @@
 	{
 		"name": "Terangi Dunia"
 		"type": "Founder"
-		"uniques": ["[1] Sight <for [All] units>", "Reveals the entire map"],
+		"uniques": ["[100] Sight <for [All] units>", "Reveals the entire map"],
 	},
 	{
 		"name": "Sumber Daya Alam"
@@ -53,11 +53,6 @@
 		"name": "Keajaiban Dunia"
 		"type": "Founder"
 		"uniques": ["[+40]% Production when constructing [Wonders] wonders [in all cities]"],
-	},
-	{
-		"name": "Negara Emas 20.45"
-		"type": "Founder"
-		"uniques": ["[+40]% Golden Age length", "[+10]% [Production] <during a Golden Age>"],
 	},
 	{
 		"name": "Hacker Jangan Menyerang"
@@ -117,7 +112,7 @@
 	{
 		"name": "10 + 6 = 17"
 		"type": "Follower"
-		"uniques": ["[-2]% [Science] from every follower, up to [-100]% <for [AI player] Civilizations>"],
+		"uniques": ["[-2]% [Science] from every follower, up to [-200]% <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Batik Is From Malaysia"
@@ -132,6 +127,6 @@
 	{
 		"name": "Cabulisme"
 		"type": "Follower"
-		"uniques": ["[-4 Faith] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[-8 Faith] [in all cities] <for [AI player] Civilizations>"],
 	},
 ]
