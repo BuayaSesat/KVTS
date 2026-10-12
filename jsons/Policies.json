@@ -11,31 +11,27 @@
     },
     "uniques": [
       "[+25]% [Gold] [in all cities]",
-      "Only available <for [Abydos] Civilizations>"
-    ],
+      "Only available <for [Abydos] Civilizations>"],
     "policies": [
       {
         "name": "Bereskan Helmet Gang",
         "uniques": [
           "[+33]% Strength <vs [Barbarians]>"
-          "Receive [+5000]% Gold from Barbarian encampments and pillaging Cities"
-        ],
+          "Receive [+5000]% Gold from Barbarian encampments and pillaging Cities"],
         "row": 1,
         "column": 2
       },
       {
         "name": "Pekerjaan Paruh Waktu",
         "uniques": [
-          "[+50 Gold] per [1] population [in all cities]"
-        ],
+          "[+60 Gold] per [1] population [in all cities]"],
         "row": 1,
         "column": 4
       },
       {
         "name": "Begal Bus Sekolah",
         "uniques": [
-          "[5] population [in capital]"
-        ],
+          "[5] population [in capital]"],
         "requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
         "row": 2,
         "column": 1
@@ -43,8 +39,7 @@
       {
         "name": "Rampok Bank",
         "uniques": [
-          "Gain [100000] [Gold]"
-        ],
+          "Gain [100000] [Gold]"],
         "requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
         "row": 2,
         "column": 3
@@ -52,8 +47,7 @@
       {
         "name": "Idola Pakaian Renang",
         "uniques": [
-          "[+10]% [Gold] <upon entering a new era>"
-        ],
+          "[+10]% [Gold] <upon entering a new era>"],
         "requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
         "row": 2,
         "column": 5
@@ -61,9 +55,8 @@
       {
         "name": "Abydos Complete",
         "uniques": [
-          "Empire enters a [999]-turn Golden Age <when above [0] [Gold]> <when not in a Golden Age> <every [1] turns>"
-        ]
+          "Empire enters a [999]-turn Golden Age <when above [0] [Gold]> <when not in a Golden Age> <every [1] turns>"]
       }
-    ] 
+    ]
   }
 ]
