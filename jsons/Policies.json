@@ -18,7 +18,7 @@
         "name": "Bereskan Helmet Gang",
         "uniques": [
           "[+33]% Strength <vs [Barbarians]>"
-          "Receive [+2500]% Gold from Barbarian encampments and pillaging Cities"
+          "Receive [+5000]% Gold from Barbarian encampments and pillaging Cities"
         ],
         "row": 1,
         "column": 2
@@ -26,7 +26,7 @@
       {
         "name": "Pekerjaan Paruh Waktu",
         "uniques": [
-          "[+125 Gold] per [1] population [in all cities]"
+          "[+50 Gold] per [1] population [in all cities]"
         ],
         "row": 1,
         "column": 4
