@@ -9,33 +9,52 @@
       "Scientific": 0
     },
     "uniques": [
-      "[+20]% Strength <vs [Barbarians]>",
-      "Receive [+2500]% Gold from Barbarian encampments and pillaging Cities",
+      "[+25]% [Gold] [in all cities]",
       "Only Available <for [Abydos] Civilizations>"
     ],
     "policies": [
       {
-        "name": "Emas Ibu Kota",
+        "name": "Bereskan Helmet Gang",
         "uniques": [
-          "[+25]% [Gold] [in capital]"
+          "[+33]% Strength <vs [Barbarians]>"
+          "Receive [+2500]% Gold from Barbarian encampments and pillaging Cities"
         ],
         "row": 1,
+        "column": 2
+      },
+      {
+        "name": "Pekerjaan Paruh Waktu",
+        "uniques": [
+          "[+125 Gold] per [1] population [in all cities]"
+        ],
+        "row": 1,
+        "column": 4
+      },
+      {
+        "name": "Begal Bus Sekolah",
+        "uniques": [
+          "[5] population [in capital]"
+        ],
+        "requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
+        "row": 2,
         "column": 1
       },
       {
-        "name": "Penghasilan Ubin",
+        "name": "Rampok Bank",
         "uniques": [
-          "[+50 Gold] from [All] tiles [in all cities]"
+          "Gain [100000] [Gold]"
         ],
-        "row": 1,
+        "requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
+        "row": 2,
         "column": 3
       },
       {
-        "name": "Sewa Bangunan",
+        "name": "Idola Pakaian Renang",
         "uniques": [
-          "[+250 Gold] from all [Gold] buildings"
+          "[+10]% [Gold] <upon entering a new era>"
         ],
-        "row": 1,
+        "requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
+        "row": 2,
         "column": 5
       },
     ]
