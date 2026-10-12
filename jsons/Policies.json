@@ -1,10 +1,11 @@
 [
   {
     "name": "Abydos",
+    "era": "Ancient Era",
     "priorities": {
       "Neutral": 0,
       "Cultural": 0,
-      "Diplomatic": 0,
+      "Diplomatic": 99,
       "Domination": 0,
       "Scientific": 0
     },
