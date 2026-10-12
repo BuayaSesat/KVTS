@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Abydos",
+    "priorities": {
+      "Neutral": 0,
+      "Cultural": 0,
+      "Diplomatic": 0,
+      "Domination": 0,
+      "Scientific": 0
+    },
+    "uniques": [
+      "
+    ],
+    "policies": [
+      {
+        "name": "",
+        "uniques": [
+          "
+        ],
+        "requires": [""],
+        "row": ,
+        "column": 
+      },
+    ]
+    
+  }
+]
