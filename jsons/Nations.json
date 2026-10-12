@@ -25,11 +25,10 @@
 		"innerColor": [74, 52, 34],
 		"uniqueName": "Hutang Sekolah",
 		"uniques": [
+			"Gain [999999] [Culture]",
 			"Gain [-962350] [Gold]",
-			"[+500 Gold] per [1] population [in all cities]",
+			"[+250 Gold] per [1] population [in all cities]",
 			"[+30]% Strength for cities <when attacking>",
-			"[+30]% Strength <vs [Barbarians]>",
-			"Receive [+5000]% Gold from Barbarian encampments and pillaging Cities",
 			"[Great Merchant] is earned [+100]% faster"],
 		"cities": [
 			"Foreclosure Task Force",
