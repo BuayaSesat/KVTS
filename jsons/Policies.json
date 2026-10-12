@@ -9,17 +9,34 @@
       "Scientific": 0
     },
     "uniques": [
-      "
+      "[+20]% Strength <vs [Barbarians]>",
+      "Receive [+2500]% Gold from Barbarian encampments and pillaging Cities",
+      "Only Available <for [Abydos] Civilizations>"],
     ],
     "policies": [
       {
-        "name": "",
+        "name": "Emas Ibu Kota",
         "uniques": [
-          "
+          "[+25]% [Gold] [in capital]"
         ],
-        "requires": [""],
-        "row": ,
-        "column": 
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Penghasilan Ubin",
+        "uniques": [
+          "[+50 Gold] from [All] tiles [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Sewa Bangunan",
+        "uniques": [
+          "[+250 Gold] from all [Gold] buildings"
+        ],
+        "row": 1,
+        "column": 5
       },
     ]
     
