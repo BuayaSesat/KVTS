@@ -57,7 +57,13 @@
         "row": 2,
         "column": 5
       },
-    ]
-    
-  }
+      {
+        "name": "Abydos Complete",
+        "uniques": [
+          "Empire enters a [999]-turn Golden Age <when above [0] [Gold]> <when not in a Golden Age> <every [1] turns>"
+        ]
+      }
+    ] 
+  },
+  
 ]
