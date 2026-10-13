@@ -112,12 +112,12 @@
 	{
 		"name": "10 + 6 = 17"
 		"type": "Follower"
-		"uniques": ["[-200]% [Science] <every [10] turns> <for [AI player] Civilizations>"],
+		"uniques": ["[-1 Science] per [1] population [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Batik Is From Malaysia"
 		"type": "Follower"
-		"uniques": ["[-3]% [Culture] from every [Terrain] <for [AI player] Civilizations>"],
+		"uniques": ["[-1 Culture] from [All] tiles [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "WNI Seumur Hidup"
