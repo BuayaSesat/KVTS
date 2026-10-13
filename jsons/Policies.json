@@ -69,51 +69,52 @@
       "Scientific": 99
     },
     "uniques": [
-      "
+      "[-15]% Science cost of researching new Technologies",
+      "Only available <for [Millennium] Civilizations>"],
     "policies": [
       {
-        "name": "",
+        "name": "Sekolah Sains",
         "uniques": [
-          "
-        "requires": [""],
+          "[+1 Science] per [1] population [in all cities]"],
         "row": 1,
         "column": 1
       },
       {
-        "name": "",
+        "name": "Departemen Teknik",
         "uniques": [
-          "
-        "requires": [""],
+          "Can build [All] improvements at a [+50]% rate"],
         "row": 1,
         "column": 3
       },
       {
-        "name": "",
+        "name": "Permainan Arkade",
         "uniques": [
-          "
-        "requires": [""],
+          "[+3 Happiness] from all [Happiness] buildings"],
         "row": 1,
         "column": 5
       },
       {
-        "name": "",
+        "name": "Pelatihan Gym",
         "uniques": [
-          "
-        "requires": [""],
+          "New [All] units start with [30] XP [in all cities]"],
+        "requires": ["Departemen Teknik"],
         "row": 2,
         "column": 2
       },
       {
-        "name": "",
+        "name": "Peretasan Veritas",
         "uniques": [
-          "
-        "requires": [""],
+          "Gain an extra spy",
+          "[+25]% spy effectiveness [in all cities]",
+          "[-25]% enemy spy effectiveness [in all cities]"],
+        "requires": ["Permainan Arkade"],
         "row": 2,
         "column": 4
       },
       {
         "name": "Millennium Complete",
         "uniques": [
-          "
+          "Science gained from research agreements [+50]%",
+          "[-5]% maintenance costs <upon entering a new era>"],
       }
 ]
