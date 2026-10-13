@@ -115,6 +115,6 @@
         "name": "Millennium Complete",
         "uniques": [
           "Science gained from research agreements [+50]%",
-          "[-5]% maintenance costs <upon entering a new era>"],
+          "[-25]% maintenance costs"],
       }
 ]
