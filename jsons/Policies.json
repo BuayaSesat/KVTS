@@ -61,6 +61,7 @@
   },
   {
     "name": "Millennium",
+    "era": "Ancient era",
     "priorities": {
       "Neutral": 0,
       "Cultural": 0,
