@@ -71,9 +71,8 @@
 		"uniques": [
 			"Free Technology <upon entering a new era>",
 			"[-15]% Science cost of researching new Technologies",
-			"Science gained from research agreements [+50]%",
 			"[Great Scientist] is earned [+100]% faster",
-			"[+5]% maintenance costs <upon entering a new era>"],
+			"[+50]% maintenance costs"],
 		"cities": [
 			"Seminar",
 			"Veritas",
