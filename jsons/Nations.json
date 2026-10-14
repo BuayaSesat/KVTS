@@ -70,9 +70,9 @@
 		"uniqueName": "Teknologi & Sains",
 		"uniques": [
 			"Free Technology <upon entering a new era>",
-			"[-15]% Science cost of researching new Technologies",
-			"[Great Scientist] is earned [+100]% faster",
-			"[+50]% maintenance costs"],
+			"[-10]% Science cost of researching new Technologies",
+			"[+50]% maintenance cost",
+			"[Great Scientist] is earned [+100]% faster"],
 		"cities": [
 			"Seminar",
 			"Veritas",
@@ -132,13 +132,10 @@
 		"innerColor": [163, 135, 65],
 		"uniqueName": "Perjanjian Eden",
 		"uniques": [
-			"[+100]% [Faith]",
-			"May choose [1] additional [Follower] beliefs when [founding] a religion",
+			"May choose [1] additional belief(s) of any type when [founding] a religion",
 			"May choose [1] additional belief(s) of any type when [enhancing] a religion",
-			"When declaring friendship, both parties gain a [+20]% boost to great person generation <for [10] turns>",
 			"[+10]% Strength <vs [Gehenna]>",
-			"[+50]% enemy spy effectiveness [in your cities]",
-			"[+20]% Food consumption by [Population] [in all cities]",
+			"[+75]% enemy spy effectiveness [in your cities]",
 			"[Great Prophet] is earned [+100]% faster"],
 		"cities": [
 			"Tea Party",
