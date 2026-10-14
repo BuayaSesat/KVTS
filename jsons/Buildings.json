@@ -41,7 +41,7 @@
 		"uniques": [
 			"Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
-			"[+33]% Natural religion spread [in all cities]"],
+			"[+100]% Natural religion spread [in all cities]"],
 		"requiredTech": "Theology"
 	},
 	{
