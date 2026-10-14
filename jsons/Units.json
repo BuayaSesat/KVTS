@@ -19,10 +19,8 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 115,
-		"cost": 5,
+		"cost": 599,
 		"uniques": [
-			"Unit will heal every turn, even if it performs an action <every [4] turns>",
-			"[-1000] HP when healing <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+23]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Gunpowder",
@@ -282,7 +280,8 @@
 		"strength": 131,
 		"cost": 555,
 		"uniques": [
-			"[This Unit] heals [15] HP <every [4] turns>"],
+			"Unit will heal every turn, even if it performs an action <every [4] turns>",
+			"[5] HP when healing <every [4] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
@@ -445,7 +444,8 @@
 		"cost": 416,
 		"uniques": [
 			"[+5]% Strength bonus for [All] units within [1] tiles <every [3] turns>",
-			"[This Unit] heals [9] HP <every [3] turns>"],
+			"Unit will heal every turn, even if it performs an action <every [3] turns>",
+			"[-1] HP when healing <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shot"
 	},
@@ -647,7 +647,7 @@
 		"strength": 105,
 		"cost": 449,
 		"uniques": [
-			"[This Unit] heals [10] HP <every [3] turns>"],
+			"Unit will heal every turn, even if it performs an action <every [3] turns>"],
 		"requiredTech": "Fertilizer",
 		"attackSound": "machinegun"
 	},
@@ -794,7 +794,8 @@
 		"strength": 116,
 		"cost": 516,
 		"uniques": [
-			"[This Unit] heals [9] HP <every [4] turns>",
+			"Unit will heal every turn, even if it performs an action <every [4] turns>",
+			"[-1] HP when healing <every [4] turns>",
 			"All adjacent units heal [9] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
 		"attackSound": "machinegun"
@@ -1077,7 +1078,8 @@
 		"uniques": [
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+55]% Strength <when attacking> <every [5] turns>",
-			"[-26]% Strength <when defending> <every [5] turns>"],
+			"Unit will heal every turn, even if it performs an action <every [5] turns> <when at war>",
+			"[-36] HP when healing <every [5] turns> <when at war>"],
 		"requiredTech": "Fertilizer",
 		"attackSound": "machinegun"
 	},
@@ -1091,7 +1093,8 @@
 		"range": 3,
 		"cost": 441,
 		"uniques": [
-			"[This Unit] heals [7] HP <every [3] turns>"],
+			"Unit will heal every turn, even if it performs an action <every [3] turns>",
+			"[-3] HP when healing <every [3] turns>"],
 		"requiredTech": "Fertilizer",
 		"attackSound": "machinegun"
 	},
