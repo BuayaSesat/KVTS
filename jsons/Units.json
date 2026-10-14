@@ -280,7 +280,7 @@
 		"strength": 131,
 		"cost": 555,
 		"uniques": [
-			"[This Unit] heals [15] HP <every [4] turns>"],
+			"[This Unit] heals [15] HP"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
 	},
