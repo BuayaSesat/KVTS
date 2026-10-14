@@ -21,8 +21,8 @@
 		"strength": 115,
 		"cost": 5,
 		"uniques": [
-			"Unit will heal every turn, even if it performs an action",
-			"[1000] HP when healing",
+			"Unit will heal every turn, even if it performs an action <every [4] turns>",
+			"[-1000] HP when healing <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+23]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Gunpowder",
