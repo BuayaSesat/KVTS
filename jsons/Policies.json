@@ -31,7 +31,8 @@
       {
         "name": "Begal Bus Sekolah",
         "uniques": [
-          "[5] population [in capital]"],
+          "[5] population [in capital]",
+          "[+5 Happiness] [in capital]"],
         "requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
         "row": 2,
         "column": 1
@@ -47,7 +48,7 @@
       {
         "name": "Idola Pakaian Renang",
         "uniques": [
-          "[+10]% [Gold] <upon entering a new era>"],
+          "[+1 Happiness] per every [100000] [Gold]"],
         "requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
         "row": 2,
         "column": 5
@@ -117,6 +118,68 @@
         "uniques": [
           "Science gained from research agreements [+50]%",
           "[-25]% maintenance costs"],
+      }
+    ]
+  },
+  {
+    "name": "Trinity",
+    "era": "Ancient era",
+    "priorities": {
+      "Neutral": 0,
+      "Cultural": 0,
+      "Diplomatic": 99,
+      "Domination": 0,
+      "Scientific": 0
+    },
+    "uniques": [
+      "Free [Great Prophet] appears"],
+    "policies": [
+      {
+        "name": "Pesta Teh",
+        "uniques": [
+          "When declaring friendship, both parties gain a [+25]% boost to great person generation <for [10] turns>"],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Persaudaraan Wanita",
+        "uniques": [
+          "[+1 Faith] per [1] population [in all cities]",
+          "[+33]% Natural religion spread [in all cities]"],
+        "requires": ["Pesta Teh"],
+        "row": 2,
+        "column": 1
+      },
+      {
+        "name": "Satuan Tugas Keadilan",
+        "uniques": [
+          "[+15]% Strength <when attacking> <for [All] units>"],
+        "requires": ["Pesta Teh"],
+        "row": 2,
+        "column": 3
+      },
+      {
+        "name": "Ksatria Perbaikan",
+        "uniques": [
+          "[10] HP when healing"],
+        "requires": ["Pesta Teh"],
+        "row": 2,
+        "column": 5
+      },
+      {
+        "name": "Klub Remedial",
+        "uniques": [
+          "New [All] units start with [30] XP [in all cities]",
+          "[-50]% enemy spy effectiveness [in all cities]"],
+        "requires": ["Persaudaraan Wanita", "Satuan Tugas Keadilan", "Ksatria Perbaikan"],
+        "row": 3,
+        "column": 3
+      },
+      {
+        "name": "Trinity Complete",
+        "uniques": [
+          "May buy [All] units with [Faith] for [3] times their normal Production cost",
+          "Only available <for [Trinity] Civilizations>"]
       }
     ]
   },
