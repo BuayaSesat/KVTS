@@ -19,7 +19,7 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 115,
-		"cost": 599,
+		"cost": 5,
 		"uniques": [
 			"[This Unit] heals [10] HP",
 			"[1] additional attacks per turn <every [4] turns>",
