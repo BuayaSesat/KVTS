@@ -196,10 +196,10 @@
       "Scientific": 0
     },
     "uniques": [
-      "[+75]% growth [in all cities] <when between [-1] and [-10] [Happiness]>",
-			"[+50]% [Production] [in all cities] <when below [-10] [Happiness]>",
-			"[+33]% Strength <for [All] units> <when below [-10] [Happiness]>",
-      "Only available <for [Arius] Civilizations>"],
+		"[+75]% growth [in all cities] <when between [-1] and [-10] [Happiness]>",
+		"[+50]% [Production] [in all cities] <when below [-10] [Happiness]>",
+		"[+33]% Strength <for [All] units> <when below [-10] [Happiness]>",
+		"Only available <for [Arius] Civilizations>"],
     "policies": [
       {
         "name": "Kebenaran Dunia",
@@ -226,8 +226,8 @@
           "No damage penalty for wounded units",
           "Rebel units may spawn <every [1] turns> <with [5]% chance>"],
         "requires": ["Tanam Kebencian"],
-        "row": 2,
-        "column": 4
+        "row": 3,
+        "column": 2
       },
       {
         "name": "Curi Perjanjian Eden",
@@ -235,8 +235,8 @@
           "Free [Great Engineer] appears",
           "Free Technology"],
         "requires": ["Kebenaran Dunia"],
-        "row": 3,
-        "column": 2
+        "row": 2,
+        "column": 4
       },
       {
         "name": "Ritual Pengorbanan",
