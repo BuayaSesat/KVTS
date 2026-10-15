@@ -242,7 +242,7 @@
         "name": "Ritual Pengorbanan",
         "uniques": [
           "[+25]% Strength <for [Wounded] units>",
-          "[-1] population [in Capital]"],
+          "[-1] population [in capital]"],
         "requires": ["Curi Perjanjian Eden"],
         "row": 3,
         "column": 4
