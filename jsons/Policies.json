@@ -173,7 +173,7 @@
 				"uniques": [
 					"New [All] units start with [30] XP [in all cities]",
 					"[-50]% enemy spy effectiveness [in all cities]"],
-				"requires": ["Persaudaraan Wanita"],
+				"requires": ["Satuan Tugas Keadilan"],
 				"row": 3,
 				"column": 3
 			},
@@ -249,10 +249,7 @@
 			{
 				"name": "Arius Complete",
 				"uniques": [
-					"[+50]% Strength <vs [Azusa] units> <for [10] turns>",
-					"Free [Saori] appears",
-					"Free [Azusa] appears",
-					"A [Azusa] rebels <upon turn end>"]
+					"A [Azusa] rebels"]
 			}
 		]
 	},
