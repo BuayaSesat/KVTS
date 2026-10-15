@@ -1,260 +1,260 @@
 [
-  {
-    "name": "Abydos",
-    "era": "Ancient era",
-    "priorities": {
-      "Neutral": 0,
-      "Cultural": 0,
-      "Diplomatic": 99,
-      "Domination": 0,
-      "Scientific": 0
-    },
-    "uniques": [
-      "[+25]% [Gold] [in all cities]",
-      "Only available <for [Abydos] Civilizations>"],
-    "policies": [
-      {
-        "name": "Bereskan Helmet Gang",
-        "uniques": [
-          "[+33]% Strength <vs [Barbarians]>"
-          "Receive [+10000]% Gold from Barbarian encampments and pillaging Cities"],
-        "row": 1,
-        "column": 2
-      },
-      {
-        "name": "Pekerjaan Paruh Waktu",
-        "uniques": [
-          "[+60 Gold] per [1] population [in all cities]"],
-        "row": 1,
-        "column": 4
-      },
-      {
-        "name": "Begal Bus Sekolah",
-        "uniques": [
-          "[5] population [in capital]",
-          "[+5 Happiness] [in capital]"],
-        "requires": ["Bereskan Helmet Gang"],
-        "row": 2,
-        "column": 1
-      },
-      {
-        "name": "Rampok Bank",
-        "uniques": [
-          "Gain [100000] [Gold]"],
-        "requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
-        "row": 2,
-        "column": 3
-      },
-      {
-        "name": "Idola Pakaian Renang",
-        "uniques": [
-          "[+1 Happiness] per every [100000] [Gold]"],
-        "requires": ["Pekerjaan Paruh Waktu"],
-        "row": 2,
-        "column": 5
-      },
-      {
-        "name": "Abydos Complete",
-        "uniques": [
-          "Empire enters a [999]-turn Golden Age <when above [0] [Gold]> <when not in a Golden Age> <every [1] turns>"]
-      }
-    ]
-  },
-  {
-    "name": "Millennium",
-    "era": "Ancient era",
-    "priorities": {
-      "Neutral": 0,
-      "Cultural": 0,
-      "Diplomatic": 0,
-      "Domination": 0,
-      "Scientific": 99
-    },
-    "uniques": [
-      "[-15]% Science cost of researching new Technologies",
-      "Only available <for [Millennium] Civilizations>"],
-    "policies": [
-      {
-        "name": "Sekolah Sains",
-        "uniques": [
-          "[+1 Science] per [1] population [in all cities]"],
-        "row": 1,
-        "column": 1
-      },
-      {
-        "name": "Departemen Teknik",
-        "uniques": [
-          "Free [Worker] appears",
-          "Can build [All] improvements at a [+33]% rate"],
-        "requires": ["Sekolah Sains"],
-        "row": 1,
-        "column": 3
-      },
-      {
-        "name": "Permainan Arkade",
-        "uniques": [
-          "[+3 Happiness] from all [Happiness] buildings"],
-        "row": 1,
-        "column": 5
-      },
-      {
-        "name": "Pelatihan Gym",
-        "uniques": [
-          "New [All] units start with [30] XP [in all cities]"],
-        "requires": ["Departemen Teknik"],
-        "row": 2,
-        "column": 2
-      },
-      {
-        "name": "Peretasan Veritas",
-        "uniques": [
-          "Gain an extra spy",
-          "[+25]% spy effectiveness [in all cities]",
-          "[-25]% enemy spy effectiveness [in all cities]"],
-        "requires": ["Permainan Arkade"],
-        "row": 2,
-        "column": 4
-      },
-      {
-        "name": "Millennium Complete",
-        "uniques": [
-          "Science gained from research agreements [+50]%",
-          "[-25]% maintenance costs"],
-      }
-    ]
-  },
-  {
-    "name": "Trinity",
-    "era": "Ancient era",
-    "priorities": {
-      "Neutral": 0,
-      "Cultural": 0,
-      "Diplomatic": 99,
-      "Domination": 0,
-      "Scientific": 0
-    },
-    "uniques": [
-      "Free [Great Prophet] appears",
-      "Only available <for [Trinity] Civilizations>"],
-    "policies": [
-      {
-        "name": "Pesta Teh",
-        "uniques": [
-          "When declaring friendship, both parties gain a [+25]% boost to great person generation <for [10] turns>"],
-        "row": 1,
-        "column": 3
-      },
-      {
-        "name": "Satuan Tugas Keadilan",
-        "uniques": [
-          "[+15]% Strength <when attacking> <for [All] units>"],
-        "requires": ["Persaudaraan Wanita"],
-        "row": 2,
-        "column": 1
-      },
-      {
-        "name": "Persaudaraan Wanita",
-        "uniques": [
-          "[+1 Faith] per [1] population [in all cities]",
-          "[+33]% Natural religion spread [in all cities]"],
-        "requires": ["Pesta Teh"],
-        "row": 2,
-        "column": 3
-      },
-      {
-        "name": "Ksatria Perbaikan",
-        "uniques": [
-          "[10] HP when healing"],
-        "requires": ["Persaudaraan Wanita"],
-        "row": 2,
-        "column": 5
-      },
-      {
-        "name": "Klub Remedial",
-        "uniques": [
-          "New [All] units start with [30] XP [in all cities]",
-          "[-50]% enemy spy effectiveness [in all cities]"],
-        "requires": ["Persaudaraan Wanita"],
-        "row": 3,
-        "column": 3
-      },
-      {
-        "name": "Trinity Complete",
-        "uniques": [
-          "May buy [All] units with [Faith] for [3] times their normal Production cost"]
-      }
-    ]
-  },
-  {
-    "name": "Arius",
-    "era": "Ancient era",
-    "priorities": {
-      "Neutral": 0,
-      "Cultural": 0,
-      "Diplomatic": 0,
-      "Domination": 99,
-      "Scientific": 0
-    },
-    "uniques": [
-		"[+75]% growth [in all cities] <when between [-1] and [-10] [Happiness]>",
-		"[+50]% [Production] [in all cities] <when below [-10] [Happiness]>",
-		"[+33]% Strength <for [All] units> <when below [-10] [Happiness]>",
-		"Only available <for [Arius] Civilizations>"],
-    "policies": [
-      {
-        "name": "Kebenaran Dunia",
-        "uniques": [
-			"[-50]% unhappiness from the number of cities",
-			"[+50]% [Happiness]"],
-        "row": 1,
-        "column": 3
-      },
-      {
-        "name": "Tanam Kebencian",
-        "uniques": [
-			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
-			"[+10]% Strength <vs [Trinity]>",
-            "[+10]% Strength <vs [Gehenna]>"],
-        "requires": ["Kebenaran Dunia"],
-        "row": 2,
-        "column": 2
-      },
-      {
-        "name": "Pelatihan Penderitaan",
-        "uniques": [
-            "New [All] units start with [30] XP [in all cities]",
-            "No damage penalty for wounded units",
-            "Rebel units may spawn <every [1] turns> <with [5]% chance>"],
-        "requires": ["Tanam Kebencian"],
-        "row": 3,
-        "column": 2
-      },
-      {
-        "name": "Curi Perjanjian Eden",
-        "uniques": [
-            "Free [Great Engineer] appears",
-            "Free Technology"],
-        "requires": ["Kebenaran Dunia"],
-        "row": 2,
-        "column": 4
-      },
-      {
-        "name": "Ritual Pengorbanan",
-        "uniques": [
-            "[+25]% Strength <for [Wounded] units>",
-            "[-1] population [in capital]"],
-        "requires": ["Curi Perjanjian Eden"],
-        "row": 3,
-        "column": 4
-      },
-      {
-        "name": "Arius Complete",
-        "uniques": [
-            "[+50]% Strength <vs [Azusa] units> <for [10] turns>",
-            "Free [Saori] appears",
-			"Free [Azusa] appears",
-            "A [Azusa] rebels <upon turn end>"],
-      }
-    ]
-  },
+	{
+		"name": "Abydos",
+		"era": "Ancient era",
+		"priorities": {
+			"Neutral": 0,
+			"Cultural": 0,
+			"Diplomatic": 99,
+			"Domination": 0,
+			"Scientific": 0
+		},
+		"uniques": [
+			"[+25]% [Gold] [in all cities]",
+			"Only available <for [Abydos] Civilizations>"],
+		"policies": [
+			{
+				"name": "Bereskan Helmet Gang",
+				"uniques": [
+					"[+33]% Strength <vs [Barbarians]>"
+					"Receive [+10000]% Gold from Barbarian encampments and pillaging Cities"],
+				"row": 1,
+				"column": 2
+			},
+			{
+				"name": "Pekerjaan Paruh Waktu",
+				"uniques": [
+					"[+60 Gold] per [1] population [in all cities]"],
+				"row": 1,
+				"column": 4
+			},
+			{
+				"name": "Begal Bus Sekolah",
+				"uniques": [
+					"[5] population [in capital]",
+					"[+5 Happiness] [in capital]"],
+				"requires": ["Bereskan Helmet Gang"],
+				"row": 2,
+				"column": 1
+			},
+			{
+				"name": "Rampok Bank",
+				"uniques": [
+					"Gain [100000] [Gold]"],
+				"requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
+				"row": 2,
+				"column": 3
+			},
+			{
+				"name": "Idola Pakaian Renang",
+				"uniques": [
+					"[+1 Happiness] per every [100000] [Gold]"],
+				"requires": ["Pekerjaan Paruh Waktu"],
+				"row": 2,
+				"column": 5
+			},
+			{
+				"name": "Abydos Complete",
+				"uniques": [
+					"Empire enters a [999]-turn Golden Age <when above [0] [Gold]> <when not in a Golden Age> <every [1] turns>"]
+			}
+		]
+	},
+	{
+		"name": "Millennium",
+		"era": "Ancient era",
+		"priorities": {
+			"Neutral": 0,
+			"Cultural": 0,
+			"Diplomatic": 0,
+			"Domination": 0,
+			"Scientific": 99
+		},
+		"uniques": [
+			"[-15]% Science cost of researching new Technologies",
+			"Only available <for [Millennium] Civilizations>"],
+		"policies": [
+			{
+				"name": "Sekolah Sains",
+				"uniques": [
+					"[+1 Science] per [1] population [in all cities]"],
+				"row": 1,
+				"column": 1
+			},
+			{
+				"name": "Departemen Teknik",
+				"uniques": [
+					"Free [Worker] appears",
+					"Can build [All] improvements at a [+33]% rate"],
+				"requires": ["Sekolah Sains"],
+				"row": 1,
+				"column": 3
+			},
+			{
+				"name": "Permainan Arkade",
+				"uniques": [
+					"[+3 Happiness] from all [Happiness] buildings"],
+				"row": 1,
+				"column": 5
+			},
+			{
+				"name": "Pelatihan Gym",
+				"uniques": [
+					"New [All] units start with [30] XP [in all cities]"],
+				"requires": ["Departemen Teknik"],
+				"row": 2,
+				"column": 2
+			},
+			{
+				"name": "Peretasan Veritas",
+				"uniques": [
+					"Gain an extra spy",
+					"[+25]% spy effectiveness [in all cities]",
+					"[-25]% enemy spy effectiveness [in all cities]"],
+				"requires": ["Permainan Arkade"],
+				"row": 2,
+				"column": 4
+			},
+			{
+				"name": "Millennium Complete",
+				"uniques": [
+					"Science gained from research agreements [+50]%",
+					"[-25]% maintenance costs"],
+			}
+		]
+	},
+	{
+		"name": "Trinity",
+		"era": "Ancient era",
+		"priorities": {
+			"Neutral": 0,
+			"Cultural": 0,
+			"Diplomatic": 99,
+			"Domination": 0,
+			"Scientific": 0
+		},
+		"uniques": [
+			"Free [Great Prophet] appears",
+			"Only available <for [Trinity] Civilizations>"],
+		"policies": [
+			{
+				"name": "Pesta Teh",
+				"uniques": [
+					"When declaring friendship, both parties gain a [+25]% boost to great person generation <for [10] turns>"],
+				"row": 1,
+				"column": 3
+			},
+			{
+				"name": "Satuan Tugas Keadilan",
+				"uniques": [
+					"[+15]% Strength <when attacking> <for [All] units>"],
+				"requires": ["Persaudaraan Wanita"],
+				"row": 2,
+				"column": 1
+			},
+			{
+				"name": "Persaudaraan Wanita",
+				"uniques": [
+					"[+1 Faith] per [1] population [in all cities]",
+					"[+33]% Natural religion spread [in all cities]"],
+				"requires": ["Pesta Teh"],
+				"row": 2,
+				"column": 3
+			},
+			{
+				"name": "Ksatria Perbaikan",
+				"uniques": [
+					"[10] HP when healing"],
+				"requires": ["Persaudaraan Wanita"],
+				"row": 2,
+				"column": 5
+			},
+			{
+				"name": "Klub Remedial",
+				"uniques": [
+					"New [All] units start with [30] XP [in all cities]",
+					"[-50]% enemy spy effectiveness [in all cities]"],
+				"requires": ["Persaudaraan Wanita"],
+				"row": 3,
+				"column": 3
+			},
+			{
+				"name": "Trinity Complete",
+				"uniques": [
+					"May buy [All] units with [Faith] for [3] times their normal Production cost"]
+			}
+		]
+	},
+	{
+		"name": "Arius",
+		"era": "Ancient era",
+		"priorities": {
+			"Neutral": 0,
+			"Cultural": 0,
+			"Diplomatic": 0,
+			"Domination": 99,
+			"Scientific": 0
+		},
+		"uniques": [
+			"[+75]% growth [in all cities] <when between [-1] and [-10] [Happiness]>",
+			"[+50]% [Production] [in all cities] <when below [-10] [Happiness]>",
+			"[+33]% Strength <for [All] units> <when below [-10] [Happiness]>",
+			"Only available <for [Arius] Civilizations>"],
+		"policies": [
+			{
+				"name": "Kebenaran Dunia",
+				"uniques": [
+					"[-50]% unhappiness from the number of cities",
+					"[+50]% [Happiness]"],
+				"row": 1,
+				"column": 3
+			},
+			{
+				"name": "Tanam Kebencian",
+				"uniques": [
+					"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
+					"[+10]% Strength <vs [Trinity]>",
+					"[+10]% Strength <vs [Gehenna]>"],
+				"requires": ["Kebenaran Dunia"],
+				"row": 2,
+				"column": 2
+			},
+			{
+				"name": "Pelatihan Penderitaan",
+				"uniques": [
+					"New [All] units start with [30] XP [in all cities]",
+					"No damage penalty for wounded units",
+					"Rebel units may spawn <every [1] turns> <with [5]% chance>"],
+				"requires": ["Tanam Kebencian"],
+				"row": 3,
+				"column": 2
+			},
+			{
+				"name": "Curi Perjanjian Eden",
+				"uniques": [
+					"Free [Great Engineer] appears",
+					"Free Technology"],
+				"requires": ["Kebenaran Dunia"],
+				"row": 2,
+				"column": 4
+			},
+			{
+				"name": "Ritual Pengorbanan",
+				"uniques": [
+					"[+25]% Strength <for [Wounded] units>",
+					"[-1] population [in capital]"],
+				"requires": ["Curi Perjanjian Eden"],
+				"row": 3,
+				"column": 4
+			},
+			{
+				"name": "Arius Complete",
+				"uniques": [
+					"[+50]% Strength <vs [Azusa] units> <for [10] turns>",
+					"Free [Saori] appears",
+					"Free [Azusa] appears",
+					"A [Azusa] rebels <upon turn end>"]
+			}
+		]
+	},
 ]
