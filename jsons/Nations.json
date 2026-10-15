@@ -201,13 +201,6 @@
 			"[+100]% unhappiness from the number of cities",
 			"[-1 Happiness] per [1] population [in all cities]",
 			"[+1 Production] per [1] population [in all cities]",
-			"[+50]% growth [in all cities] <when between [-1] and [-10] [Happiness]>",
-			"[+50]% [Production] [in all cities] <when below [-10] [Happiness]>",
-			"[+33]% Strength <for [All] units> <when below [-10] [Happiness]>",
-			"No damage penalty for wounded units",
-			"[+15]% Strength <when fighting units from a Civilization with more Cities than you>",
-			"[+10]% Strength <vs [Trinity]>",
-			"[+10]% Strength <vs [Gehenna]>",
 			"[Great Engineer] is earned [+100]% faster"],
 		"cities": [
 			"Arius Squad",
