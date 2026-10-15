@@ -86,7 +86,6 @@
 				"uniques": [
 					"Free [Worker] appears",
 					"Can build [All] improvements at a [+33]% rate"],
-				"requires": ["Sekolah Sains"],
 				"row": 1,
 				"column": 3
 			},
