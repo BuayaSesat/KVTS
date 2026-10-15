@@ -253,7 +253,7 @@
             "[+50]% Strength <vs [Azusa] units> <for [10] turns>",
             "Free [Saori] appears",
 			"Free [Azusa] appears",
-            "A [Azusa] rebels"],
+            "A [Azusa] rebels <upon turn end>"],
       }
     ]
   },
