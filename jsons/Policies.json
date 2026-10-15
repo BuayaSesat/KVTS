@@ -99,7 +99,8 @@
 			{
 				"name": "Pelatihan Gym",
 				"uniques": [
-					"New [All] units start with [30] XP [in all cities]"],
+					"New [Military] units start with [15] XP [in all cities]",
+					"[+10]% Strength <for [Gunpowder] units>"],
 				"requires": ["Departemen Teknik"],
 				"row": 2,
 				"column": 2
@@ -172,7 +173,7 @@
 			{
 				"name": "Klub Remedial",
 				"uniques": [
-					"New [All] units start with [30] XP [in all cities]",
+					"New [Military] units start with [15] XP [in all cities]",
 					"[+33]% Strength for cities <when defending>"],
 				"requires": ["Satuan Tugas Keadilan"],
 				"row": 3,
@@ -224,9 +225,9 @@
 			{
 				"name": "Pelatihan Penderitaan",
 				"uniques": [
-					"New [All] units start with [30] XP [in all cities]",
+					"New [Military] units start with [15] XP [in all cities]",
 					"No damage penalty for wounded units",
-					"Rebel units may spawn <every [1] turns> <with [5]% chance>"],
+					"Rebel units may spawn <with [5]% chance> <every [1] turns>"],
 				"requires": ["Tanam Kebencian"],
 				"row": 3,
 				"column": 2
