@@ -224,7 +224,7 @@
         "uniques": [
           "New [All] units start with [30] XP [in all cities]",
           "No damage penalty for wounded units",
-          "Rebel units may spawn <every [1] turns> <with [5]% chance">],
+          "Rebel units may spawn <every [1] turns> <with [5]% chance>"],
         "requires": ["Tanam Kebencian"],
         "row": 2,
         "column": 4
