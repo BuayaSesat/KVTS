@@ -56,7 +56,8 @@
 			{
 				"name": "Abydos Complete",
 				"uniques": [
-					"Empire enters a [999]-turn Golden Age <when above [0] [Gold]> <when not in a Golden Age> <every [1] turns>"]
+					"Empire enters a [999]-turn Golden Age <when above [0] [Gold]> <when not in a Golden Age> <every [1] turns>",
+					"[Great Merchant] is earned [+100]% faster"]
 			}
 		]
 	},
@@ -118,7 +119,8 @@
 				"name": "Millennium Complete",
 				"uniques": [
 					"Science gained from research agreements [+50]%",
-					"[-25]% maintenance costs"],
+					"[-25]% maintenance costs",
+					"[Great Scientist] is earned [+100]% faster"]
 			}
 		]
 	},
@@ -144,18 +146,18 @@
 				"column": 3
 			},
 			{
-				"name": "Satuan Tugas Keadilan",
-				"uniques": [
-					"[+15]% Strength <when attacking> <for [All] units>"],
-				"requires": ["Persaudaraan Wanita"],
-				"row": 2,
-				"column": 1
-			},
-			{
 				"name": "Persaudaraan Wanita",
 				"uniques": [
 					"[+1 Faith] per [1] population [in all cities]",
 					"[+33]% Natural religion spread [in all cities]"],
+				"requires": ["Pesta Teh"],
+				"row": 2,
+				"column": 1
+			},
+			{
+				"name": "Satuan Tugas Keadilan",
+				"uniques": [
+					"[+15]% Strength <when attacking> <for [All] units>"],
 				"requires": ["Pesta Teh"],
 				"row": 2,
 				"column": 3
@@ -164,7 +166,7 @@
 				"name": "Ksatria Perbaikan",
 				"uniques": [
 					"[10] HP when healing"],
-				"requires": ["Persaudaraan Wanita"],
+				"requires": ["Pesta Teh"],
 				"row": 2,
 				"column": 5
 			},
@@ -180,7 +182,8 @@
 			{
 				"name": "Trinity Complete",
 				"uniques": [
-					"May buy [All] units with [Faith] for [3] times their normal Production cost"]
+					"May buy [All] units with [Faith] for [3] times their normal Production cost",
+					"[Great Prophet] is earned [+100]% faster"]
 			}
 		]
 	},
@@ -203,8 +206,8 @@
 			{
 				"name": "Kebenaran Dunia",
 				"uniques": [
-					"[-50]% unhappiness from the number of cities",
-					"[+50]% [Happiness]"],
+					"[+10]% [Production] [in all cities]",
+					"[+100]% Unhappiness from the number of cities"],
 				"row": 1,
 				"column": 3
 			},
@@ -249,7 +252,9 @@
 			{
 				"name": "Arius Complete",
 				"uniques": [
-					"A [Azusa] rebels"]
+					"[-50]% Unhappiness from the number of cities",
+					"[+50]% [Happiness]",
+					"[Great Engineer] is earned [+100]% faster"]
 			}
 		]
 	},
