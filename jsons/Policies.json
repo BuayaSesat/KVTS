@@ -207,7 +207,7 @@
 				"name": "Kebenaran Dunia",
 				"uniques": [
 					"[+10]% [Production] [in all cities]",
-					"[+100]% Unhappiness from the number of cities"],
+					"[+100]% unhappiness from the number of cities"],
 				"row": 1,
 				"column": 3
 			},
@@ -252,7 +252,7 @@
 			{
 				"name": "Arius Complete",
 				"uniques": [
-					"[-50]% Unhappiness from the number of cities",
+					"[-50]% unhappiness from the number of cities",
 					"[+50]% [Happiness]",
 					"[Great Engineer] is earned [+100]% faster"]
 			}
