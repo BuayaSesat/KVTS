@@ -27,8 +27,7 @@
 		"uniques": [
 			"Gain [-962350] [Gold]",
 			"[+250 Gold] per [1] population [in all cities]",
-			"[+30]% Strength for cities <when attacking>",
-			"[Great Merchant] is earned [+100]% faster"],
+			"[+30]% Strength for cities <when attacking>"],
 		"cities": [
 			"Foreclosure Task Force",
 			"Shiba Seki Ramen",
@@ -71,8 +70,7 @@
 		"uniques": [
 			"Free Technology <upon entering a new era>",
 			"[-10]% Science cost of researching new Technologies",
-			"[+50]% maintenance costs",
-			"[Great Scientist] is earned [+100]% faster"],
+			"[+50]% maintenance costs"],
 		"cities": [
 			"Seminar",
 			"Veritas",
@@ -135,8 +133,7 @@
 			"May choose [1] additional belief(s) of any type when [founding] a religion",
 			"May choose [1] additional belief(s) of any type when [enhancing] a religion",
 			"[+10]% Strength <vs [Gehenna]>",
-			"[+75]% enemy spy effectiveness [in your cities]",
-			"[Great Prophet] is earned [+100]% faster"],
+			"[+100]% enemy spy effectiveness [in your cities]"],
 		"cities": [
 			"Tea Party",
 			"Sisterhood",
@@ -198,10 +195,8 @@
 		"innerColor": [175, 175, 180],
 		"uniqueName": "Semuanya Sia-Sia",
 		"uniques": [
-			"[+100]% unhappiness from the number of cities",
-			"[-1 Happiness] per [1] population [in all cities]",
 			"[+1 Production] per [1] population [in all cities]",
-			"[Great Engineer] is earned [+100]% faster"],
+			"[-1 Happiness] per [1] population [in all cities]"],
 		"cities": [
 			"Arius Squad",
 			"Nicomedia Troop",
@@ -239,15 +234,14 @@
 
 		"outerColor": [155, 0, 255],
 		"innerColor": [8, 0, 13],
-		"uniqueName": "Raja Iblis",
+		"uniqueName": "Naga Iblis",
 		"uniques": [
 			"Gain an extra spy",
 			"New spies start with [2] level(s)",
 			"[+25]% Production when constructing [All] units [in all cities]",
 			"[+50]% maintenance costs <for [All] units>",
 			"Heals [25] damage if it kills a unit",
-			"Great General provides double combat bonus",
-			"[Great General] is earned [+100]% faster"],
+			"Great General provides double combat bonus"],
 		"cities": [
 			"Pandemonium Society",
 			"Prefect Team",
