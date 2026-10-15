@@ -3,14 +3,14 @@
 		"name": "Abydos",
 		"era": "Ancient era",
 		"priorities": {
-			"Neutral": 0,
+			"Neutral": 99,
 			"Cultural": 0,
-			"Diplomatic": 99,
+			"Diplomatic": 0,
 			"Domination": 0,
 			"Scientific": 0
 		},
 		"uniques": [
-			"[+25]% [Gold] [in all cities]",
+			"[+33]% Strength for cities <when attacking>",
 			"Only available <for [Abydos] Civilizations>"],
 		"policies": [
 			{
@@ -56,7 +56,7 @@
 			{
 				"name": "Abydos Complete",
 				"uniques": [
-					"Empire enters a [999]-turn Golden Age <when above [0] [Gold]> <when not in a Golden Age> <every [1] turns>",
+					"Empire enters a [250]-turn Golden Age <when above [0] [Gold]> <when not in a Golden Age> <every [1] turns>",
 					"[Great Merchant] is earned [+100]% faster"]
 			}
 		]
@@ -85,8 +85,7 @@
 			{
 				"name": "Departemen Teknik",
 				"uniques": [
-					"Free [Worker] appears",
-					"Can build [All] improvements at a [+33]% rate"],
+					"Can build [All] improvements at a [+50]% rate"],
 				"row": 1,
 				"column": 3
 			},
@@ -174,7 +173,7 @@
 				"name": "Klub Remedial",
 				"uniques": [
 					"New [All] units start with [30] XP [in all cities]",
-					"[-50]% enemy spy effectiveness [in all cities]"],
+					"[+33]% Strength for cities <when defending>"],
 				"requires": ["Satuan Tugas Keadilan"],
 				"row": 3,
 				"column": 3
@@ -183,6 +182,7 @@
 				"name": "Trinity Complete",
 				"uniques": [
 					"May buy [All] units with [Faith] for [3] times their normal Production cost",
+					"[-50]% enemy spy effectiveness [in all cities]",
 					"[Great Prophet] is earned [+100]% faster"]
 			}
 		]
