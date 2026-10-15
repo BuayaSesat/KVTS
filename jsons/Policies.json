@@ -196,51 +196,64 @@
       "Scientific": 0
     },
     "uniques": [
-      "
+      "[+75]% growth [in all cities] <when between [-1] and [-10] [Happiness]>",
+			"[+50]% [Production] [in all cities] <when below [-10] [Happiness]>",
+			"[+33]% Strength <for [All] units> <when below [-10] [Happiness]>",
+      "Only available <for [Arius] Civilizations>"],
     "policies": [
       {
-        "name": "",
+        "name": "Kebenaran Dunia",
         "uniques": [
-          "
-        "requires": [""],
+          "[-50]% unhappiness from the number of cities",
+          "[+50]% [Happiness]"],
         "row": 1,
         "column": 3
       },
       {
-        "name": "",
+        "name": "Tanam Kebencian",
         "uniques": [
-          "
-        "requires": [""],
+          "[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
+          "[+10]% Strength <vs [Trinity]>",
+          "[+10]% Strength <vs [Gehenna]>"],
+        "requires": ["Kebenaran Dunia"],
         "row": 2,
         "column": 2
       },
       {
-        "name": "",
+        "name": "Pelatihan Penderitaan",
         "uniques": [
-          "
-        "requires": [""],
+          "New [All] units start with [30] XP [in all cities]",
+          "No damage penalty for wounded units",
+          "Rebel units may spawn <every [1] turns> <with [5]% chance">],
+        "requires": ["Tanam Kebencian"],
         "row": 2,
         "column": 4
       },
       {
-        "name": "",
+        "name": "Curi Perjanjian Eden",
         "uniques": [
-          "
-        "requires": [""],
+          "Free [Great Engineer] appears",
+          "Free Technology"],
+        "requires": ["Kebenaran Dunia"],
         "row": 3,
         "column": 2
       },
       {
-        "name": "",
+        "name": "Ritual Pengorbanan",
         "uniques": [
-          "
-        "requires": [""],
+          "[+25]% Strength <for [Wounded] units>",
+          "[-1] population [in Capital]"],
+        "requires": ["Curi Perjanjian Eden"],
         "row": 3,
         "column": 4
       },
       {
-        "name": "Complete",
+        "name": "Arius Complete",
         "uniques": [
-          "
+          "[+50]% Strength <vs [Azusa] units> <for [10] turns>",
+          "Free [Saori] appears",
+          "A [Azusa] rebels"],
       }
+    ]
+  },
 ]
