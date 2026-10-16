@@ -315,7 +315,7 @@
 				"uniques": [
 					"[10] HP when healing <for [All] units>",
 					"[1] Movement <when below [20] HP>"],
-				"requires": ["Tim Prefek", "Makan Siang Sekolah"],
+				"requires": ["Tim Prefek", "Masyarakat Penelitian Kuliner"],
 				"row": 3,
 				"column": 3
 			},
