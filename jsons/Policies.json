@@ -17,7 +17,8 @@
 				"name": "Bereskan Helmet Gang",
 				"uniques": [
 					"[+33]% Strength <vs [Barbarians]>"
-					"Receive [+10000]% Gold from Barbarian encampments and pillaging Cities"],
+					"Receive [+10000]% Gold from Barbarian encampments and pillaging Cities",
+					"Notified of new Barbarian encampments"],
 				"row": 1,
 				"column": 2
 			},
@@ -40,7 +41,8 @@
 			{
 				"name": "Rampok Bank",
 				"uniques": [
-					"Gain [100000] [Gold]"],
+					"Gain [100000] [Gold]",
+					"[+10000]% Yield from pillaging tiles"],
 				"requires": ["Bereskan Helmet Gang", "Pekerjaan Paruh Waktu"],
 				"row": 2,
 				"column": 3
@@ -159,7 +161,8 @@
 			{
 				"name": "Satuan Tugas Keadilan",
 				"uniques": [
-					"[+15]% Strength <for [Military] units>"],
+					"[+15]% Strength <for [Military] units>",
+					"[-25]% enemy spy effectiveness [in all cities]"],
 				"requires": ["Pesta Teh"],
 				"row": 2,
 				"column": 3
@@ -167,7 +170,8 @@
 			{
 				"name": "Ksatria Perbaikan",
 				"uniques": [
-					"[10] HP when healing <for [All] units>"],
+					"[10] HP when healing <for [All] units>",
+					"[10] HP when healing <in [Friendly] tiles>"],
 				"requires": ["Pesta Teh"],
 				"row": 2,
 				"column": 5
@@ -185,7 +189,7 @@
 				"name": "Trinity Complete",
 				"uniques": [
 					"May buy [All] units with [Faith] for [3] times their normal Production cost",
-					"[-50]% enemy spy effectiveness [in all cities]",
+					"[-25]% enemy spy effectiveness [in all cities]",
 					"[Great Prophet] is earned [+100]% faster"]
 			}
 		]
@@ -277,7 +281,7 @@
 			{
 				"name": "Pemecah Masalah 68",
 				"uniques": [
-					"
+					"[+5 Gold] from all [Gold] buildings"],
 				"row": 1,
 				"column": 1
 			},
