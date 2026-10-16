@@ -48,7 +48,8 @@
 			{
 				"name": "Idola Pakaian Renang",
 				"uniques": [
-					"[+1 Happiness] per every [100000] [Gold]"],
+					"[+1 Happiness] per every [100000] [Gold]",
+					"[+1 Culture] per every [100000] [Gold]"],
 				"requires": ["Pekerjaan Paruh Waktu"],
 				"row": 2,
 				"column": 5
@@ -100,7 +101,7 @@
 				"name": "Pelatihan Gym",
 				"uniques": [
 					"New [Military] units start with [15] XP [in all cities]",
-					"[+10]% Strength <for [Gunpowder] units>"],
+					"[+10]% City Strength from defensive buildings"],
 				"requires": ["Departemen Teknik"],
 				"row": 2,
 				"column": 2
@@ -118,6 +119,7 @@
 			{
 				"name": "Millennium Complete",
 				"uniques": [
+					"Free Technology",
 					"Science gained from research agreements [+50]%",
 					"[-25]% maintenance costs",
 					"[Great Scientist] is earned [+100]% faster"]
@@ -157,7 +159,7 @@
 			{
 				"name": "Satuan Tugas Keadilan",
 				"uniques": [
-					"[+15]% Strength <when attacking> <for [All] units>"],
+					"[+15]% Strength <for [Military] units>"],
 				"requires": ["Pesta Teh"],
 				"row": 2,
 				"column": 3
@@ -165,13 +167,13 @@
 			{
 				"name": "Ksatria Perbaikan",
 				"uniques": [
-					"[10] HP when healing"],
+					"[10] HP when healing <for [All] units>"],
 				"requires": ["Pesta Teh"],
 				"row": 2,
 				"column": 5
 			},
 			{
-				"name": "Klub Remedial",
+				"name": "Ujian Remedial",
 				"uniques": [
 					"New [Military] units start with [15] XP [in all cities]",
 					"[+33]% Strength for cities <when defending>"],
@@ -245,7 +247,7 @@
 				"name": "Ritual Pengorbanan",
 				"uniques": [
 					"[+25]% Strength <for [Wounded] units>",
-					"[-1] population [in capital]"],
+					"[-1] population [in capital] <every [10] turns>"],
 				"requires": ["Curi Perjanjian Eden"],
 				"row": 3,
 				"column": 4
@@ -255,6 +257,69 @@
 				"uniques": [
 					"[+50]% [Happiness]",
 					"[Great Engineer] is earned [+100]% faster"]
+			}
+		]
+	},
+	{
+		"name": "Gehenna",
+		"era": "Ancient era",
+		"priorities": {
+			"Neutral": 0,
+			"Cultural": 0,
+			"Diplomatic": 0,
+			"Domination": 99,
+			"Scientific": 0
+		},
+		"uniques": [
+			"Gain an extra spy",
+			"Only available <for [Gehenna] Civilizations>"],
+		"policies": [
+			{
+				"name": "Pemecah Masalah 68",
+				"uniques": [
+					"
+				"row": 1,
+				"column": 1
+			},
+			{
+				"name": "Makan Siang Sekolah",
+				"uniques": [
+					"[+3 Food] from all [Science] buildings"],
+				"row": 1,
+				"column": 3
+			},
+			{
+				"name": "Tim Prefek",
+				"uniques": [
+					"Great General provides double combat bonus",
+					"[1] Movement <for [Great General] units>"],
+				"requires": ["Pemecah Masalah 68"],
+				"row": 2,
+				"column": 2
+			},
+			{
+				"name": "Masyarakat Penelitian Kuliner",
+				"uniques": [
+					"Heals [20] damage if it kills a unit",
+					"[+10]% Health from pillaging tiles"],
+				"requires": ["Makan Siang Sekolah"],
+				"row": 2,
+				"column": 4
+			},
+			{
+				"name": "Kedokteran Darurat",
+				"uniques": [
+					"[10] HP when healing <for [All] units>",
+					"[1] Movement <when below [20] HP>"],
+				"requires": ["Tim Prefek", "Makan Siang Sekolah"],
+				"row": 3,
+				"column": 3
+			},
+			{
+				"name": "Gehenna Complete",
+				"uniques": [
+					"[-25]% maintenance costs <for [Military] units>",
+					"[Great General] is earned [+100]% faster"]
 			}
 		]
 	},
