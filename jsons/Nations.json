@@ -239,12 +239,9 @@
 		"innerColor": [8, 0, 13],
 		"uniqueName": "Naga Iblis",
 		"uniques": [
-			"Gain an extra spy",
 			"New spies start with [2] level(s)",
-			"[+25]% Production when constructing [All] units [in all cities]",
-			"[+50]% maintenance costs <for [All] units>",
-			"Heals [25] damage if it kills a unit",
-			"Great General provides double combat bonus"],
+			"[+25]% Production when constructing [Military] units [in all cities]",
+			"[+50]% maintenance costs <for [Military] units>"],
 		"cities": [
 			"Pandemonium Society",
 			"Prefect Team",
