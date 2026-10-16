@@ -72,7 +72,7 @@
 	{
 		"name": "Pembunuhan Beruntun"
 		"type": "Enhancer"
-		"uniques": ["Heals [20] damage if it kills a unit"],
+		"uniques": ["Heals [40] damage if it kills a unit"],
 	},
 	{
 		"name": "Serangan Kritis"
