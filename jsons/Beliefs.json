@@ -27,7 +27,7 @@
 	{
 		"name": "Ketidakbahagiaan"
 		"type": "Pantheon"
-		"uniques": ["[+100]% unhappiness from the number of cities <for [AI player] Civilizations>"],
+		"uniques": ["[-20]% [Happiness] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Keraguan"
@@ -47,7 +47,7 @@
 	{
 		"name": "Wajib Militer"
 		"type": "Founder"
-		"uniques": ["New [Military] units start with [40] XP"]
+		"uniques": ["New [Military] units start with [40] XP [in all cities]"]
 	},
 	{
 		"name": "Penculikan"
