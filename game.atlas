@@ -129,15 +129,67 @@ BuildingPortraits/OSIS
   index: -1
 
 Images/PolicyIcons/Bereskan Helmet Gang.png
-size: 120, 120
+size: 100, 91
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 PolicyIcons/Bereskan Helmet Gang
   rotate: false
   xy: 0, 0
-  size: 120, 120
-  orig: 120, 120
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Pekerjaan Paruh Waktu.png
+size: 100, 79
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Pekerjaan Paruh Waktu
+  rotate: false
+  xy: 0, 0
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Begal Bus Sekolah.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Begal Bus Sekolah
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Rampok Bank.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Rampok Bank
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Idola Pakaian Renang.png
+size: 100, 104
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Idola Pakaian Renang
+  rotate: false
+  xy: 0, 0
+  size: 100, 104
+  orig: 100, 104
   offset: 0, 0
   index: -1
 
