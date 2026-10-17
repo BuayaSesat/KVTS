@@ -128,6 +128,32 @@ BuildingPortraits/OSIS
   offset: 0, 0
   index: -1
 
+Images/PolicyIcons/Abydos.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Abydos
+  rotate: false
+  xy: 0, 0
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Arius.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Arius
+  rotate: false
+  xy: 0, 0
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+
 Images/UnitPortraits/Ayane.png
 size: 200, 200
 format: RGBA8888
