@@ -129,7 +129,7 @@ BuildingPortraits/OSIS
   index: -1
 
 Images/PolicyIcons/Abydos.png
-size: 100, 100
+size: 100, 91
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -142,7 +142,7 @@ PolicyIcons/Abydos
   index: -1
 
 Images/PolicyIcons/Arius.png
-size: 100, 100
+size: 100, 91
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
