@@ -27,7 +27,7 @@
 	{
 		"name": "Ketidakbahagiaan"
 		"type": "Pantheon"
-		"uniques": ["[-15]% [Happiness] <for [AI player] Civilizations>"],
+		"uniques": ["[+100]% unhappiness from the number of cities <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Keraguan"
@@ -45,6 +45,11 @@
 		"uniques": ["[1] Happiness from each type of luxury resource", "[+100]% [Luxury] resource production", "[+100]% [Strategic] resource production"],
 	},
 	{
+		"name": "Wajib Militer"
+		"type": "Founder"
+		"uniques": ["New [Military] units start with [40] XP"]
+	},
+	{
 		"name": "Penculikan"
 		"type": "Founder"
 		"uniques": ["When defeating a [All] unit, earn [40] Gold and recruit it <with [40]% chance>"],
@@ -57,7 +62,7 @@
 	{
 		"name": "Hacker Jangan Menyerang"
 		"type": "Founder"
-		"uniques": ["Gain an extra spy", "[-80]% enemy spy effectiveness [in your cities]"],
+		"uniques": ["Gain an extra spy", "[-50]% enemy spy effectiveness [in your cities]"],
 	},
 	{
 		"name": "Warga Saling Lempar Menu MBG"
