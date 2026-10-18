@@ -21,6 +21,7 @@
 		"strength": 115,
 		"cost": 599,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+23]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Gunpowder",
@@ -65,6 +66,7 @@
 		"range": 3,
 		"cost": 554,
 		"uniques": [
+			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+23]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Industrialization",
@@ -80,6 +82,7 @@
 		"range": 3,
 		"cost": 772,
 		"uniques": [
+			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
 			"[+10]% Strength bonus for [All] units within [1] tiles <every [2] turns>"],
@@ -122,6 +125,7 @@
 		"range": 3,
 		"cost": 654,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+2]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Industrialization",
@@ -165,6 +169,7 @@
 		"range": 3,
 		"cost": 567,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+7]% Strength <when attacking> <every [4] turns>",
 			"[-4]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>"],
@@ -309,6 +314,7 @@
 		"range": 3,
 		"cost": 833,
 		"uniques": [
+			"[4] Movement <every [4] turns>",
 			"[4] additional attacks per turn <every [4] turns>",
 			"[-19]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Dynamite",
@@ -339,6 +345,7 @@
 		"range": 2,
 		"cost": 612,
 		"uniques": [
+			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+14]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Metallurgy",
@@ -354,6 +361,7 @@
 		"range": 3,
 		"cost": 1063,
 		"uniques": [
+			"[4] Movement <every [3] turns>",
 			"[4] additional attacks per turn <every [3] turns>",
 			"[-38]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Rifling",
@@ -369,6 +377,7 @@
 		"range": 2,
 		"cost": 647,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+11]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Dynamite",
@@ -384,6 +393,7 @@
 		"range": 3,
 		"cost": 696,
 		"uniques": [
+			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
 			"[+11]% Strength <when attacking> <every [6] turns>",
 			"[+16]% Strength <when attacking> <every [12] turns>",
@@ -399,6 +409,7 @@
 		"strength": 77,
 		"cost": 529,
 		"uniques": [
+			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+54]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Gunpowder",
@@ -414,6 +425,7 @@
 		"range": 3,
 		"cost": 755,
 		"uniques": [
+			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+28]% Strength <when attacking> <every [3] turns>",
 			"[-8]% Strength for enemy [Gunpowder] units in adjacent [All] tiles <every [3] turns>"],
@@ -487,6 +499,7 @@
 		"range": 2,
 		"cost": 746,
 		"uniques": [
+			"[4] Movement <every [6] turns>",
 			"[4] additional attacks per turn <every [6] turns>",
 			"[-25]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Metallurgy",
@@ -500,7 +513,7 @@
 		"strength": 84,
 		"cost": 497,
 		"uniques": [
-			"[1] Movement <every [3] turns>",
+			"[2] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[-1]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Gunpowder",
@@ -545,6 +558,7 @@
 		"range": 2,
 		"cost": 609,
 		"uniques": [
+			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
 			"[+52]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Metallurgy",
@@ -559,6 +573,7 @@
 		"cost": 609,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [4] turns>",
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[-7]% Strength <when attacking> <every [4] turns>",
 			"[-3]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>",
@@ -633,6 +648,7 @@
 		"range": 3,
 		"cost": 563,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+2]% Strength <when attacking> <every [4] turns>",
 			"[-3]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>"],
@@ -661,6 +677,7 @@
 		"range": 3,
 		"cost": 450,
 		"uniques": [
+			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+6]% Strength <when attacking> <every [5] turns>",
 			"[-2]% Strength for enemy [All] units in adjacent [All] tiles <every [5] turns>"],
@@ -692,6 +709,7 @@
 		"range": 2,
 		"cost": 511,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+19]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Industrialization",
@@ -705,6 +723,7 @@
 		"strength": 108,
 		"cost": 604,
 		"uniques": [
+			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+17]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Gunpowder",
@@ -721,6 +740,7 @@
 		"cost": 574,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [5] turns>",
+			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+10]% Strength <when attacking> <every [5] turns>",
 			"[+16]% Strength <when defending> <every [5] turns>",
@@ -752,6 +772,7 @@
 		"range": 3,
 		"cost": 581,
 		"uniques": [
+			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+3]% Strength <when attacking> <every [3] turns>",
 			"All adjacent units heal [11] HP when healing <every [3] turns>"],
@@ -810,6 +831,7 @@
 		"range": 3,
 		"cost": 1227,
 		"uniques": [
+			"[6] Movement <every [6] turns>",
 			"[6] additional attacks per turn <every [5] turns>",
 			"[-66]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Dynamite",
@@ -855,6 +877,7 @@
 		"range": 3,
 		"cost": 822,
 		"uniques": [
+			"[4] Movement <every [6] turns>",
 			"[4] additional attacks per turn <every [6] turns>",
 			"[-19]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Rifling",
@@ -929,6 +952,7 @@
 		"range": 3,
 		"cost": 542,
 		"uniques": [
+			"[1] Movement <every [7] turns>",
 			"[1] additional attacks per turn <every [7] turns>",
 			"[+44]% Strength <when attacking> <every [7] turns>"],
 		"requiredTech": "Industrialization",
@@ -958,6 +982,7 @@
 		"range": 3,
 		"cost": 801,
 		"uniques": [
+			"[2] Movement <every [3] turns>",
 			"[2] additional attacks per turn <every [3] turns>",
 			"[+5]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Rifling",
@@ -987,6 +1012,7 @@
 		"range": 3,
 		"cost": 704,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+36]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Rifling",
@@ -1002,6 +1028,7 @@
 		"range": 2,
 		"cost": 451,
 		"uniques": [
+			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
 			"[+15]% Strength <when attacking> <every [6] turns>",
 			"[-5]% Strength for enemy [All] units in adjacent [All] tiles <every [6] turns>"],
@@ -1018,6 +1045,7 @@
 		"range": 3,
 		"cost": 621,
 		"uniques": [
+			"[2] Movement <every [4] turns>",
 			"[2] additional attacks per turn <every [4] turns>",
 			"[+21]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Dynamite",
@@ -1031,6 +1059,7 @@
 		"strength": 110,
 		"cost": 618,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+62]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Gunpowder",
@@ -1046,6 +1075,7 @@
 		"range": 3,
 		"cost": 687,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+31]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Fertilizer",
@@ -1061,6 +1091,7 @@
 		"range": 2,
 		"cost": 599,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+19]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Fertilizer",
@@ -1076,6 +1107,7 @@
 		"range": 2,
 		"cost": 635,
 		"uniques": [
+			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+55]% Strength <when attacking> <every [5] turns>",
 			"Unit will heal every turn, even if it performs an action <every [5] turns> <when at war>",
@@ -1123,7 +1155,7 @@
 		"range": 3,
 		"cost": 501,
 		"uniques": [
-			"[1] Movement <every [3] turns>",
+			"[2] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+8]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Chemistry",
@@ -1155,6 +1187,7 @@
 		"range": 2,
 		"cost": 597,
 		"uniques": [
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+3]% Strength <when attacking> <every [4] turns>",
 			"[-6]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>"],
@@ -1169,6 +1202,7 @@
 		"strength": 81,
 		"cost": 438,
 		"uniques": [
+			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+22]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Chemistry",
