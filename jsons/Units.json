@@ -831,7 +831,7 @@
 		"range": 3,
 		"cost": 1227,
 		"uniques": [
-			"[6] Movement <every [6] turns>",
+			"[6] Movement <every [5] turns>",
 			"[6] additional attacks per turn <every [5] turns>",
 			"[-66]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Dynamite",
