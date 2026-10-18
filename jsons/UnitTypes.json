@@ -1,6 +1,9 @@
 [
   {
     "name": "Rio",
-    "movementType": "Land"
+    "movementType": "Land",
+    "uniques": [
+      "[+8]% Strength <when attacking> <every [3] turns>",
+      "[+37]% Strength bonus for [All] units within [1] tiles"],
   }
 ]
