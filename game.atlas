@@ -193,6 +193,266 @@ PolicyIcons/Idola Pakaian Renang
   offset: 0, 0
   index: -1
 
+Images/PolicyIcons/Sekolah Sains.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Sekolah Sains
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Departemen Teknik.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Departemen Teknik
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Permainan Arkade.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Permainan Arkade
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Pelatihan Gym.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Pelatihan Gym
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Peretasan Veritas.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Peretasan Veritas
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Pesta Teh.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Pesta Teh
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Persaudaraan Wanita.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Persaudaraan Wanita
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Satuan Tugas Keadilan.png
+size: 100, 82
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Satuan Tugas Keadilan
+  rotate: false
+  xy: 0, 0
+  size: 100, 82
+  orig: 100, 82
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Ksatria Perbaikan.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Ksatria Perbaikan
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Ujian Remedial.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Ujian Remedial
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Kebenaran Dunia.png
+size: 100, 94
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Kebenaran Dunia
+  rotate: false
+  xy: 0, 0
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Tanam Kebencian.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Tanam Kebencian
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Ritual Pengorbanan.png
+size: 100, 94
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Ritual Pengorbanan
+  rotate: false
+  xy: 0, 0
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Pelatihan Penderitaan.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Pelatihan Penderitaan
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Curi Perjanjian Eden.png
+size: 100, 144
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Curi Perjanjian Eden
+  rotate: false
+  xy: 0, 0
+  size: 100, 144
+  orig: 100, 144
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Pemecah Masalah 68.png
+size: 100, 68
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Pemecah Masalah 68
+  rotate: false
+  xy: 0, 0
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Makan Siang Sekolah.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Makan Siang Sekolah
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Tim Prefek.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Tim Prefek
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Masyarakat Penelitian Kuliner.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Masyarakat Penelitian Kuliner
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/PolicyIcons/Kedokteran Darurat.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Kedokteran Darurat
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
 Images/UnitPortraits/Ayane.png
 size: 200, 200
 format: RGBA8888
