@@ -1,10 +1,9 @@
 [
   {
     "name": "Rio",
-    "movementType": "Air",
+    "movementType": "Land",
     "uniques": [
       "[+10]% Strength <when attacking> <every [3] turns>",
-      "[+37]% Strength bonus for [Military] units within [1] tiles <every [3] turns>",
-      "Cannot be intercepted"]
+      "[+37]% Strength bonus for [Military] units within [1] tiles <every [3] turns>"]
   }
 ]
