@@ -1,14 +1,14 @@
 [
-  {
-    "name": "Rio",
-    "movementType": "Land",
-    "uniques": [
-      "[+10]% Strength <when attacking> <every [3] turns> <for units without [The only way]>",
-      "[+37]% Strength bonus for [Military] units within [1] tiles <every [3] turns> <for units without [The only way]>",
-      "[+25]% Strength <during the [Industrial era]>",
-      "[+50]% Strength <during the [Modern era]>",
-      "[+75]% Strength <during the [Atomic era]>",
-      "[+100]% Strength <starting from the [Information era]>",
-      "[+100]% XP gained from combat"]
-  }
+	{
+		"name": "Rio",
+		"movementType": "Land",
+		"uniques": [
+			"[+10]% Strength <when attacking> <every [3] turns> <for units without [The only way]>",
+			"[+37]% Strength bonus for [Military] units within [1] tiles <every [3] turns> <for units without [The only way]>",
+			"[+25]% Strength <during the [Industrial era]>",
+			"[+50]% Strength <during the [Modern era]>",
+			"[+75]% Strength <during the [Atomic era]>",
+			"[+100]% Strength <starting from the [Information era]>",
+			"[+100]% XP gained from combat"]
+	}
 ]
