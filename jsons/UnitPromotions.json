@@ -2,4 +2,12 @@
   {
     "name": "Big Sister I",
     "uniques": [
-      "[+5]% Strength
+      "[+76]% Strength bonus for [Military] units within [1] tiles <every [2] turns> <for units without [Big Sister II]>",
+      "[+10]% Strength"]
+  },
+  {
+    "name": "Big Sister II",
+    "uniques": [
+      "[+10]% Strength"]
+  }
+]
