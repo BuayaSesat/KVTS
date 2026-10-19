@@ -4,6 +4,10 @@
     "movementType": "Land",
     "uniques": [
       "[+10]% Strength <when attacking> <every [3] turns> <for units without [The only way]>",
-      "[+37]% Strength bonus for [Military] units within [1] tiles <every [3] turns> <for units without [The only way]>"]
+      "[+37]% Strength bonus for [Military] units within [1] tiles <every [3] turns> <for units without [The only way]>",
+      "[+25]% Strength <starting from the [Industrial era]>",
+      "[+25]% Strength <starting from the [Modern era]>",
+      "[+25]% Strength <starting from the [Atomic era]>",
+      "[+25]% Strength <starting from the [Information era]>",
   }
 ]
