@@ -5,7 +5,7 @@
     "uniques": [
       "[1] Movement <every [2] turns> <for units without [Big Sister II]>",
       "[1] additional attacks per turn <every [2] turns> <for units without [Big Sister II]>",
-			"[-10]% Strength <when attacking> <every [2] turns> <for units without [Big Sister II]>",
+      "[-10]% Strength <when attacking> <every [2] turns> <for units without [Big Sister II]>",
       "[+76]% Strength bonus for [Military] units within [1] tiles <every [2] turns> <for units without [Big Sister II]>"]
   },
 	{
