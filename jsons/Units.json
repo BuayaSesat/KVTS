@@ -94,26 +94,27 @@
 		"unitType": "Armored",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 130,
-		"cost": 564,
+		"strength": 129,
+		"cost": 421,
 		"uniques": [
-			"[+21]% Strength <when defending> <every [3] turns>"],
+			"Unit will heal every turn, even if it performs an action <every [3] turns>",
+			"[3] HP when healing <every [3] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Noa",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 72,
+		"strength": 62,
 		"rangedStrength": 28,
 		"range": 2,
-		"cost": 452,
+		"cost": 415,
 		"uniques": [
-			"[-11]% Strength for enemy [All] units in adjacent [All] tiles <every [3] turns>"],
+			"[+85]% Strength bonus for [Military] units within [1] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Koyuki",
@@ -121,29 +122,31 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 45,
-		"rangedStrength": 90,
+		"rangedStrength": 91,
 		"range": 3,
 		"cost": 654,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
-			"[+2]% Strength <when attacking> <every [4] turns>"],
+			"[+3]% Strength <when attacking> <with [33]% chance> <every [4] turns>",
+			"[+2]% Strength <when attacking> <with [33]% chance> <every [4] turns>",
+			"[+1]% Strength <when attacking> <with [33]% chance> <every [4] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Himari",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 73,
+		"strength": 72,
 		"rangedStrength": 57,
 		"range": 3,
 		"cost": 584,
 		"uniques": [
-			"[+13]% Strength bonus for [All] units within [1] tiles <every [3] turns>"],
+			"[+72]% Strength bonus for [Military] units within [1] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Maki",
