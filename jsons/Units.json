@@ -82,6 +82,7 @@
 		"range": 3,
 		"cost": 772,
 		"uniques": [
+			"Blast radius [2]",
 			"[1] Movement <every [2] turns> <for units without [Big Sister I]>",
 			"[1] additional attacks per turn <every [2] turns> <for units without [Big Sister I]>",
 			"[-10]% Strength <when attacking> <every [2] turns> <for units without [Big Sister I]>",
