@@ -79,7 +79,7 @@
 		"movement": 2,
 		"strength": 72,
 		"rangedStrength": 58,
-		"range": 3,
+		"range": 20,
 		"cost": 7,
 		"uniques": [
 			"Blast radius [2]",
