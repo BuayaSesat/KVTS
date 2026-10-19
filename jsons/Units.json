@@ -72,22 +72,22 @@
 		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
 	},
-	{ //772
+	{
 		"name": "Rio",
 		"unitType": "Rio",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 72,
 		"rangedStrength": 58,
-		"range": 20,
-		"cost": 7,
+		"range": 3,
+		"cost": 552,
 		"uniques": [
 			"[1] Movement <every [2] turns> <for units without [Big Sister I]>",
 			"[1] additional attacks per turn <every [2] turns> <for units without [Big Sister I]>",
 			"[-10]% Strength <when attacking> <every [2] turns> <for units without [Big Sister I]>",
 			"[+71]% Strength bonus for [Military] units within [1] tiles <every [2] turns> <for units without [Big Sister I]>"],
 		"requiredTech": "Scientific Theory",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Yuuka",
