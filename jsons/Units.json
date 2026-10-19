@@ -142,7 +142,7 @@
 		"strength": 72,
 		"rangedStrength": 57,
 		"range": 3,
-		"cost": 584,
+		"cost": 549,
 		"uniques": [
 			"[+72]% Strength bonus for [Military] units within [1] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -153,31 +153,31 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 46,
+		"strength": 47,
 		"rangedStrength": 63,
 		"range": 3,
-		"cost": 508,
+		"cost": 459,
 		"uniques": [
-			"[+75]% Strength <when attacking> <every [5] turns>"],
+			"[+68]% Strength <when attacking> <every [5] turns>",
+			"[+126]% Strength <every [5] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Hare",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 56,
+		"strength": 46,
 		"rangedStrength": 53,
 		"range": 3,
 		"cost": 567,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
-			"[+7]% Strength <when attacking> <every [4] turns>",
-			"[-4]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>"],
+			"[+7]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Electricity",
-		"attackSound": "bombing"
+		"attackSound": "boom"
 	},
 	{
 		"name": "Kotama",
