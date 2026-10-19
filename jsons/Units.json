@@ -72,7 +72,7 @@
 		"requiredTech": "Industrialization",
 		"attackSound": "machinegun"
 	},
-	{
+	{ //772
 		"name": "Rio",
 		"unitType": "Rio",
 		"uniqueTo": "Millennium",
@@ -80,7 +80,7 @@
 		"strength": 72,
 		"rangedStrength": 58,
 		"range": 3,
-		"cost": 772,
+		"cost": 7,
 		"uniques": [
 			"Blast radius [2]",
 			"[1] Movement <every [2] turns> <for units without [Big Sister I]>",
