@@ -5,13 +5,13 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 52,
-		"rangedStrength": 27,
+		"rangedStrength": 28,
 		"range": 3,
-		"cost": 406,
+		"cost": 450,
 		"uniques": [
 			"All adjacent units heal [13] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Hoshino",
@@ -19,13 +19,13 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 115,
-		"cost": 599,
+		"cost": 535,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
-			"[+23]% Strength <when attacking> <every [4] turns>"],
+			"[+24]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Shiroko",
@@ -33,13 +33,13 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 54,
-		"rangedStrength": 77,
+		"rangedStrength": 78,
 		"range": 2,
-		"cost": 592,
+		"cost": 623,
 		"uniques": [
 			"[+30]% Strength <when attacking> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Serika",
@@ -49,12 +49,12 @@
 		"strength": 52,
 		"rangedStrength": 76,
 		"range": 2,
-		"cost": 568,
+		"cost": 603,
 		"uniques": [
 			"Can move after attacking <every [2] turns>",
-			"[+14]% Strength <when attacking> <every [2] turns>"],
+			"[+11]% Strength <every [2] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Nonomi",
@@ -62,15 +62,15 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 45,
-		"rangedStrength": 66,
+		"rangedStrength": 67,
 		"range": 3,
-		"cost": 554,
+		"cost": 586,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+23]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Rio",
