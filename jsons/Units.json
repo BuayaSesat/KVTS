@@ -7,7 +7,7 @@
 		"strength": 52,
 		"rangedStrength": 28,
 		"range": 3,
-		"cost": 340,
+		"cost": 337,
 		"uniques": [
 			"All adjacent units heal [13] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
@@ -124,7 +124,7 @@
 		"strength": 45,
 		"rangedStrength": 91,
 		"range": 3,
-		"cost": 654,
+		"cost": 521,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -282,18 +282,19 @@
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
-	{//last
+	{
 		"name": "Eimi",
 		"unitType": "Armored",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 131,
-		"cost": 555,
+		"strength": 164,
+		"cost": 522,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [4] turns>",
-			"[5] HP when healing <every [4] turns>"],
+			"[-2] HP when healing <every [4] turns>",
+			"[6] HP when healing <when below [50] HP> <every [4] turns>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Utaha",
@@ -303,9 +304,9 @@
 		"strength": 50,
 		"rangedStrength": 60,
 		"range": 3,
-		"cost": 485,
+		"cost": 481,
 		"uniques": [
-			"[+33]% Strength <when attacking> <every [4] turns>"],
+			"[+122]% Strength <every [4] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "shipguns"
 	},
@@ -317,13 +318,13 @@
 		"strength": 43,
 		"rangedStrength": 67,
 		"range": 3,
-		"cost": 833,
+		"cost": 482,
 		"uniques": [
 			"[4] Movement <every [4] turns>",
 			"[4] additional attacks per turn <every [4] turns>",
 			"[-19]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Dynamite",
-		"attackSound": "artillery"
+		"attackSound": "boom"
 	},
 	{
 		"name": "Kotori",
@@ -331,14 +332,14 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 46,
-		"rangedStrength": 37,
+		"rangedStrength": 38,
 		"range": 3,
-		"cost": 470,
+		"cost": 353,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
-			"[+14]% Strength bonus for [All] units within [2] tiles <every [4] turns>"],
+			"All adjacent units heal [16] HP when healing <every [4] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Momoi",
@@ -348,13 +349,14 @@
 		"strength": 60,
 		"rangedStrength": 53,
 		"range": 2,
-		"cost": 612,
+		"cost": 424,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
-			"[+14]% Strength <when attacking> <every [3] turns>"],
+			"[+14]% Strength <when attacking> <every [3] turns>",
+			"[+14]% Strength <when attacking> <when adjacent to a [Midori] unit> <every [3] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Midori",
@@ -362,15 +364,16 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 43,
-		"rangedStrength": 99,
+		"rangedStrength": 100,
 		"range": 3,
-		"cost": 1063,
+		"cost": 657,
 		"uniques": [
 			"[4] Movement <every [3] turns>",
 			"[4] additional attacks per turn <every [3] turns>",
-			"[-38]% Strength <when attacking> <every [3] turns>"],
+			"[+10]% Strength <when attacking> <every [3] turns>",
+			"[+8]% Strength <when attacking> <when adjacent to a [Momoi] unit> <every [3] turns>"],
 		"requiredTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Yuzu",
@@ -380,29 +383,29 @@
 		"strength": 47,
 		"rangedStrength": 85,
 		"range": 2,
-		"cost": 647,
+		"cost": 480,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+11]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Dynamite",
-		"attackSound": "bombing"
+		"attackSound": "boom"
 	},
 	{
 		"name": "Aris",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 37,
+		"strength": 36,
 		"rangedStrength": 113,
 		"range": 3,
-		"cost": 696,
+		"cost": 560,
 		"uniques": [
 			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
-			"[+11]% Strength <when attacking> <every [6] turns>",
-			"[+16]% Strength <when attacking> <every [12] turns>",
-			"[+22]% Strength <when attacking> <every [18] turns>"],
+			"[+11]% Strength <when attacking> <with [33]% chance> <every [6] turns>",
+			"[+27]% Strength <when attacking> <with [33]% chance> <every [6] turns>",
+			"[+42]% Strength <when attacking> <with [33]% chance> <every [6] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "nuke"
 	},
@@ -411,14 +414,14 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 77,
-		"cost": 529,
+		"strength": 139,
+		"cost": 511,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+54]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Nagisa",
