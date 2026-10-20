@@ -82,6 +82,7 @@
 		"range": 3,
 		"cost": 539,
 		"uniques": [
+			"Transfer Movement to [Military]",
 			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
@@ -247,7 +248,7 @@
 		"cost": 468,
 		"uniques": [
 			"[+59]% Strength <when attacking> <every [4] turns>",
-			"[+48]% Strength <when attacking> <vs [Armored] units> <every [4] turns>"],
+			"[+48]% Strength <when attacking> <vs [Heavy] units> <every [4] turns>"],
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
@@ -429,41 +430,42 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 67,
-		"rangedStrength": 72,
+		"rangedStrength": 71,
 		"range": 3,
-		"cost": 755,
+		"cost": 545,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+28]% Strength <when attacking> <every [3] turns>",
-			"[-8]% Strength for enemy [Gunpowder] units in adjacent [All] tiles <every [3] turns>"],
+			"[+23]% Strength <vs [Light] units> <every [3] turns>"],
 		"requiredTech": "Military Science",
-		"attackSound": "bombing"
+		"attackSound": "boom"
 	},
 	{
 		"name": "Mika",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 95,
-		"cost": 467,
+		"strength": 153,
+		"cost": 511,
 		"uniques": [
 			"[+71]% Strength <when attacking> <every [6] turns>",
-			"[+71]% Strength <when attacking> <vs [non-[Wounded]] units> <every [6] turns>"],
+			"[+81]% Strength <when attacking> <vs [non-[Wounded]] units> <every [6] turns>",
+			"[+41]% Strength <when attacking> <vs [Wounded] units> <every [6] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Seia",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 56,
+		"strength": 57,
 		"rangedStrength": 38,
 		"range": 2,
 		"cost": 416,
 		"uniques": [
-			"[+5]% Strength bonus for [All] units within [1] tiles <every [3] turns>",
+			"[+5]% Strength bonus for [Military] units within [1] tiles <every [3] turns>",
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
 			"[-1] HP when healing <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
