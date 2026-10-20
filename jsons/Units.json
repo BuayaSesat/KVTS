@@ -80,12 +80,12 @@
 		"strength": 72,
 		"rangedStrength": 58,
 		"range": 3,
-		"cost": 611,
+		"cost": 539,
 		"uniques": [
 			"[1] Movement <every [2] turns> <for units without [Big Sister I]>",
 			"[1] additional attacks per turn <every [2] turns> <for units without [Big Sister I]>",
 			"[-10]% Strength <when attacking> <every [2] turns> <for units without [Big Sister I]>",
-			"[+71]% Strength bonus for [Military] units within [1] tiles <every [2] turns> <for units without [Big Sister I]>"],
+			"[+35]% Strength bonus for [Military] units within [1] tiles <every [2] turns> <for units without [Big Sister I]>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
@@ -110,9 +110,9 @@
 		"strength": 62,
 		"rangedStrength": 28,
 		"range": 2,
-		"cost": 415,
+		"cost": 359,
 		"uniques": [
-			"[+85]% Strength bonus for [Military] units within [1] tiles <every [3] turns>"],
+			"[+43]% Strength bonus for [Military] units within [1] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
@@ -142,9 +142,9 @@
 		"strength": 72,
 		"rangedStrength": 57,
 		"range": 3,
-		"cost": 549,
+		"cost": 501,
 		"uniques": [
-			"[+72]% Strength bonus for [Military] units within [1] tiles <every [3] turns>"],
+			"[+36]% Strength bonus for [Military] units within [1] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
@@ -160,7 +160,7 @@
 		"uniques": [
 			"[+68]% Strength <when attacking> <every [5] turns>",
 			"[+126]% Strength <every [5] turns>"],
-		"requiredTech": "Industrialization",
+		"requiredTech": "Electricity",
 		"attackSound": "rapid"
 	},
 	{
@@ -171,9 +171,9 @@
 		"strength": 46,
 		"rangedStrength": 53,
 		"range": 3,
-		"cost": 567,
+		"cost": 410,
 		"uniques": [
-			"[1] Movement <every [4] turns>",
+			"[4] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+7]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Electricity",
@@ -187,12 +187,12 @@
 		"strength": 49,
 		"rangedStrength": 28,
 		"range": 3,
-		"cost": 440,
+		"cost": 346,
 		"uniques": [
-			"[+10]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
-		"requiredTech": "Scientific Theory",
-		"attackSound": "shot"
-	},
+			"[+25]% Strength bonus for [Military] units within [2] tiles <every [3] turns>"],
+		"requiredTech": "Electricity",
+		"attackSound": "shoot"
+	},//last
 	{
 		"name": "Chihiro",
 		"unitType": "Ranged Gunpowder",
