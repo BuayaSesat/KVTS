@@ -18,8 +18,8 @@
 		"unitType": "Armored",
 		"uniqueTo": "Abydos",
 		"movement": 2,
-		"strength": 115,
-		"cost": 410,
+		"strength": 159,
+		"cost": 553,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -49,10 +49,10 @@
 		"strength": 52,
 		"rangedStrength": 76,
 		"range": 2,
-		"cost": 455,
+		"cost": 502,
 		"uniques": [
 			"Can move after attacking <every [2] turns>",
-			"[+11]% Strength <every [2] turns>"],
+			"[+53]% Strength <every [2] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -74,7 +74,7 @@
 	},
 	{
 		"name": "Rio",
-		"unitType": "Rio",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 72,
@@ -82,10 +82,10 @@
 		"range": 3,
 		"cost": 539,
 		"uniques": [
-			"[1] Movement <every [2] turns> <for units without [Big Sister I]>",
-			"[1] additional attacks per turn <every [2] turns> <for units without [Big Sister I]>",
-			"[-10]% Strength <when attacking> <every [2] turns> <for units without [Big Sister I]>",
-			"[+35]% Strength bonus for [Military] units within [1] tiles <every [2] turns> <for units without [Big Sister I]>"],
+			"[1] Movement <every [2] turns>",
+			"[1] additional attacks per turn <every [2] turns>",
+			"[-10]% Strength <when attacking> <every [2] turns>",
+			"[+35]% Strength bonus for [Military] units within [1] tiles <every [2] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
@@ -94,8 +94,8 @@
 		"unitType": "Armored",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 129,
-		"cost": 421,
+		"strength": 153,
+		"cost": 493,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
 			"[3] HP when healing <every [3] turns>"],
@@ -159,7 +159,7 @@
 		"cost": 459,
 		"uniques": [
 			"[+68]% Strength <when attacking> <every [5] turns>",
-			"[+126]% Strength <every [5] turns>"],
+			"[+63]% Strength <every [5] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "rapid"
 	},
@@ -171,11 +171,11 @@
 		"strength": 46,
 		"rangedStrength": 53,
 		"range": 3,
-		"cost": 410,
+		"cost": 403,
 		"uniques": [
-			"[4] Movement <every [4] turns>",
+			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
-			"[+7]% Strength <when attacking> <every [4] turns>"],
+			"[+9]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "boom"
 	},
@@ -192,7 +192,7 @@
 			"[+25]% Strength bonus for [Military] units within [2] tiles <every [3] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "shoot"
-	},//last
+	},
 	{
 		"name": "Chihiro",
 		"unitType": "Ranged Gunpowder",
@@ -201,24 +201,24 @@
 		"strength": 55,
 		"rangedStrength": 64,
 		"range": 3,
-		"cost": 523,
+		"cost": 467,
 		"uniques": [
 			"[+16]% Strength <when attacking> <every [3] turns>",
-			"[-7]% Strength for enemy [Armored] units in adjacent [All] tiles <every [3] turns>"],
+			"[+89]% Strength <when attacking> <vs [Armored] units> <every [3] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Neru",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 81,
-		"cost": 416,
+		"strength": 140,
+		"cost": 469,
 		"uniques": [
 			"[+38]% Strength <when attacking> <every [2] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Asuna",
@@ -226,45 +226,45 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 52,
-		"rangedStrength": 67,
+		"rangedStrength": 66,
 		"range": 2,
-		"cost": 551,
+		"cost": 492,
 		"uniques": [
-			"[+12]% Strength <when attacking> <every [2] turns>",
-			"Withdraws before melee combat <with [43]% chance> <every [2] turns>",
-			"[+999]% Strength <vs [Ranged] units> <with [43]% chance> <every [2] turns>"],
+			"[+45]% Strength <every [2] turns>",
+			"Withdraws before melee combat <with [65]% chance> <every [2] turns>",
+			"[+999]% Strength <when defending> <vs [Ranged] units> <with [65]% chance> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Karin",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 41,
+		"strength": 42,
 		"rangedStrength": 77,
 		"range": 3,
-		"cost": 567,
+		"cost": 468,
 		"uniques": [
 			"[+59]% Strength <when attacking> <every [4] turns>",
 			"[+48]% Strength <when attacking> <vs [Armored] units> <every [4] turns>"],
 		"requiredTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Akane",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
-		"strength": 60,
+		"strength": 61,
 		"rangedStrength": 29,
 		"range": 2,
-		"cost": 526,
+		"cost": 397,
 		"uniques": [
 			"[+45]% Strength <when attacking> <every [2] turns>",
-			"[-12]% Strength for enemy [All] units in adjacent [All] tiles <every [2] turns>"],
+			"[+44]% Strength <every [2] turns>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Toki",
@@ -274,15 +274,15 @@
 		"strength": 53,
 		"rangedStrength": 68,
 		"range": 2,
-		"cost": 558,
+		"cost": 469,
 		"uniques": [
-			"[+27]% Strength <when attacking> <every [2] turns>",
+			"[+40]% Strength <every [2] turns>",
 			"Withdraws before melee combat <with [12]% chance> <every [2] turns>",
-			"[+999]% Strength <vs [Ranged] units> <with [12]% chance> <every [2] turns>"],
+			"[+999]% Strength <when defending> <vs [Ranged] units> <with [12]% chance> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "machinegun"
+		"attackSound": "gdrAttack"
 	},
-	{
+	{//last
 		"name": "Eimi",
 		"unitType": "Armored",
 		"uniqueTo": "Millennium",
