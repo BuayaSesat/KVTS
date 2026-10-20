@@ -249,7 +249,7 @@
 			"[+59]% Strength <when attacking> <every [4] turns>",
 			"[+48]% Strength <when attacking> <vs [Armored] units> <every [4] turns>"],
 		"requiredTech": "Rifling",
-		"attackSound": "shoot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Akane",
@@ -280,7 +280,7 @@
 			"Withdraws before melee combat <with [12]% chance> <every [2] turns>",
 			"[+999]% Strength <when defending> <vs [Ranged] units> <with [12]% chance> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "gdrAttack"
+		"attackSound": "rapid"
 	},
 	{//last
 		"name": "Eimi",
