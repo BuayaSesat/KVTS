@@ -52,7 +52,7 @@
 		"cost": 463,
 		"uniques": [
 			"Can move after attacking <every [2] turns>",
-			"[+27]% Strength <every [2] turns>"],
+			"[+27]% Strength <when attacking> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -82,10 +82,11 @@
 		"range": 3,
 		"cost": 539,
 		"uniques": [
+			"[+25]% Strength bonus for [Military] units within [1] tiles <when defending> <every [2] turns>",
 			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
-			"[+35]% Strength bonus for [Military] units within [1] tiles <every [2] turns>"],
+			"[+35]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
