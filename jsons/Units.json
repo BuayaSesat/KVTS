@@ -481,7 +481,7 @@
 		"cost": 533,
 		"uniques": [
 			"[+29]% Strength <when attacking> <every [4] turns>",
-			"[+28,2]% Strength <every [4] turns>"],
+			"[+28]% Strength <every [4] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -497,7 +497,7 @@
 		"uniques": [
 			"[+13]% Strength bonus for [All] units within [1] tiles <every [2] turns>"],
 		"requiredTech": "Acoustics",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Hinata",
@@ -513,7 +513,7 @@
 			"[4] additional attacks per turn <every [6] turns>",
 			"[-25]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Tsurugi",
@@ -527,7 +527,7 @@
 			"[1] additional attacks per turn <every [3] turns>",
 			"[-1]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Hasumi",
@@ -541,7 +541,7 @@
 		"uniques": [
 			"[+47]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Mashiro",
@@ -556,7 +556,7 @@
 			"[+31]% Strength <when attacking> <every [3] turns>",
 			"[+62]% Strength <when attacking> <with [50]% chance> <every [3] turns>"],
 		"requiredTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Ichika",
@@ -572,7 +572,7 @@
 			"[1] additional attacks per turn <every [6] turns>",
 			"[+52]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Mine",
@@ -589,7 +589,7 @@
 			"[-3]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>",
 			"[-5]% Strength for enemy [Gunpowder] units in adjacent [All] tiles <every [4] turns>"],
 		"requiredTech": "Biology",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Hanae",
@@ -603,7 +603,7 @@
 		"uniques": [
 			"All adjacent units heal [19] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Serina",
@@ -618,7 +618,7 @@
 			"[1] Movement <every [2] turns>",
 			"All adjacent units heal [12] HP when healing <every [2] turns>"],
 		"requiredTech": "Biology",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Ui",
@@ -632,7 +632,7 @@
 		"uniques": [
 			"[+16]% Strength bonus for [All] units within [1] tiles <every [5] turns>"],
 		"requiredTech": "Scientific Theory",
-		"attackSound": "shot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Shimiko",
@@ -646,7 +646,7 @@
 		"uniques": [
 			"[+7]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Yoshimi",
@@ -675,7 +675,7 @@
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Airi",
@@ -692,7 +692,7 @@
 			"[+6]% Strength <when attacking> <every [5] turns>",
 			"[-2]% Strength for enemy [All] units in adjacent [All] tiles <every [5] turns>"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "bombing"
+		"attackSound": "boom"
 	},
 	{
 		"name": "Kazusa",
@@ -707,7 +707,7 @@
 			"Can move after attacking <every [4] turns>",
 			"[+83]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Suzumi",
@@ -723,7 +723,7 @@
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+19]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Reisa",
@@ -737,7 +737,7 @@
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+17]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Hifumi",
@@ -756,7 +756,7 @@
 			"[+16]% Strength <when defending> <every [5] turns>",
 			"[-4]% Strength for enemy [All] units in adjacent [All] tiles <every [5] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Azusa",
@@ -770,7 +770,7 @@
 		"uniques": [
 			"[+96]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Koharu",
@@ -787,7 +787,7 @@
 			"[+3]% Strength <when attacking> <every [3] turns>",
 			"All adjacent units heal [11] HP when healing <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
-		"attackSound": "throw"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Hanako",
@@ -801,7 +801,7 @@
 		"uniques": [
 			"All adjacent units heal [16] HP when healing <every [5] turns>"],
 		"requiredTech": "Biology",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Saori",
@@ -815,7 +815,7 @@
 		"uniques": [
 			"[+96]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Atsuko",
@@ -829,7 +829,7 @@
 			"[-1] HP when healing <every [4] turns>",
 			"All adjacent units heal [9] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Misaki",
@@ -860,7 +860,7 @@
 			"[+11]% Strength <when attacking> <every [3] turns>",
 			"[-9]% Strength for enemy [All] units in adjacent [All] tiles <every [3] turns>"],
 		"requiredTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Subaru",
@@ -875,7 +875,7 @@
 			"Can move after attacking <every [4] turns>",
 			"[+23]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Makoto",
@@ -891,7 +891,7 @@
 			"[4] additional attacks per turn <every [6] turns>",
 			"[-19]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Iroha",
@@ -920,7 +920,7 @@
 		"uniques": [
 			"[+12]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
 		"requiredTech": "Military Science",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Satsuki",
@@ -936,7 +936,7 @@
 			"[+62]% Strength <vs [Armored] units> <when attacking> <every [3] turns>",
 			"[+81]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Chiaki",
@@ -950,7 +950,7 @@
 		"uniques": [
 			"[+136]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Hina",
@@ -966,7 +966,7 @@
 			"[1] additional attacks per turn <every [7] turns>",
 			"[+44]% Strength <when attacking> <every [7] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "machinegun"
+		"attackSound": "rapid_Hina"
 	},
 	{
 		"name": "Ako",
@@ -980,7 +980,7 @@
 		"uniques": [
 			"[+14]% Strength bonus for [All] units within [1] tiles <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Iori",
@@ -996,7 +996,7 @@
 			"[2] additional attacks per turn <every [3] turns>",
 			"[+5]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Chinatsu",
@@ -1010,7 +1010,7 @@
 		"uniques": [
 			"All adjacent units heal [22] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Aru",
@@ -1026,7 +1026,7 @@
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+36]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Rifling",
-		"attackSound": "shot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Kayoko",
@@ -1043,7 +1043,7 @@
 			"[+15]% Strength <when attacking> <every [6] turns>",
 			"[-5]% Strength for enemy [All] units in adjacent [All] tiles <every [6] turns>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Mutsuki",
@@ -1059,7 +1059,7 @@
 			"[2] additional attacks per turn <every [4] turns>",
 			"[+21]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Dynamite",
-		"attackSound": "bombing"
+		"attackSound": "boom"
 	},
 	{
 		"name": "Haruka",
@@ -1073,7 +1073,7 @@
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+62]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Haruna",
@@ -1089,7 +1089,7 @@
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+31]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "shot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Akari",
@@ -1105,7 +1105,7 @@
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+19]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Junko",
@@ -1123,7 +1123,7 @@
 			"Unit will heal every turn, even if it performs an action <every [5] turns> <when at war>",
 			"[-36] HP when healing <every [5] turns> <when at war>"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Izumi",
@@ -1138,7 +1138,7 @@
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
 			"[-3] HP when healing <every [3] turns>"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Fuuka",
@@ -1153,7 +1153,7 @@
 			"[1] Movement <every [5] turns>",
 			"All adjacent units heal [12] HP when healing <every [5] turns>"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Juri",
@@ -1169,7 +1169,7 @@
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+8]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Chemistry",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Sena",
@@ -1185,7 +1185,7 @@
 			"[+2]% Strength bonus for [All] units within [2] tiles <every [5] turns>",
 			"All adjacent units heal [10] HP when healing <every [5] turns>"],
 		"requiredTech": "Biology",
-		"attackSound": "bombing"
+		"attackSound": "boom"
 	},
 	{
 		"name": "Kasumi",
@@ -1202,7 +1202,7 @@
 			"[+3]% Strength <when attacking> <every [4] turns>",
 			"[-6]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>"],
 		"requiredTech": "Gunpowder",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Megu",
@@ -1216,7 +1216,7 @@
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+22]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Chemistry",
-		"attackSound": "bombing"
+		"attackSound": "boom"
 	},
 	{
 		"name": "Kirara",
@@ -1231,7 +1231,7 @@
 			"[1] Movement <every [4] turns>",
 			"[+27]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Erika",
@@ -1245,6 +1245,6 @@
 		"uniques": [
 			"All adjacent units heal [12] HP when healing <every [3] turns>"],
 		"requiredTech": "Biology",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 ]
