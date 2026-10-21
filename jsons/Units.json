@@ -49,10 +49,10 @@
 		"strength": 52,
 		"rangedStrength": 76,
 		"range": 2,
-		"cost": 502,
+		"cost": 463,
 		"uniques": [
 			"Can move after attacking <every [2] turns>",
-			"[+53]% Strength <every [2] turns>"],
+			"[+27]% Strength <every [2] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
