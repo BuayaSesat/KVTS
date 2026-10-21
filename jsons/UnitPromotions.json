@@ -3,27 +3,27 @@
 		"name": "Big Sister I",
 		"unitTypes": ["Rio"],
 		"uniques": [
-			"[+76]% Strength bonus for [Military] units within [1] tiles <every [2] turns>"]
+			"[+3]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
 	{
 		"name": "Big Sister II",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister I"],
 		"uniques": [
-			"[+87]% Strength bonus for [Military] units within [1] tiles <every [2] turns>"]
+			"[+5]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
 	{
 		"name": "Big Sister III",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister II"],
 		"uniques": [
-			"[+92]% Strength bonus for [Military] units within [1] tiles <every [2] turns>"]
+			"[+3]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
 	{
 		"name": "Big Sister MAX",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister III"],
 		"uniques": [
-			"[+103]% Strength bonus for [Military] units within [1] tiles <every [2] turns>"]
+			"[+5]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
 ]
