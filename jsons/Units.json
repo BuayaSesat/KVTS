@@ -462,13 +462,13 @@
 		"strength": 57,
 		"rangedStrength": 38,
 		"range": 2,
-		"cost": 416,
+		"cost": 364,
 		"uniques": [
-			"[+5]% Strength bonus for [Military] units within [1] tiles <every [3] turns>",
+			"[+25]% Strength bonus for [Military] units within [1] tiles <every [3] turns>",
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
-			"[-1] HP when healing <every [3] turns>"],
+			"[-4] HP when healing <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
-		"attackSound": "shot"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Sakurako",
