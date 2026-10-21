@@ -4,6 +4,7 @@
 		"unitTypes": ["Rio"],
 		"uniques": [
 			"[+35]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
+	},
 	{
 		"name": "Big Sister II",
 		"unitTypes": ["Rio"],
