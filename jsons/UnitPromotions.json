@@ -31,5 +31,5 @@
 		"prerequisites": ["Big Sister IV"],
 		"uniques": [
 			"[+51]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
-	},
+	}
 ]
