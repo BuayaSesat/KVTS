@@ -82,7 +82,6 @@
 		"range": 3,
 		"cost": 539,
 		"uniques": [
-			"[+25]% Strength bonus for [Military] units within [1] tiles <when defending> <every [2] turns>",
 			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
@@ -111,9 +110,9 @@
 		"strength": 62,
 		"rangedStrength": 28,
 		"range": 2,
-		"cost": 359,
+		"cost": 373,
 		"uniques": [
-			"[+43]% Strength bonus for [Military] units within [1] tiles <every [3] turns>"],
+			"[+43]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
@@ -145,7 +144,7 @@
 		"range": 3,
 		"cost": 501,
 		"uniques": [
-			"[+36]% Strength bonus for [Military] units within [1] tiles <every [3] turns>"],
+			"[+36]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
@@ -160,7 +159,7 @@
 		"cost": 459,
 		"uniques": [
 			"[+68]% Strength <when attacking> <every [5] turns>",
-			"[+63]% Strength <every [5] turns>"],
+			"[+63]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "rapid"
 	},
@@ -172,11 +171,12 @@
 		"strength": 46,
 		"rangedStrength": 53,
 		"range": 3,
-		"cost": 403,
+		"cost": 406,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
-			"[+9]% Strength <when attacking> <every [4] turns>"],
+			"[+7]% Strength <when attacking> <every [4] turns>",
+			"[+14]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "boom"
 	},
@@ -190,7 +190,7 @@
 		"range": 3,
 		"cost": 346,
 		"uniques": [
-			"[+25]% Strength bonus for [Military] units within [2] tiles <every [3] turns>"],
+			"[+25]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "shoot"
 	},
@@ -202,10 +202,10 @@
 		"strength": 55,
 		"rangedStrength": 64,
 		"range": 3,
-		"cost": 467,
+		"cost": 458,
 		"uniques": [
 			"[+16]% Strength <when attacking> <every [3] turns>",
-			"[+89]% Strength <when attacking> <vs [Armored] units> <every [3] turns>"],
+			"[+36]% Strength <when attacking> <vs [Armored] units> <every [3] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -229,9 +229,9 @@
 		"strength": 52,
 		"rangedStrength": 66,
 		"range": 2,
-		"cost": 492,
+		"cost": 458,
 		"uniques": [
-			"[+45]% Strength <every [2] turns>",
+			"[+23]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [65]% chance> <every [2] turns>",
 			"[+999]% Strength <when defending> <vs [Ranged] units> <with [65]% chance> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
@@ -248,7 +248,7 @@
 		"cost": 468,
 		"uniques": [
 			"[+59]% Strength <when attacking> <every [4] turns>",
-			"[+48]% Strength <when attacking> <vs [Heavy] units> <every [4] turns>"],
+			"[+48]% Strength <when attacking> <vs [Armored] units> <every [4] turns>"],
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
@@ -260,10 +260,10 @@
 		"strength": 61,
 		"rangedStrength": 29,
 		"range": 2,
-		"cost": 397,
+		"cost": 386,
 		"uniques": [
 			"[+45]% Strength <when attacking> <every [2] turns>",
-			"[+44]% Strength <every [2] turns>"],
+			"[+22]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [2] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shoot"
 	},
