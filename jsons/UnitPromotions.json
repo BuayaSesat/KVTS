@@ -39,5 +39,12 @@
 		"uniques": [
 			"[+51]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
 			"[This Unit] gains [100] XP"]
-	}
+	},
+	{
+		"name": "The Only Way",
+		"unitTypes": ["Rio"],
+		"uniques": [
+			"[+10]% Strength <when attacking> <every [3] turns>",
+			"[+19]% Strength bonus for [Military] units within [2] tiles <every [3] turns>"]
+	},
 ]
