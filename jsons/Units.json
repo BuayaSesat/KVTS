@@ -110,9 +110,9 @@
 		"strength": 62,
 		"rangedStrength": 28,
 		"range": 2,
-		"cost": 373,
+		"cost": 351,
 		"uniques": [
-			"[+43]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>"],
+			"[+21]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
@@ -275,9 +275,9 @@
 		"strength": 53,
 		"rangedStrength": 68,
 		"range": 2,
-		"cost": 469,
+		"cost": 439,
 		"uniques": [
-			"[+40]% Strength <every [2] turns>",
+			"[+20]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [12]% chance> <every [2] turns>",
 			"[+999]% Strength <when defending> <vs [Ranged] units> <with [12]% chance> <every [2] turns>"],
 		"requiredTech": "Metallurgy",
@@ -305,9 +305,9 @@
 		"strength": 50,
 		"rangedStrength": 60,
 		"range": 3,
-		"cost": 481,
+		"cost": 451,
 		"uniques": [
-			"[+122]% Strength <every [4] turns>"],
+			"[+61]% Strength <every [4] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "shipguns"
 	},
@@ -483,7 +483,7 @@
 		"uniques": [
 			"[+29]% Strength <when attacking> <every [4] turns>",
 			"[+28]% Strength <every [4] turns>"],
-		"requiredTech": "Metallurgy",
+		"requiredTech": "Acoustics",
 		"attackSound": "rapid"
 	},
 	{
@@ -513,7 +513,7 @@
 			"[4] Movement <every [6] turns>",
 			"[4] additional attacks per turn <every [6] turns>",
 			"[-25]% Strength <when attacking> <every [6] turns>"],
-		"requiredTech": "Metallurgy",
+		"requiredTech": "Acoustics",
 		"attackSound": "shoot"
 	},
 	{
