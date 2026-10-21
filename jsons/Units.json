@@ -470,7 +470,7 @@
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
-	{
+	{//last
 		"name": "Sakurako",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
@@ -480,9 +480,10 @@
 		"range": 2,
 		"cost": 533,
 		"uniques": [
-			"[+33]% Strength <when attacking> <every [4] turns>"],
+			"[+29]% Strength <when attacking> <every [4] turns>",
+			"[+28,2]% Strength <every [4] turns>"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "machinegun"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Mari",
