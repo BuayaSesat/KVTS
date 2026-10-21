@@ -74,7 +74,7 @@
 	},
 	{
 		"name": "Rio",
-		"unitType": "Rio",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 72,
@@ -432,12 +432,12 @@
 		"strength": 67,
 		"rangedStrength": 71,
 		"range": 3,
-		"cost": 545,
+		"cost": 560,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+28]% Strength <when attacking> <every [3] turns>",
-			"[+23]% Strength <vs [Light] units> <every [3] turns>"],
+			"[+23]% Strength bonus for [Military] units within [2] tiles <vs [Melee] units> <when attacking> <every [3] turns>"],
 		"requiredTech": "Military Science",
 		"attackSound": "boom"
 	},
