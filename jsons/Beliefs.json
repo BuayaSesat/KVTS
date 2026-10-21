@@ -40,11 +40,6 @@
 		"uniques": ["[4] Sight <for [All] units>", "Reveals the entire map"],
 	},
 	{
-		"name": "Sumber Daya Alam"
-		"type": "Founder"
-		"uniques": ["[1] Happiness from each type of luxury resource", "[+100]% [Luxury] resource production", "[+100]% [Strategic] resource production"],
-	},
-	{
 		"name": "Wajib Militer"
 		"type": "Founder"
 		"uniques": ["New [Military] units start with [40] XP [in all cities]"]
