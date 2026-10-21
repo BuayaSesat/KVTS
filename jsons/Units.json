@@ -966,7 +966,7 @@
 			"[1] additional attacks per turn <every [7] turns>",
 			"[+44]% Strength <when attacking> <every [7] turns>"],
 		"requiredTech": "Industrialization",
-		"attackSound": "rapid_Hina"
+		"attackSound": "mgshot"
 	},
 	{
 		"name": "Ako",
