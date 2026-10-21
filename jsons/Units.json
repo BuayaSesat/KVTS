@@ -74,7 +74,7 @@
 	},
 	{
 		"name": "Rio",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Rio",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 72,
