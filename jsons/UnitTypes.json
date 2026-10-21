@@ -3,7 +3,6 @@
 		"name": "Rio",
 		"movementType": "Land",
 		"uniques": [
-			"[This Unit] gains the [Big Sister] promotion",
-			"[This Unit] gains [99] XP"],
+			"[This Unit] gains the [Big Sister] promotion"]
 	}
 ]
