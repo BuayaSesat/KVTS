@@ -3,39 +3,27 @@
 		"name": "Big Sister I",
 		"unitTypes": ["Rio"],
 		"uniques": [
-			"[1] Movement <every [2] turns> <for units without [Big Sister II]>",
-			"[1] additional attacks per turn <every [2] turns> <for units without [Big Sister II]>",
-			"[-10]% Strength <when attacking> <every [2] turns> <for units without [Big Sister II]>",
-			"[+76]% Strength bonus for [Military] units within [1] tiles <every [2] turns> <for units without [Big Sister II]>"]
+			"[+76]% Strength bonus for [Military] units within [1] tiles <every [2] turns>"]
 	},
 	{
 		"name": "Big Sister II",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister I"],
 		"uniques": [
-			"[1] Movement <every [2] turns> <for units without [Big Sister III]>",
-			"[1] additional attacks per turn <every [2] turns> <for units without [Big Sister III]>",
-			"[-10]% Strength <when attacking> <every [2] turns> <for units without [Big Sister III]>",
-			"[+87]% Strength bonus for [Military] units within [1] tiles <every [2] turns> <for units without [Big Sister III]>"]
+			"[+87]% Strength bonus for [Military] units within [1] tiles <every [2] turns>"]
 	},
 	{
 		"name": "Big Sister III",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister II"],
 		"uniques": [
-			"[1] Movement <every [2] turns> <for units without [Big Sister MAX]>",
-			"[1] additional attacks per turn <every [2] turns> <for units without [Big Sister MAX]>",
-			"[-10]% Strength <when attacking> <every [2] turns> <for units without [Big Sister MAX]>",
-			"[+92]% Strength bonus for [Military] units within [1] tiles <every [2] turns> <for units without [Big Sister MAX]>"]
+			"[+92]% Strength bonus for [Military] units within [1] tiles <every [2] turns>"]
 	},
 	{
 		"name": "Big Sister MAX",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister III"],
 		"uniques": [
-			"[1] Movement <every [2] turns>",
-			"[1] additional attacks per turn <every [2] turns>",
-			"[-10]% Strength <when attacking> <every [2] turns>",
 			"[+103]% Strength bonus for [Military] units within [1] tiles <every [2] turns>"]
 	},
 ]
