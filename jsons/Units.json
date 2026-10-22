@@ -471,7 +471,7 @@
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
-	{//last
+	{//last cost
 		"name": "Sakurako",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
@@ -496,7 +496,7 @@
 		"range": 3,
 		"cost": 482,
 		"uniques": [
-			"[+13]% Strength bonus for [All] units within [1] tiles <every [2] turns>"],
+			"All adjacent units heal [17] HP when healing <every [2] turns>"],
 		"requiredTech": "Acoustics",
 		"attackSound": "shoot"
 	},
@@ -521,12 +521,13 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 84,
+		"strength": 174,
 		"cost": 497,
 		"uniques": [
 			"[2] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
-			"[-1]% Strength <when attacking> <every [3] turns>"],
+			"[-6]% Strength <when attacking> <every [3] turns>",
+			"[+26]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shoot"
 	},
