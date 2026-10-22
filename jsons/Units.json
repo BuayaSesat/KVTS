@@ -812,9 +812,9 @@
 		"strength": 54,
 		"rangedStrength": 64,
 		"range": 2,
-		"cost": 576,
+		"cost": 438,
 		"uniques": [
-			"[+96]% Strength <when attacking> <every [4] turns>"],
+			"[+97]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "shoot"
 	},
@@ -823,12 +823,12 @@
 		"unitType": "Armored",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 116,
-		"cost": 516,
+		"strength": 144,
+		"cost": 473,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [4] turns>",
-			"[-1] HP when healing <every [4] turns>",
-			"All adjacent units heal [9] HP when healing <every [4] turns>"],
+			"[+4] HP when healing <every [4] turns>",
+			"All adjacent units heal [14] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
 		"attackSound": "rapid"
 	},
@@ -838,13 +838,13 @@
 		"uniqueTo": "Arius",
 		"movement": 2,
 		"strength": 40,
-		"rangedStrength": 157,
+		"rangedStrength": 156,
 		"range": 3,
-		"cost": 1227,
+		"cost": 853,
 		"uniques": [
 			"[6] Movement <every [5] turns>",
 			"[6] additional attacks per turn <every [5] turns>",
-			"[-66]% Strength <when attacking> <every [5] turns>"],
+			"[-61]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Dynamite",
 		"attackSound": "missile"
 	},
@@ -853,13 +853,14 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 59,
+		"strength": 58,
 		"rangedStrength": 68,
 		"range": 3,
-		"cost": 571,
+		"cost": 537,
 		"uniques": [
 			"[+11]% Strength <when attacking> <every [3] turns>",
-			"[-9]% Strength for enemy [All] units in adjacent [All] tiles <every [3] turns>"],
+			"[+35]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
+			"[+60]% Strength bonus for [Military] units within [2] tiles <when attacking> <when adjacent to a [Arius Squad] units> <every [3] turns>"],
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
@@ -871,10 +872,10 @@
 		"strength": 48,
 		"rangedStrength": 64,
 		"range": 2,
-		"cost": 489,
+		"cost": 405,
 		"uniques": [
 			"Can move after attacking <every [4] turns>",
-			"[+23]% Strength <when attacking> <every [4] turns>"],
+			"[+27]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "shoot"
 	},
