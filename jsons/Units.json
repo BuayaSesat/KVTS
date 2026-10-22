@@ -568,7 +568,7 @@
 		"strength": 53,
 		"rangedStrength": 72,
 		"range": 2,
-		"cost": 609,
+		"cost": 456,
 		"uniques": [
 			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
@@ -582,7 +582,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 151,
-		"cost": 609,
+		"cost": 540,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [4] turns>",
 			"[1] Movement <every [4] turns>",
@@ -601,7 +601,7 @@
 		"strength": 48,
 		"rangedStrength": 39,
 		"range": 3,
-		"cost": 417,
+		"cost": 357,
 		"uniques": [
 			"All adjacent units heal [12] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
@@ -615,7 +615,7 @@
 		"strength": 48,
 		"rangedStrength": 38,
 		"range": 3,
-		"cost": 448,
+		"cost": 365,
 		"uniques": [
 			"[1] Movement <every [2] turns>",
 			"All adjacent units heal [12] HP when healing <every [2] turns>"],
@@ -630,7 +630,7 @@
 		"strength": 37,
 		"rangedStrength": 68,
 		"range": 3,
-		"cost": 470,
+		"cost": 434,
 		"uniques": [
 			"[+73]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [5] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -644,7 +644,7 @@
 		"strength": 50,
 		"rangedStrength": 42,
 		"range": 3,
-		"cost": 464,
+		"cost": 390,
 		"uniques": [
 			"[+24]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -658,7 +658,7 @@
 		"strength": 44,
 		"rangedStrength": 66,
 		"range": 3,
-		"cost": 563,
+		"cost": 454,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -673,7 +673,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 136,
-		"cost": 449,
+		"cost": 441,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>"],
 		"requiredTech": "Fertilizer",
@@ -687,7 +687,7 @@
 		"strength": 51,
 		"rangedStrength": 36,
 		"range": 3,
-		"cost": 450,
+		"cost": 366,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
@@ -704,7 +704,7 @@
 		"strength": 47,
 		"rangedStrength": 65,
 		"range": 3,
-		"cost": 545,
+		"cost": 449,
 		"uniques": [
 			"Can move after attacking <every [4] turns>",
 			"[+83]% Strength <when attacking> <every [4] turns>"],
@@ -719,7 +719,7 @@
 		"strength": 52,
 		"rangedStrength": 44,
 		"range": 2,
-		"cost": 511,
+		"cost": 364,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -733,7 +733,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 148,
-		"cost": 604,
+		"cost": 529
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
@@ -749,7 +749,7 @@
 		"strength": 55,
 		"rangedStrength": 52,
 		"range": 2,
-		"cost": 574,
+		"cost": 423,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [5] turns>",
 			"[1] Movement <every [5] turns>",
@@ -767,7 +767,7 @@
 		"strength": 53,
 		"rangedStrength": 61,
 		"range": 2,
-		"cost": 537,
+		"cost": 421
 		"uniques": [
 			"[+97]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Industrialization",
@@ -781,7 +781,7 @@
 		"strength": 40,
 		"rangedStrength": 57,
 		"range": 3,
-		"cost": 581,
+		"cost": 408,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
@@ -798,7 +798,7 @@
 		"strength": 49,
 		"rangedStrength": 41,
 		"range": 3,
-		"cost": 406,
+		"cost": 366
 		"uniques": [
 			"All adjacent units heal [16] HP when healing <every [5] turns>"],
 		"requiredTech": "Biology",
