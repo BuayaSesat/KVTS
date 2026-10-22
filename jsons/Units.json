@@ -74,7 +74,7 @@
 	},
 	{
 		"name": "Rio",
-		"unitType": "Rio",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 72,
@@ -171,12 +171,12 @@
 		"strength": 46,
 		"rangedStrength": 53,
 		"range": 3,
-		"cost": 406,
+		"cost": 422,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+7]% Strength <when attacking> <every [4] turns>",
-			"[+14]% Strength <when attacking> <every [4] turns>"],
+			"[+27]% Strength bonus for [Military] units within [2] tiles <when defending> <every [4] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "boom"
 	},
@@ -305,9 +305,9 @@
 		"strength": 50,
 		"rangedStrength": 60,
 		"range": 3,
-		"cost": 451,
+		"cost": 432,
 		"uniques": [
-			"[+61]% Strength <every [4] turns>"],
+			"[+24]% Strength <every [4] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "shipguns"
 	},
@@ -471,7 +471,7 @@
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
-	{//last cost
+	{
 		"name": "Sakurako",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
@@ -479,10 +479,10 @@
 		"strength": 53,
 		"rangedStrength": 70,
 		"range": 2,
-		"cost": 533,
+		"cost": 443,
 		"uniques": [
 			"[+29]% Strength <when attacking> <every [4] turns>",
-			"[+28]% Strength <every [4] turns>"],
+			"[+28]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Acoustics",
 		"attackSound": "rapid"
 	},
@@ -494,7 +494,7 @@
 		"strength": 63,
 		"rangedStrength": 35,
 		"range": 3,
-		"cost": 482,
+		"cost": 401,
 		"uniques": [
 			"All adjacent units heal [17] HP when healing <every [2] turns>"],
 		"requiredTech": "Acoustics",
@@ -508,7 +508,7 @@
 		"strength": 55,
 		"rangedStrength": 67,
 		"range": 2,
-		"cost": 746,
+		"cost": 467,
 		"uniques": [
 			"[4] Movement <every [6] turns>",
 			"[4] additional attacks per turn <every [6] turns>",
@@ -522,7 +522,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 174,
-		"cost": 497,
+		"cost": 617,
 		"uniques": [
 			"[2] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
@@ -539,7 +539,7 @@
 		"strength": 43,
 		"rangedStrength": 83,
 		"range": 3,
-		"cost": 554,
+		"cost": 477,
 		"uniques": [
 			"[+47]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Rifling",
@@ -553,7 +553,7 @@
 		"strength": 45,
 		"rangedStrength": 78,
 		"range": 3,
-		"cost": 587,
+		"cost": 480,
 		"uniques": [
 			"[+31]% Strength <when attacking> <every [3] turns>",
 			"[+62]% Strength <when attacking> <with [50]% chance> <every [3] turns>"],
@@ -603,7 +603,7 @@
 		"range": 3,
 		"cost": 417,
 		"uniques": [
-			"All adjacent units heal [19] HP when healing <every [4] turns>"],
+			"All adjacent units heal [12] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
 		"attackSound": "rapid"
 	},
@@ -632,7 +632,7 @@
 		"range": 3,
 		"cost": 470,
 		"uniques": [
-			"[+16]% Strength bonus for [All] units within [1] tiles <every [5] turns>"],
+			"[+73]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [5] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "cannon"
 	},
@@ -646,7 +646,7 @@
 		"range": 3,
 		"cost": 464,
 		"uniques": [
-			"[+7]% Strength bonus for [All] units within [2] tiles <every [3] turns>"],
+			"[+24]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "rapid"
 	},
@@ -663,8 +663,8 @@
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+2]% Strength <when attacking> <every [4] turns>",
-			"[-3]% Strength for enemy [All] units in adjacent [All] tiles <every [4] turns>"],
-		"requiredTech": "Dynamite",
+			"[+22]% Strength bonus for [Military] units within [2] tiles <when defending> <every [4] turns>"],
+		"requiredTech": "Fertilizer",
 		"attackSound": "missile"
 	},
 	{
@@ -672,7 +672,7 @@
 		"unitType": "Armored",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 105,
+		"strength": 136,
 		"cost": 449,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>"],
@@ -692,7 +692,7 @@
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+6]% Strength <when attacking> <every [5] turns>",
-			"[-2]% Strength for enemy [All] units in adjacent [All] tiles <every [5] turns>"],
+			"[+11]% Strength bonus for [Military] units within [2] tiles <when defending> <every [5] turns>"],
 		"requiredTech": "Fertilizer",
 		"attackSound": "boom"
 	},
@@ -701,8 +701,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 46,
-		"rangedStrength": 64,
+		"strength": 47,
+		"rangedStrength": 65,
 		"range": 3,
 		"cost": 545,
 		"uniques": [
@@ -732,7 +732,7 @@
 		"unitType": "Armored",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 108,
+		"strength": 148,
 		"cost": 604,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
@@ -747,16 +747,15 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 55,
-		"rangedStrength": 51,
+		"rangedStrength": 52,
 		"range": 2,
 		"cost": 574,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [5] turns>",
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
-			"[+10]% Strength <when attacking> <every [5] turns>",
 			"[+16]% Strength <when defending> <every [5] turns>",
-			"[-4]% Strength for enemy [All] units in adjacent [All] tiles <every [5] turns>"],
+			"[+34]% Strength bonus for [Military] units within [2] tiles <when defending> <every [5] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
 	},
@@ -766,11 +765,11 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 53,
-		"rangedStrength": 60,
+		"rangedStrength": 61,
 		"range": 2,
 		"cost": 537,
 		"uniques": [
-			"[+96]% Strength <when attacking> <every [5] turns>"],
+			"[+97]% Strength <when attacking> <every [5] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
 	},
@@ -797,7 +796,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 49,
-		"rangedStrength": 40,
+		"rangedStrength": 41,
 		"range": 3,
 		"cost": 406,
 		"uniques": [
