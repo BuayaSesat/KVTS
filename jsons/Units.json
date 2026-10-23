@@ -425,6 +425,22 @@
 		"attackSound": "shoot"
 	},
 	{
+		"name": "Seia",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Trinity",
+		"movement": 2,
+		"strength": 57,
+		"rangedStrength": 38,
+		"range": 2,
+		"cost": 364,
+		"uniques": [
+			"[+25]% Strength bonus for [Military] units within [1] tiles <every [3] turns>",
+			"Unit will heal every turn, even if it performs an action <every [3] turns>",
+			"[-4] HP when healing <every [3] turns>"],
+		"requiredTech": "Scientific Theory",
+		"attackSound": "shoot"
+	},
+	{
 		"name": "Nagisa",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
@@ -454,22 +470,6 @@
 			"[+41]% Strength <when attacking> <vs [Wounded] units> <every [6] turns>"],
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
-	},
-	{
-		"name": "Seia",
-		"unitType": "Gunpowder",
-		"uniqueTo": "Trinity",
-		"movement": 2,
-		"strength": 57,
-		"rangedStrength": 38,
-		"range": 2,
-		"cost": 364,
-		"uniques": [
-			"[+25]% Strength bonus for [Military] units within [1] tiles <every [3] turns>",
-			"Unit will heal every turn, even if it performs an action <every [3] turns>",
-			"[-4] HP when healing <every [3] turns>"],
-		"requiredTech": "Scientific Theory",
-		"attackSound": "shoot"
 	},
 	{
 		"name": "Sakurako",
