@@ -400,13 +400,13 @@
 		"strength": 36,
 		"rangedStrength": 113,
 		"range": 3,
-		"cost": 560,
+		"cost": 548,
 		"uniques": [
-			"[1] Movement <every [6] turns>",
+			"[3] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
-			"[+11]% Strength <when attacking> <with [33]% chance> <every [6] turns>",
-			"[+27]% Strength <when attacking> <with [33]% chance> <every [6] turns>",
-			"[+42]% Strength <when attacking> <with [33]% chance> <every [6] turns>"],
+			"[+11]% Strength <when attacking> <every [6] turns>",
+			"[+16]% Strength <when attacking> <when above [2] movement> <every [6] turns>",
+			"[+16]% Strength <when attacking> <when above [3] movement> <every [6] turns>"],
 		"requiredTech": "Electricity",
 		"attackSound": "nuke"
 	},
@@ -887,7 +887,7 @@
 		"strength": 58,
 		"rangedStrength": 82,
 		"range": 3,
-		"cost": 822,
+		"cost": 526,
 		"uniques": [
 			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
@@ -905,7 +905,7 @@
 		"strength": 57,
 		"rangedStrength": 89,
 		"range": 3,
-		"cost": 644,
+		"cost": 609,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [8] turns>",
 			"[+31]% Strength <every [8] turns>",
@@ -923,7 +923,7 @@
 		"strength": 43,
 		"rangedStrength": 57,
 		"range": 2,
-		"cost": 560,
+		"cost": 412,
 		"uniques": [
 			"[+46]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[1] Movement <when adjacent to a [Iroha] unit> <every [5] turns>",
@@ -940,13 +940,14 @@
 		"strength": 67,
 		"rangedStrength": 75,
 		"range": 3,
-		"cost": 782,
+		"cost": 621,
 		"uniques": [
+			"[3] Movement <every [3] turns>",
 			"[+26]% Strength <vs [Armored] units> <when attacking> <every [3] turns>",
-			"[+77]% Strength <when attacking> <with [25]% chance> <every [3] turns>",
-			"[+20]% Strength <when attacking> <with [25]% chance> <every [3] turns>",
-			"[+20]% Strength <when attacking> <with [25]% chance> <every [3] turns>",
-			"[+20]% Strength <when attacking> <with [25]% chance> <every [3] turns>"],
+			"[+77]% Strength <when attacking> <every [3] turns>",
+			"[+30]% Strength <when attacking> <when above [2] movement> <every [3] turns>",
+			"[+30]% Strength <when attacking> <when above [3] movement> <every [3] turns>",
+			"[+30]% Strength <when attacking> <when above [4] movement> <every [3] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shoot"
 	},
@@ -958,7 +959,7 @@
 		"strength": 46,
 		"rangedStrength": 71,
 		"range": 2,
-		"cost": 567,
+		"cost": 434,
 		"uniques": [
 			"[+136]% Strength <when attacking> <every [6] turns>"],
 		"requiredTech": "Metallurgy",
@@ -972,7 +973,7 @@
 		"strength": 48,
 		"rangedStrength": 65,
 		"range": 3,
-		"cost": 542,
+		"cost": 445,
 		"uniques": [
 			"[1] Movement <every [7] turns>",
 			"[1] additional attacks per turn <every [7] turns>",
@@ -988,7 +989,7 @@
 		"strength": 59,
 		"rangedStrength": 41,
 		"range": 3,
-		"cost": 468,
+		"cost": 418,
 		"uniques": [
 			"[+42]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
@@ -1002,7 +1003,7 @@
 		"strength": 48,
 		"rangedStrength": 82,
 		"range": 3,
-		"cost": 801,
+		"cost": 543,
 		"uniques": [
 			"[2] Movement <every [3] turns>",
 			"[2] additional attacks per turn <every [3] turns>",
@@ -1018,7 +1019,7 @@
 		"strength": 50,
 		"rangedStrength": 24,
 		"range": 3,
-		"cost": 326,
+		"cost": 318,
 		"uniques": [
 			"All adjacent units heal [11] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
@@ -1032,7 +1033,7 @@
 		"strength": 44,
 		"rangedStrength": 95,
 		"range": 3,
-		"cost": 704,
+		"cost": 542,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1049,7 +1050,7 @@
 		"strength": 63,
 		"rangedStrength": 27,
 		"range": 2,
-		"cost": 451,
+		"cost": 357,
 		"uniques": [
 			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
@@ -1066,7 +1067,7 @@
 		"strength": 46,
 		"rangedStrength": 51,
 		"range": 3,
-		"cost": 621,
+		"cost": 409,
 		"uniques": [
 			"[2] Movement <every [4] turns>",
 			"[2] additional attacks per turn <every [4] turns>",
@@ -1080,7 +1081,7 @@
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 143,
-		"cost": 618,
+		"cost": 510,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1096,7 +1097,7 @@
 		"strength": 43,
 		"rangedStrength": 93,
 		"range": 3,
-		"cost": 687,
+		"cost": 524,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1113,7 +1114,7 @@
 		"strength": 52,
 		"rangedStrength": 66,
 		"range": 2,
-		"cost": 599,
+		"cost": 435,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1129,7 +1130,7 @@
 		"strength": 52,
 		"rangedStrength": 79,
 		"range": 2,
-		"cost": 635,
+		"cost": 477,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
@@ -1147,7 +1148,7 @@
 		"strength": 48,
 		"rangedStrength": 56,
 		"range": 3,
-		"cost": 441,
+		"cost": 404,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
 			"[-3] HP when healing <every [3] turns>"],
@@ -1162,7 +1163,7 @@
 		"strength": 52,
 		"rangedStrength": 31,
 		"range": 3,
-		"cost": 377,
+		"cost": 346,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"All adjacent units heal [12] HP when healing <every [5] turns>"],
@@ -1177,7 +1178,7 @@
 		"strength": 46,
 		"rangedStrength": 37,
 		"range": 3,
-		"cost": 501,
+		"cost": 411,
 		"uniques": [
 			"[5] Movement <every [3] turns>",
 			"[4] additional attacks per turn <every [3] turns>",
@@ -1193,10 +1194,10 @@
 		"strength": 46,
 		"rangedStrength": 37,
 		"range": 3,
-		"cost": 410,
+		"cost": 364,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [5] turns>",
-			"[+21]% Strength bonus for [Military] units within [2] tiles <every [5] turns>",
+			"[+21]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [5] turns>",
 			"All adjacent units heal [10] HP when healing <every [5] turns>"],
 		"requiredTech": "Biology",
 		"attackSound": "boom"
@@ -1209,7 +1210,7 @@
 		"strength": 58,
 		"rangedStrength": 59,
 		"range": 2,
-		"cost": 597,
+		"cost": 443,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1224,7 +1225,7 @@
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 118,
-		"cost": 438,
+		"cost": 416,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
@@ -1241,7 +1242,7 @@
 		"strength": 67,
 		"rangedStrength": 70,
 		"range": 2,
-		"cost": 593,
+		"cost": 501,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[+30]% Strength <when attacking> <every [4] turns>",
@@ -1257,7 +1258,7 @@
 		"strength": 72,
 		"rangedStrength": 52,
 		"range": 3,
-		"cost": 552,
+		"cost": 470,
 		"uniques": [
 			"All adjacent units heal [12] HP when healing <every [3] turns>"],
 		"requiredTech": "Biology",
