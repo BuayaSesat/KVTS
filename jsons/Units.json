@@ -944,7 +944,9 @@
 		"uniques": [
 			"[+26]% Strength <vs [Armored] units> <when attacking> <every [3] turns>",
 			"[+77]% Strength <when attacking> <with [25]% chance> <every [3] turns>",
-			"[+77]% Strength <when attacking> <with [25]% chance> <every [3] turns>",
+			"[+20]% Strength <when attacking> <with [25]% chance> <every [3] turns>",
+			"[+20]% Strength <when attacking> <with [25]% chance> <every [3] turns>",
+			"[+20]% Strength <when attacking> <with [25]% chance> <every [3] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shoot"
 	},
@@ -967,7 +969,7 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
-		"strength": 47,
+		"strength": 48,
 		"rangedStrength": 65,
 		"range": 3,
 		"cost": 542,
@@ -988,7 +990,7 @@
 		"range": 3,
 		"cost": 468,
 		"uniques": [
-			"[+14]% Strength bonus for [All] units within [1] tiles <every [3] turns>"],
+			"[+42]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
@@ -997,14 +999,14 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
-		"strength": 47,
+		"strength": 48,
 		"rangedStrength": 82,
 		"range": 3,
 		"cost": 801,
 		"uniques": [
 			"[2] Movement <every [3] turns>",
 			"[2] additional attacks per turn <every [3] turns>",
-			"[+5]% Strength <when attacking> <every [3] turns>"],
+			"[+25]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
@@ -1013,12 +1015,12 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
-		"strength": 49,
+		"strength": 50,
 		"rangedStrength": 24,
 		"range": 3,
 		"cost": 326,
 		"uniques": [
-			"All adjacent units heal [22] HP when healing <every [4] turns>"],
+			"All adjacent units heal [11] HP when healing <every [4] turns>"],
 		"requiredTech": "Biology",
 		"attackSound": "shoot"
 	},
