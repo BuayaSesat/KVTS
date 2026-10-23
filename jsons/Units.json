@@ -1036,7 +1036,8 @@
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
-			"[+36]% Strength <when attacking> <every [4] turns>"],
+			"[+17]% Strength <when attacking> <every [4] turns>",
+			"[+29]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
@@ -1046,14 +1047,14 @@
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 63,
-		"rangedStrength": 26,
+		"rangedStrength": 27,
 		"range": 2,
 		"cost": 451,
 		"uniques": [
 			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
 			"[+15]% Strength <when attacking> <every [6] turns>",
-			"[-5]% Strength for enemy [All] units in adjacent [All] tiles <every [6] turns>"],
+			"[+39]% Strength bonus for [Military] units within [2] tiles <when defending> <every [6] turns>"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shoot"
 	},
@@ -1069,7 +1070,7 @@
 		"uniques": [
 			"[2] Movement <every [4] turns>",
 			"[2] additional attacks per turn <every [4] turns>",
-			"[+21]% Strength <when attacking> <every [4] turns>"],
+			"[+11]% Strength <when attacking> <every [4] turns>"],
 		"requiredTech": "Dynamite",
 		"attackSound": "boom"
 	},
@@ -1078,7 +1079,7 @@
 		"unitType": "Armored",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
-		"strength": 110,
+		"strength": 143,
 		"cost": 618,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
