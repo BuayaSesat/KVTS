@@ -82,6 +82,7 @@
 		"range": 3,
 		"cost": 539,
 		"uniques": [
+			"Transfer Movement to [Military]",
 			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
