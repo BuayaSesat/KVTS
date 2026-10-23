@@ -14,7 +14,7 @@
 		"prerequisites": ["Big Sister"]
 		"uniques": [
 			"[+38]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
-			"[This Unit] gains [100] XP"]
+			"[This Unit] gains [60] XP"]
 	},
 	{
 		"name": "Big Sister II",
@@ -22,7 +22,7 @@
 		"prerequisites": ["Big Sister I"],
 		"uniques": [
 			"[+43]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
-			"[This Unit] gains [100] XP"]
+			"[This Unit] gains [60] XP"]
 	},
 	{
 		"name": "Big Sister III",
@@ -30,7 +30,7 @@
 		"prerequisites": ["Big Sister II"],
 		"uniques": [
 			"[+46]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
-			"[This Unit] gains [100] XP"]
+			"[This Unit] gains [60] XP"]
 	},
 	{
 		"name": "Big Sister MAX",
@@ -38,7 +38,7 @@
 		"prerequisites": ["Big Sister III"],
 		"uniques": [
 			"[+51]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
-			"[This Unit] gains [100] XP"]
+			"[This Unit] gains [60] XP"]
 	},
 	{
 		"name": "The Only Way",
