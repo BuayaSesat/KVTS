@@ -82,6 +82,7 @@
 		"range": 3,
 		"cost": 539,
 		"uniques": [
+			"[+99]% Strength <when below [3] movement>",
 			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
@@ -1100,7 +1101,8 @@
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
-			"[+31]% Strength <when attacking> <every [4] turns>"],
+			"[+31]% Strength <when attacking> <every [4] turns>",
+			"[-10]% Strength <when attacking> <when below [3] movement> <every [4] turns>"],
 		"requiredTech": "Fertilizer",
 		"attackSound": "cannon"
 	},
