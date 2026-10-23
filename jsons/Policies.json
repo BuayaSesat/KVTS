@@ -188,7 +188,8 @@
 			{
 				"name": "Trinity Complete",
 				"uniques": [
-					"May buy [All] units with [Faith] for [1] times their normal Production cost",
+					"[+100]% [Faith]",
+					"May buy [Military] units with [Faith] for [1] times their normal Production cost",
 					"[-25]% enemy spy effectiveness [in all cities]"]
 			}
 		]
