@@ -82,7 +82,6 @@
 		"range": 3,
 		"cost": 539,
 		"uniques": [
-			"Transfer Movement to [Military]",
 			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
@@ -861,7 +860,7 @@
 		"uniques": [
 			"[+11]% Strength <when attacking> <every [3] turns>",
 			"[+35]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
-			"[+60]% Strength bonus for [Military] units within [2] tiles <when attacking> <when adjacent to a [Arius Squad] units> <every [3] turns>"],
+			"[+60]% Strength bonus for [Military] units within [2] tiles <when attacking> <when adjacent to a [Military] units> <every [3] turns>"],
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
