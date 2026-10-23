@@ -82,7 +82,6 @@
 		"range": 3,
 		"cost": 539,
 		"uniques": [
-			"[+99]% Strength <when below [3] movement>",
 			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
@@ -861,7 +860,7 @@
 		"uniques": [
 			"[+11]% Strength <when attacking> <every [3] turns>",
 			"[+35]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
-			"[+60]% Strength bonus for [Military] units within [2] tiles <when attacking> <when adjacent to a [Military] units> <every [3] turns>"],
+			"[+60]% Strength bonus for [Military] units within [2] tiles <when attacking> <when adjacent to a [Military] unit> <every [3] turns>"],
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
@@ -1102,7 +1101,7 @@
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+31]% Strength <when attacking> <every [4] turns>",
-			"[-10]% Strength <when attacking> <when below [3] movement> <every [4] turns>"],
+			"[-20]% Strength <when attacking> <when below [3] movement> <every [4] turns>"],
 		"requiredTech": "Fertilizer",
 		"attackSound": "cannon"
 	},
@@ -1146,7 +1145,7 @@
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 48,
-		"rangedStrength": 57,
+		"rangedStrength": 56,
 		"range": 3,
 		"cost": 441,
 		"uniques": [
@@ -1161,7 +1160,7 @@
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 52,
-		"rangedStrength": 30,
+		"rangedStrength": 31,
 		"range": 3,
 		"cost": 377,
 		"uniques": [
@@ -1180,9 +1179,9 @@
 		"range": 3,
 		"cost": 501,
 		"uniques": [
-			"[2] Movement <every [3] turns>",
-			"[1] additional attacks per turn <every [3] turns>",
-			"[+8]% Strength <when attacking> <every [3] turns>"],
+			"[5] Movement <every [3] turns>",
+			"[4] additional attacks per turn <every [3] turns>",
+			"[+59]% Strength <when attacking> <every [3] turns>"],
 		"requiredTech": "Chemistry",
 		"attackSound": "shoot"
 	},
@@ -1191,13 +1190,13 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
-		"strength": 45,
+		"strength": 46,
 		"rangedStrength": 37,
 		"range": 3,
 		"cost": 410,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [5] turns>",
-			"[+2]% Strength bonus for [All] units within [2] tiles <every [5] turns>",
+			"[+21]% Strength bonus for [Military] units within [2] tiles <every [5] turns>",
 			"All adjacent units heal [10] HP when healing <every [5] turns>"],
 		"requiredTech": "Biology",
 		"attackSound": "boom"
