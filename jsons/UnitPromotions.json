@@ -1,4 +1,7 @@
 [
+	{
+		"name": "Halo"
+	},
 	{//Rio
 		"name": "Big Sister",
 		"unitTypes": ["Rio"],
