@@ -84,4 +84,82 @@
 			"[+3]% Strength <when attacking> <every [3] turns>",
 			"[This Unit] gains [60] XP"]
 	},
+	{
+		"name": "Starchaser",
+		"unitTypes": ["Rio"],
+		"uniques": [
+			"[+7]% Strength <when attacking>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "Starchaser I",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["Starchaser"],
+		"uniques": [
+			"[+2]% Strength <when attacking>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "Starchaser II",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["Starchaser I"],
+		"uniques": [
+			"[+1]% Strength <when attacking>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "Starchaser III",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["Starchaser II"],
+		"uniques": [
+			"[+2]% Strength <when attacking>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "Starchaser MAX",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["Starchaser III"],
+		"uniques": [
+			"[+2]% Strength <when attacking>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "Avant-Guard",
+		"unitTypes": ["Rio"],
+		"uniques": [
+			"[+5]% Strength bonus for [Military] units within [2] tiles <when attacking>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "Avant-Guard I",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["Avant-Guard"],
+		"uniques": [
+			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "Avant-Guard II",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["Avant-Guard I"],
+		"uniques": [
+			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "Avant-Guard III",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["Avant-Guard II"],
+		"uniques": [
+			"[+8]% Strength bonus for [Military] units within [2] tiles <when attacking>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "Avant-Guard MAX",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["Avant-Guard III"],
+		"uniques": [
+			"[+9]% Strength bonus for [Military] units within [2] tiles <when attacking>",
+			"[This Unit] gains [60] XP"]
+	},
 ]
