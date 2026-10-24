@@ -41,10 +41,47 @@
 			"[This Unit] gains [60] XP"]
 	},
 	{
-		"name": "The Only Way",
+		"name": "The only way",
 		"unitTypes": ["Rio"],
 		"uniques": [
+			"[+19]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[+10]% Strength <when attacking> <every [3] turns>",
-			"[+19]% Strength bonus for [Military] units within [2] tiles <every [3] turns>"]
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "The only way I",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["The only way"],
+		"uniques": [
+			"[+20]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
+			"[+3]% Strength <when attacking> <every [3] turns>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "The only way II",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["The only way I"],
+		"uniques": [
+			"[+20]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
+			"[+2]% Strength <when attacking> <every [3] turns>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "The only way III",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["The only way II"],
+		"uniques": [
+			"[+22]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
+			"[+3]% Strength <when attacking> <every [3] turns>",
+			"[This Unit] gains [60] XP"]
+	},
+	{
+		"name": "The only way MAX",
+		"unitTypes": ["Rio"],
+		"prerequisites": ["The only way III"],
+		"uniques": [
+			"[+24]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
+			"[+3]% Strength <when attacking> <every [3] turns>",
+			"[This Unit] gains [60] XP"]
 	},
 ]
