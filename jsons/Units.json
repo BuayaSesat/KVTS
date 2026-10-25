@@ -42,7 +42,7 @@
 		"cost": 471,
 		"uniques": [
 			"[+30]% Strength <when attacking> <every [2] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
@@ -59,7 +59,7 @@
 		"uniques": [
 			"Can move after attacking <every [2] turns>",
 			"[+27]% Strength <when attacking> <every [2] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
@@ -111,7 +111,7 @@
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
 			"[3] HP when healing <every [3] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
@@ -199,7 +199,7 @@
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+7]% Strength <when attacking> <every [4] turns>",
 			"[+27]% Strength bonus for [Military] units within [2] tiles <when defending> <every [4] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Electricity",
 		"attackSound": "boom"
@@ -215,7 +215,7 @@
 		"cost": 346,
 		"uniques": [
 			"[+25]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Electricity",
 		"attackSound": "shoot"
@@ -316,7 +316,7 @@
 			"[+20]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [12]% chance> <every [2] turns>",
 			"[+999]% Strength <when defending> <vs [Ranged] units> <with [12]% chance> <every [2] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Elastis] promotion"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
@@ -332,7 +332,7 @@
 			"Unit will heal every turn, even if it performs an action <every [4] turns>",
 			"[-2] HP when healing <every [4] turns>",
 			"[6] HP when healing <when below [50] HP> <every [4] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Gunpowder",
 		"attackSound": "shoot"
@@ -366,7 +366,7 @@
 			"[4] Movement <every [4] turns>",
 			"[4] additional attacks per turn <every [4] turns>",
 			"[-19]% Strength <when attacking> <every [4] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Dynamite",
 		"attackSound": "boom"
@@ -512,7 +512,7 @@
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+28]% Strength <when attacking> <every [3] turns>",
 			"[+23]% Strength bonus for [Military] units within [2] tiles <vs [Melee] units> <when attacking> <every [3] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Military Science",
 		"attackSound": "boom"
@@ -629,7 +629,7 @@
 		"uniques": [
 			"[+31]% Strength <when attacking> <every [3] turns>",
 			"[+62]% Strength <when attacking> <with [50]% chance> <every [3] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
@@ -666,7 +666,7 @@
 			"[-10]% Strength <when attacking> <every [4] turns>",
 			"[-14]% Strength for enemy [Military] units in adjacent [All] tiles <every [4] turns>",
 			"[-20]% Strength for enemy [Melee] units in adjacent [All] tiles <every [4] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "shoot"
@@ -682,7 +682,7 @@
 		"cost": 357,
 		"uniques": [
 			"All adjacent units heal [12] HP when healing <every [4] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "rapid"
@@ -715,7 +715,7 @@
 		"cost": 434,
 		"uniques": [
 			"[+73]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [5] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "cannon"
@@ -731,7 +731,7 @@
 		"cost": 390,
 		"uniques": [
 			"[+24]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "rapid"
@@ -783,7 +783,7 @@
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+6]% Strength <when attacking> <every [5] turns>",
 			"[+11]% Strength bonus for [Military] units within [2] tiles <when defending> <every [5] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Fertilizer",
 		"attackSound": "boom"
@@ -818,7 +818,7 @@
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+19]% Strength <when attacking> <every [4] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
@@ -870,7 +870,7 @@
 		"cost": 421
 		"uniques": [
 			"[+97]% Strength <when attacking> <every [5] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
@@ -889,7 +889,7 @@
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+3]% Strength <when attacking> <every [3] turns>",
 			"All adjacent units heal [11] HP when healing <every [3] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "cannon"
@@ -921,7 +921,7 @@
 		"cost": 438,
 		"uniques": [
 			"[+97]% Strength <when attacking> <every [4] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "shoot"
@@ -937,7 +937,7 @@
 			"Unit will heal every turn, even if it performs an action <every [4] turns>",
 			"[+4] HP when healing <every [4] turns>",
 			"All adjacent units heal [14] HP when healing <every [4] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "rapid"
@@ -955,7 +955,7 @@
 			"[6] Movement <every [5] turns>",
 			"[6] additional attacks per turn <every [5] turns>",
 			"[-61]% Strength <when attacking> <every [5] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Dynamite",
 		"attackSound": "missile"
@@ -973,7 +973,7 @@
 			"[+11]% Strength <when attacking> <every [3] turns>",
 			"[+35]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[+60]% Strength bonus for [Military] units within [2] tiles <when attacking> <when adjacent to a [Military] unit> <every [3] turns>",
-			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
