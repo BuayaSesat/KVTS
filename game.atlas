@@ -2585,19 +2585,6 @@ UnitIcons/Erika
   offset: 0, 0
   index: -1
 
-Images/TileSets/AbsoluteUnits/Units/Rio.png
-size: 37, 80
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-TileSets/AbsoluteUnits/Units/Rio
-  rotate: false
-  xy: 0, 0
-  size: 37, 80
-  orig: 37, 80
-  offset: 0, 0
-  index: -1
-
 Images/UnitPromotionIcons/Halo.png
 size: 100, 100
 format: RGBA8888
