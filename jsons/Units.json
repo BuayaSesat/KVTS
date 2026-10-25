@@ -920,7 +920,9 @@
 		"range": 2,
 		"cost": 438,
 		"uniques": [
-			"[+97]% Strength <when attacking> <every [4] turns>"],
+			"[+97]% Strength <when attacking> <every [4] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Spesial] promotion"]
 		"requiredTech": "Metallurgy",
 		"attackSound": "shoot"
 	},
@@ -934,7 +936,9 @@
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [4] turns>",
 			"[+4] HP when healing <every [4] turns>",
-			"All adjacent units heal [14] HP when healing <every [4] turns>"],
+			"All adjacent units heal [14] HP when healing <every [4] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Spesial] promotion"]
 		"requiredTech": "Biology",
 		"attackSound": "rapid"
 	},
@@ -950,7 +954,9 @@
 		"uniques": [
 			"[6] Movement <every [5] turns>",
 			"[6] additional attacks per turn <every [5] turns>",
-			"[-61]% Strength <when attacking> <every [5] turns>"],
+			"[-61]% Strength <when attacking> <every [5] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Spesial] promotion"]
 		"requiredTech": "Dynamite",
 		"attackSound": "missile"
 	},
@@ -966,7 +972,9 @@
 		"uniques": [
 			"[+11]% Strength <when attacking> <every [3] turns>",
 			"[+35]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
-			"[+60]% Strength bonus for [Military] units within [2] tiles <when attacking> <when adjacent to a [Military] unit> <every [3] turns>"],
+			"[+60]% Strength bonus for [Military] units within [2] tiles <when attacking> <when adjacent to a [Military] unit> <every [3] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
@@ -981,7 +989,9 @@
 		"cost": 405,
 		"uniques": [
 			"Can move after attacking <every [4] turns>",
-			"[+27]% Strength <when attacking> <every [4] turns>"],
+			"[+27]% Strength <when attacking> <every [4] turns>",
+			"[This Unit] gains the [Serangan Mistik] promotion",
+			"[This Unit] gains the [Pertahanan Spesial] promotion"]
 		"requiredTech": "Metallurgy",
 		"attackSound": "shoot"
 	},
