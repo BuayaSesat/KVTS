@@ -2585,7 +2585,7 @@ UnitIcons/Erika
   offset: 0, 0
   index: -1
 
-Images/UnitPromotionIcons/Big Sister.png
+Big Sister.png
 size: 118, 124
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
