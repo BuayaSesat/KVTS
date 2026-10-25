@@ -4,9 +4,9 @@
 		"movementType": "Land",
 		"uniques": [
 			"[This Unit] gains the [Halo] promotion",
-			"[This Unit] gains the [The only way] promotion",
-			"[This Unit] gains the [Starchaser] promotion",
-			"[This Unit] gains the [Avant-Guard] promotion",
+			"[This Unit] gains the [(N) The only way] promotion",
+			"[This Unit] gains the [(P) Starchaser] promotion",
+			"[This Unit] gains the [(S) Avant-Guard] promotion",
 			"[This Unit] gains the [Serangan Mistik] promotion",
 			"[This Unit] gains the [Pertahanan Elastis] promotion"]
 	}
