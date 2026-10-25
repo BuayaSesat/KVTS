@@ -2585,6 +2585,19 @@ UnitIcons/Erika
   offset: 0, 0
   index: -1
 
+Images/TileSets/Millennium/Units/Rio.png
+size: 109, 240
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/Millennium/Units/Rio
+  rotate: false
+  xy: 0, 0
+  size: 109, 240
+  orig: 109, 240
+  offset: 0, 0
+  index: -1
+
 Images/UnitPromotionIcons/Halo.png
 size: 100, 100
 format: RGBA8888
