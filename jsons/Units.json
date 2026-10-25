@@ -1316,7 +1316,9 @@
 		"cost": 346,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
-			"All adjacent units heal [12] HP when healing <every [5] turns>"],
+			"All adjacent units heal [12] HP when healing <every [5] turns>",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
+			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Fertilizer",
 		"attackSound": "rapid"
 	},
@@ -1332,7 +1334,9 @@
 		"uniques": [
 			"[5] Movement <every [3] turns>",
 			"[4] additional attacks per turn <every [3] turns>",
-			"[+59]% Strength <when attacking> <every [3] turns>"],
+			"[+59]% Strength <when attacking> <every [3] turns>",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Chemistry",
 		"attackSound": "shoot"
 	},
@@ -1348,7 +1352,9 @@
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [5] turns>",
 			"[+21]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [5] turns>",
-			"All adjacent units heal [10] HP when healing <every [5] turns>"],
+			"All adjacent units heal [10] HP when healing <every [5] turns>",
+			"[This Unit] gains the [Serangan Mistik] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "boom"
 	},
@@ -1365,7 +1371,9 @@
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+3]% Strength <when attacking> <every [4] turns>",
-			"[+22]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [4] turns>"],
+			"[+22]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [4] turns>",
+			"[This Unit] gains the [Serangan Sonik] promotion",
+			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Industrialization",
 		"attackSound": "shoot"
 	},
@@ -1380,7 +1388,9 @@
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
 			"[+15]% Strength <when attacking> <every [5] turns>",
-			"[+25]% Strength <when attacking> <every [5] turns>"],
+			"[+25]% Strength <when attacking> <every [5] turns>",
+			"[This Unit] gains the [Serangan Eksplosif] promotion",
+			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Chemistry",
 		"attackSound": "boom"
 	},
@@ -1396,7 +1406,9 @@
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[+30]% Strength <when attacking> <every [4] turns>",
-			"[+79]% Strength <when attacking> <every [4] turns>"],
+			"[+79]% Strength <when attacking> <every [4] turns>",
+			"[This Unit] gains the [Serangan Sonik] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -1410,7 +1422,9 @@
 		"range": 3,
 		"cost": 470,
 		"uniques": [
-			"All adjacent units heal [12] HP when healing <every [3] turns>"],
+			"All adjacent units heal [12] HP when healing <every [3] turns>",
+			"[This Unit] gains the [Serangan Sonik] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "shoot"
 	},
