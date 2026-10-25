@@ -18,39 +18,34 @@
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister"],
 		"uniques": [
-			"[+38]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
-			"[This Unit] gains [50] XP"]
+			"[+38]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
 	{
 		"name": "Big Sister II",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister I"],
 		"uniques": [
-			"[+43]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
-			"[This Unit] gains [50] XP"]
+			"[+43]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
 	{
 		"name": "Big Sister III",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister II"],
 		"uniques": [
-			"[+46]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
-			"[This Unit] gains [50] XP"]
+			"[+46]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
 	{
-		"name": "Big Sister MAX",
+		"name": "Big Sister IV",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister III"],
 		"uniques": [
-			"[+51]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
-			"[This Unit] gains [50] XP"]
+			"[+51]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
 	{
 		"name": "The only way",
 		"unitTypes": ["Rio"],
 		"uniques": [
-			"[+19]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
-			"[+10]% Strength <when attacking> <every [3] turns>"]
+			"[+19]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>"]
 	},
 	{
 		"name": "The only way I",
@@ -58,8 +53,7 @@
 		"prerequisites": ["The only way"],
 		"uniques": [
 			"[+20]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
-			"[+3]% Strength <when attacking> <every [3] turns>",
-			"[This Unit] gains [50] XP"]
+			"[+3]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
 		"name": "The only way II",
@@ -67,8 +61,7 @@
 		"prerequisites": ["The only way I"],
 		"uniques": [
 			"[+20]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
-			"[+2]% Strength <when attacking> <every [3] turns>",
-			"[This Unit] gains [50] XP"]
+			"[+2]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
 		"name": "The only way III",
@@ -76,8 +69,7 @@
 		"prerequisites": ["The only way II"],
 		"uniques": [
 			"[+22]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
-			"[+3]% Strength <when attacking> <every [3] turns>",
-			"[This Unit] gains [50] XP"]
+			"[+3]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
 		"name": "The only way MAX",
@@ -85,8 +77,7 @@
 		"prerequisites": ["The only way III"],
 		"uniques": [
 			"[+24]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
-			"[+3]% Strength <when attacking> <every [3] turns>",
-			"[This Unit] gains [50] XP"]
+			"[+3]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
 		"name": "Starchaser",
@@ -99,32 +90,28 @@
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Starchaser"],
 		"uniques": [
-			"[+2]% Strength <when attacking>",
-			"[This Unit] gains [50] XP"]
+			"[+2]% Strength <when attacking>"]
 	},
 	{
 		"name": "Starchaser II",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Starchaser I"],
 		"uniques": [
-			"[+1]% Strength <when attacking>",
-			"[This Unit] gains [50] XP"]
+			"[+1]% Strength <when attacking>"]
 	},
 	{
 		"name": "Starchaser III",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Starchaser II"],
 		"uniques": [
-			"[+2]% Strength <when attacking>",
-			"[This Unit] gains [50] XP"]
+			"[+2]% Strength <when attacking>"]
 	},
 	{
 		"name": "Starchaser MAX",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Starchaser III"],
 		"uniques": [
-			"[+2]% Strength <when attacking>",
-			"[This Unit] gains [50] XP"]
+			"[+2]% Strength <when attacking>"]
 	},
 	{
 		"name": "Avant-Guard",
@@ -137,31 +124,27 @@
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Avant-Guard"],
 		"uniques": [
-			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>",
-			"[This Unit] gains [50] XP"]
+			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
 		"name": "Avant-Guard II",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Avant-Guard I"],
 		"uniques": [
-			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>",
-			"[This Unit] gains [50] XP"]
+			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
 		"name": "Avant-Guard III",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Avant-Guard II"],
 		"uniques": [
-			"[+8]% Strength bonus for [Military] units within [2] tiles <when attacking>",
-			"[This Unit] gains [50] XP"]
+			"[+8]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
 		"name": "Avant-Guard MAX",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Avant-Guard III"],
 		"uniques": [
-			"[+9]% Strength bonus for [Military] units within [2] tiles <when attacking>",
-			"[This Unit] gains [50] XP"]
+			"[+9]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 ]
