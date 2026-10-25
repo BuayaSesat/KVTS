@@ -35,7 +35,7 @@
 			"[+46]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
 	{
-		"name": "Big Sister IV",
+		"name": "Big Sister MAX",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["Big Sister III"],
 		"uniques": [
