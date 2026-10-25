@@ -2603,7 +2603,28 @@ size: 50, 50
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+UnitPromotionIcons/Serangan Ledakan
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Serangan Tembus
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Serangan Mistik
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Serangan Sonik
   rotate: false
   xy: 0, 0
   size: 50, 50
@@ -2616,6 +2637,27 @@ size: 35, 42
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+UnitPromotionIcons/Pertahanan Ringan
+  rotate: false
+  xy: 0, 0
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Pertahanan Berat
+  rotate: false
+  xy: 0, 0
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Pertahanan Spesial
+  rotate: false
+  xy: 0, 0
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Pertahanan Elastis
   rotate: false
   xy: 0, 0
@@ -2629,14 +2671,14 @@ size: 118, 124
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/(EX) Big Sister
+UnitPromotionIcons/(EX) Big Sister
   rotate: false
   xy: 0, 0
   size: 118, 124
   orig: 118, 124
   offset: 0, 0
   index: -1
-UnitIcons/(EX) Big Sister MAX
+UnitPromotionIcons/(EX) Big Sister MAX
   rotate: false
   xy: 0, 0
   size: 118, 124
