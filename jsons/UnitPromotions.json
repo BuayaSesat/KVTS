@@ -1,19 +1,52 @@
 [
 	{
-		"name": "Halo"
+		"name": "Halo",
 		"uniques": [
 			"[50] XP gained from combat"]
 	},
-	{//Rio
-		"name": "(EX) Big Sister",
-		"unitTypes": ["Rio"],
+	{
+		"name": "Serangan Ledakan",
 		"uniques": [
-			"[1] Movement <every [2] turns>",
-			"[1] additional attacks per turn <every [2] turns>",
-			"[-10]% Strength <when attacking> <every [2] turns>",
-			"[+35]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
+			"[+50]% Strength <when attacking> <vs [Pertahanan Ringan]>"]
 	},
 	{
+		"name": "Serangan Tembus",
+		"uniques": [
+			"[+50]% Strength <when attacking> <vs [Pertahanan Berat]>"]
+	},
+	{
+		"name": "Serangan Mistik",
+		"uniques": [
+			"[+50]% Strength <when attacking> <vs [Pertahanan Spesial]>"]
+	},
+	{
+		"name": "Serangan Sonik",
+		"uniques": [
+			"[+25]% Strength <when attacking> <vs [Pertahanan Spesial]>",
+			"[+50]% Strength <when attacking> <vs [Pertahanan Elastis]>"]
+	},
+	{
+		"name": "Pertahanan Ringan",
+		"uniques": [
+			"[+25]% Strength <when defending> <vs [Serangan Tembus]>"]
+	},
+	{
+		"name": "Pertahanan Berat",
+		"uniques": [
+			"[+25]% Strength <when defending> <vs [Serangan Mistik]>",
+			"[+25]% Strength <when defending> <vs [Serangan Sonik]>"]
+	},
+	{
+		"name": "Pertahanan Spesial",
+		"uniques": [
+			"[+25]% Strength <when defending> <vs [Serangan Ledakan]>"]
+	},
+	{
+		"name": "Pertahanan Elastis",
+		"uniques": [
+			"[+25]% Strength <when defending> <vs [Serangan Ledakan]>"]
+	},
+	{//Rio
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["(EX) Big Sister"],
@@ -42,108 +75,108 @@
 			"[+51]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
 	{
-		"name": "The only way",
+		"name": "(N) The only way",
 		"unitTypes": ["Rio"],
 		"uniques": [
 			"[+19]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>"]
 	},
 	{
-		"name": "The only way I",
+		"name": "(N) The only way I",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["The only way"],
+		"prerequisites": ["(N) The only way"],
 		"uniques": [
 			"[+20]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[+3]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
-		"name": "The only way II",
+		"name": "(N) The only way II",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["The only way I"],
+		"prerequisites": ["(N) The only way I"],
 		"uniques": [
 			"[+20]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[+2]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
-		"name": "The only way III",
+		"name": "(N) The only way III",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["The only way II"],
+		"prerequisites": ["(N) The only way II"],
 		"uniques": [
 			"[+22]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[+3]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
-		"name": "The only way MAX",
+		"name": "(N) The only way MAX",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["The only way III"],
+		"prerequisites": ["(N) The only way III"],
 		"uniques": [
 			"[+24]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[+3]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
-		"name": "Starchaser",
+		"name": "(P) Starchaser",
 		"unitTypes": ["Rio"],
 		"uniques": [
 			"[+7]% Strength <when attacking>"]
 	},
 	{
-		"name": "Starchaser I",
+		"name": "(P) Starchaser I",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Starchaser"],
+		"prerequisites": ["(P) Starchaser"],
 		"uniques": [
 			"[+2]% Strength <when attacking>"]
 	},
 	{
-		"name": "Starchaser II",
+		"name": "(P) Starchaser II",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Starchaser I"],
+		"prerequisites": ["(P) Starchaser I"],
 		"uniques": [
 			"[+1]% Strength <when attacking>"]
 	},
 	{
-		"name": "Starchaser III",
+		"name": "(P) Starchaser III",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Starchaser II"],
+		"prerequisites": ["(P) Starchaser II"],
 		"uniques": [
 			"[+2]% Strength <when attacking>"]
 	},
 	{
-		"name": "Starchaser MAX",
+		"name": "(P) Starchaser MAX",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Starchaser III"],
+		"prerequisites": ["(P) Starchaser III"],
 		"uniques": [
 			"[+2]% Strength <when attacking>"]
 	},
 	{
-		"name": "Avant-Guard",
+		"name": "(S) Avant-Guard",
 		"unitTypes": ["Rio"],
 		"uniques": [
 			"[+5]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
-		"name": "Avant-Guard I",
+		"name": "(S) Avant-Guard I",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Avant-Guard"],
+		"prerequisites": ["(S) Avant-Guard"],
 		"uniques": [
 			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
-		"name": "Avant-Guard II",
+		"name": "(S) Avant-Guard II",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Avant-Guard I"],
+		"prerequisites": ["(S) Avant-Guard I"],
 		"uniques": [
 			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
-		"name": "Avant-Guard III",
+		"name": "(S) Avant-Guard III",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Avant-Guard II"],
+		"prerequisites": ["(S) Avant-Guard II"],
 		"uniques": [
 			"[+8]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
-		"name": "Avant-Guard MAX",
+		"name": "(S) Avant-Guard MAX",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Avant-Guard III"],
+		"prerequisites": ["(S) Avant-Guard III"],
 		"uniques": [
 			"[+9]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
