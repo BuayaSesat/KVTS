@@ -5,7 +5,7 @@
 			"[50] XP gained from combat"]
 	},
 	{
-		"name": "Serangan Ledakan",
+		"name": "Serangan Eksplosif",
 		"uniques": [
 			"[+50]% Strength <when attacking> <vs [Pertahanan Ringan]>"]
 	},
@@ -39,12 +39,12 @@
 	{
 		"name": "Pertahanan Spesial",
 		"uniques": [
-			"[+25]% Strength <when defending> <vs [Serangan Ledakan]>"]
+			"[+25]% Strength <when defending> <vs [Serangan Eksplosif]>"]
 	},
 	{
 		"name": "Pertahanan Elastis",
 		"uniques": [
-			"[+25]% Strength <when defending> <vs [Serangan Ledakan]>"]
+			"[+25]% Strength <when defending> <vs [Serangan Eksplosif]>"]
 	},
 	{
 		"name": "(EX) Big Sister I",
