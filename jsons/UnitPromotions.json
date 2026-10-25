@@ -46,10 +46,9 @@
 		"uniques": [
 			"[+25]% Strength <when defending> <vs [Serangan Ledakan]>"]
 	},
-	{//Rio
+	{
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["(EX) Big Sister"],
 		"uniques": [
 			"[+38]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"]
 	},
