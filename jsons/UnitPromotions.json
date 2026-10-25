@@ -1,6 +1,8 @@
 [
 	{
 		"name": "Halo"
+		"uniques": [
+			"[50] XP gained from combat"]
 	},
 	{//Rio
 		"name": "Big Sister",
