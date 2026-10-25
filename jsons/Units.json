@@ -25,7 +25,9 @@
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
-			"[+24]% Strength <when attacking> <every [4] turns>"],
+			"[+24]% Strength <when attacking> <every [4] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Berat] promotion"]
 		"requiredTech": "Gunpowder",
 		"attackSound": "shoot"
 	},
@@ -39,7 +41,9 @@
 		"range": 2,
 		"cost": 471,
 		"uniques": [
-			"[+30]% Strength <when attacking> <every [2] turns>"],
+			"[+30]% Strength <when attacking> <every [2] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -54,7 +58,9 @@
 		"cost": 463,
 		"uniques": [
 			"Can move after attacking <every [2] turns>",
-			"[+27]% Strength <when attacking> <every [2] turns>"],
+			"[+27]% Strength <when attacking> <every [2] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -70,7 +76,9 @@
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
-			"[+23]% Strength <when attacking> <every [5] turns>"],
+			"[+23]% Strength <when attacking> <every [5] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
 	},
@@ -102,7 +110,9 @@
 		"cost": 493,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
-			"[3] HP when healing <every [3] turns>"],
+			"[3] HP when healing <every [3] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Berat] promotion"]
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
 	},
@@ -116,7 +126,9 @@
 		"range": 2,
 		"cost": 351,
 		"uniques": [
-			"[+21]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>"],
+			"[+21]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
+			"[This Unit] gains the [Serangan Mistik] promotion",
+			"[This Unit] gains the [Pertahanan Spesial] promotion"]
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
@@ -134,7 +146,9 @@
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+3]% Strength <when attacking> <with [33]% chance> <every [4] turns>",
 			"[+2]% Strength <when attacking> <with [33]% chance> <every [4] turns>",
-			"[+1]% Strength <when attacking> <with [33]% chance> <every [4] turns>"],
+			"[+1]% Strength <when attacking> <with [33]% chance> <every [4] turns>",
+			"[This Unit] gains the [Serangan Mistik] promotion",
+			"[This Unit] gains the [Pertahanan Berat] promotion"]
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
 	},
@@ -148,7 +162,9 @@
 		"range": 3,
 		"cost": 501,
 		"uniques": [
-			"[+36]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>"],
+			"[+36]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
@@ -163,7 +179,9 @@
 		"cost": 459,
 		"uniques": [
 			"[+68]% Strength <when attacking> <every [5] turns>",
-			"[+63]% Strength <when attacking> <every [5] turns>"],
+			"[+63]% Strength <when attacking> <every [5] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Electricity",
 		"attackSound": "rapid"
 	},
@@ -180,7 +198,9 @@
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
 			"[+7]% Strength <when attacking> <every [4] turns>",
-			"[+27]% Strength bonus for [Military] units within [2] tiles <when defending> <every [4] turns>"],
+			"[+27]% Strength bonus for [Military] units within [2] tiles <when defending> <every [4] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Electricity",
 		"attackSound": "boom"
 	},
@@ -194,7 +214,9 @@
 		"range": 3,
 		"cost": 346,
 		"uniques": [
-			"[+25]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>"],
+			"[+25]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Electricity",
 		"attackSound": "shoot"
 	},
@@ -206,10 +228,12 @@
 		"strength": 55,
 		"rangedStrength": 64,
 		"range": 3,
-		"cost": 458,
+		"cost": 462,
 		"uniques": [
 			"[+16]% Strength <when attacking> <every [3] turns>",
-			"[+36]% Strength <when attacking> <vs [Armored] units> <every [3] turns>"],
+			"[+57]% Strength <when defending> <vs [Pertahanan Berat] units> <every [3] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Berat] promotion"]
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -221,7 +245,9 @@
 		"strength": 140,
 		"cost": 469,
 		"uniques": [
-			"[+38]% Strength <when attacking> <every [2] turns>"],
+			"[+38]% Strength <when attacking> <every [2] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
 	},
@@ -237,7 +263,9 @@
 		"uniques": [
 			"[+23]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [65]% chance> <every [2] turns>",
-			"[+999]% Strength <when defending> <vs [Ranged] units> <with [65]% chance> <every [2] turns>"],
+			"[+999]% Strength <when defending> <vs [Ranged] units> <with [65]% chance> <every [2] turns>",
+			"[This Unit] gains the [Serangan Mistik] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -252,7 +280,9 @@
 		"cost": 468,
 		"uniques": [
 			"[+59]% Strength <when attacking> <every [4] turns>",
-			"[+48]% Strength <when attacking> <vs [Armored] units> <every [4] turns>"],
+			"[+48]% Strength <when attacking> <vs [Armored] units> <every [4] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Berat] promotion"]
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
@@ -267,7 +297,9 @@
 		"cost": 386,
 		"uniques": [
 			"[+45]% Strength <when attacking> <every [2] turns>",
-			"[+22]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [2] turns>"],
+			"[+22]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [2] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Gunpowder",
 		"attackSound": "shoot"
 	},
@@ -283,7 +315,9 @@
 		"uniques": [
 			"[+20]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [12]% chance> <every [2] turns>",
-			"[+999]% Strength <when defending> <vs [Ranged] units> <with [12]% chance> <every [2] turns>"],
+			"[+999]% Strength <when defending> <vs [Ranged] units> <with [12]% chance> <every [2] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Elastis] promotion"]
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -297,7 +331,9 @@
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [4] turns>",
 			"[-2] HP when healing <every [4] turns>",
-			"[6] HP when healing <when below [50] HP> <every [4] turns>"],
+			"[6] HP when healing <when below [50] HP> <every [4] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Gunpowder",
 		"attackSound": "shoot"
 	},
@@ -311,7 +347,9 @@
 		"range": 3,
 		"cost": 432,
 		"uniques": [
-			"[+24]% Strength <every [4] turns>"],
+			"[+24]% Strength <every [4] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Berat] promotion"]
 		"requiredTech": "Industrialization",
 		"attackSound": "shipguns"
 	},
@@ -327,7 +365,9 @@
 		"uniques": [
 			"[4] Movement <every [4] turns>",
 			"[4] additional attacks per turn <every [4] turns>",
-			"[-19]% Strength <when attacking> <every [4] turns>"],
+			"[-19]% Strength <when attacking> <every [4] turns>",
+			"[This Unit] gains the [Serangan Ledakan] promotion",
+			"[This Unit] gains the [Pertahanan Berat] promotion"]
 		"requiredTech": "Dynamite",
 		"attackSound": "boom"
 	},
@@ -342,7 +382,9 @@
 		"cost": 353,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
-			"All adjacent units heal [16] HP when healing <every [4] turns>"],
+			"All adjacent units heal [16] HP when healing <every [4] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
 	},
@@ -359,7 +401,9 @@
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
 			"[+14]% Strength <when attacking> <every [3] turns>",
-			"[+14]% Strength <when attacking> <when adjacent to a [Midori] unit> <every [3] turns>"],
+			"[+14]% Strength <when attacking> <when adjacent to a [Midori] unit> <every [3] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
 	},
@@ -376,7 +420,9 @@
 			"[4] Movement <every [3] turns>",
 			"[4] additional attacks per turn <every [3] turns>",
 			"[+10]% Strength <when attacking> <every [3] turns>",
-			"[+8]% Strength <when attacking> <when adjacent to a [Momoi] unit> <every [3] turns>"],
+			"[+8]% Strength <when attacking> <when adjacent to a [Momoi] unit> <every [3] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"]
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
@@ -392,7 +438,9 @@
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
-			"[+11]% Strength <when attacking> <every [4] turns>"],
+			"[+11]% Strength <when attacking> <every [4] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Spesial] promotion"]
 		"requiredTech": "Dynamite",
 		"attackSound": "boom"
 	},
@@ -410,7 +458,9 @@
 			"[1] additional attacks per turn <every [6] turns>",
 			"[+11]% Strength <when attacking> <every [6] turns>",
 			"[+16]% Strength <when attacking> <when above [2] movement> <every [6] turns>",
-			"[+16]% Strength <when attacking> <when above [3] movement> <every [6] turns>"],
+			"[+16]% Strength <when attacking> <when above [3] movement> <every [6] turns>",
+			"[This Unit] gains the [Serangan Mistik] promotion",
+			"[This Unit] gains the [Pertahanan Spesial] promotion"]
 		"requiredTech": "Electricity",
 		"attackSound": "nuke"
 	},
@@ -424,7 +474,9 @@
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
-			"[+54]% Strength <when attacking> <every [3] turns>"],
+			"[+54]% Strength <when attacking> <every [3] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Spesial] promotion"]
 		"requiredTech": "Gunpowder",
 		"attackSound": "shoot"
 	},
