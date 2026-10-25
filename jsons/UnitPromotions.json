@@ -1,7 +1,4 @@
 [
-	{
-		"name": "Halo"
-	},
 	{//Rio
 		"name": "Big Sister",
 		"unitTypes": ["Rio"],
@@ -125,39 +122,39 @@
 			"[This Unit] gains [50] XP"]
 	},
 	{
-		"name": "Avant Guard",
+		"name": "Avant-Guard",
 		"unitTypes": ["Rio"],
 		"uniques": [
 			"[+5]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
-		"name": "Avant Guard I",
+		"name": "Avant-Guard I",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Avant Guard"],
+		"prerequisites": ["Avant-Guard"],
 		"uniques": [
 			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>",
 			"[This Unit] gains [50] XP"]
 	},
 	{
-		"name": "Avant Guard II",
+		"name": "Avant-Guard II",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Avant Guard I"],
+		"prerequisites": ["Avant-Guard I"],
 		"uniques": [
 			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>",
 			"[This Unit] gains [50] XP"]
 	},
 	{
-		"name": "Avant Guard III",
+		"name": "Avant-Guard III",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Avant Guard II"],
+		"prerequisites": ["Avant-Guard II"],
 		"uniques": [
 			"[+8]% Strength bonus for [Military] units within [2] tiles <when attacking>",
 			"[This Unit] gains [50] XP"]
 	},
 	{
-		"name": "Avant Guard MAX",
+		"name": "Avant-Guard MAX",
 		"unitTypes": ["Rio"],
-		"prerequisites": ["Avant Guard III"],
+		"prerequisites": ["Avant-Guard III"],
 		"uniques": [
 			"[+9]% Strength bonus for [Military] units within [2] tiles <when attacking>",
 			"[This Unit] gains [50] XP"]
