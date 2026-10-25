@@ -2585,19 +2585,32 @@ UnitIcons/Erika
   offset: 0, 0
   index: -1
 
-Big Sister.png
+Images/UnitPromotionIcons/Halo.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPromotionIcons/Halo
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+Images/UnitIcons/Rio.png
 size: 118, 124
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitPromotionIcons/(EX) Big Sister
+UnitIcons/(EX) Big Sister
   rotate: false
   xy: 0, 0
   size: 118, 124
   orig: 118, 124
   offset: 0, 0
   index: -1
-UnitPromotionIcons/(EX) Big Sister MAX
+UnitIcons/(EX) Big Sister MAX
   rotate: false
   xy: 0, 0
   size: 118, 124
