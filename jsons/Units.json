@@ -85,7 +85,9 @@
 			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
 			"[-10]% Strength <when attacking> <every [2] turns>",
-			"[+35]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>"],
+			"[+35]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
+			"[This Unit] gains the [Serangan Mistik] promotion",
+			"[This Unit] gains the [Pertahanan Elastis] promotion"]
 		"requiredTech": "Scientific Theory",
 		"attackSound": "shoot"
 	},
