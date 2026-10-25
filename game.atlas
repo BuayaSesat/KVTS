@@ -2598,6 +2598,32 @@ UnitPromotionIcons/Halo
   offset: 0, 0
   index: -1
 
+Images/UnitPromotionIcons/Serangan.png
+size: 50, 50
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPromotionIcons/Serangan Mistik
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+Images/UnitPromotionIcons/Pertahanan.png
+size: 35, 42
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPromotionIcons/Pertahanan Elastis
+  rotate: false
+  xy: 0, 0
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+
 Images/UnitIcons/Rio.png
 size: 118, 124
 format: RGBA8888
