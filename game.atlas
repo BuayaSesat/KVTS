@@ -2597,3 +2597,10 @@ UnitPromotionIcons/Big Sister
   orig: 118, 124
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Big Sister MAX
+  rotate: false
+  xy: 0, 0
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
