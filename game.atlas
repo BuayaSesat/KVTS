@@ -2586,15 +2586,15 @@ UnitIcons/Erika
   index: -1
 
 Images/TileSets/AbsoluteUnits/Units/Rio.png
-size: 109, 240
+size: 37, 80
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/Rio
   rotate: false
   xy: 0, 0
-  size: 109, 240
-  orig: 109, 240
+  size: 37, 80
+  orig: 37, 80
   offset: 0, 0
   index: -1
 
