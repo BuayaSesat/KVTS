@@ -47,6 +47,12 @@
 			"[+25]% Strength <when defending> <vs [Serangan Eksplosif]>"]
 	},
 	{
+		"name": "(EX) Care Package I",
+		"unitTypes": ["Ayane"],
+		"uniques": [
+			"All adjacent units heal [2] HP when healing"]
+	},
+	{
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
 		"uniques": [
