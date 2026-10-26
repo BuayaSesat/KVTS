@@ -152,7 +152,7 @@
 			{
 				"name": "Persaudaraan Wanita",
 				"uniques": [
-					"[+1 Faith] per [1] population [in all cities]",
+					"[+3 Faith] from [Holy site] tiles [in all cities]",
 					"[+33]% Natural religion spread [in all cities]"],
 				"requires": ["Pesta Teh"],
 				"row": 2,
