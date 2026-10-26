@@ -153,22 +153,6 @@
 		"attackSound": "rapid"
 	},
 	{
-		"name": "Himari",
-		"unitType": "Gunpowder",
-		"uniqueTo": "Millennium",
-		"movement": 2,
-		"strength": 72,
-		"rangedStrength": 57,
-		"range": 3,
-		"cost": 501,
-		"uniques": [
-			"[+36]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>",
-			"[This Unit] gains the [Serangan Tembus] promotion",
-			"[This Unit] gains the [Pertahanan Ringan] promotion"],
-		"requiredTech": "Scientific Theory",
-		"attackSound": "shoot"
-	},
-	{
 		"name": "Maki",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Millennium",
@@ -320,6 +304,22 @@
 			"[This Unit] gains the [Pertahanan Elastis] promotion"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "rapid"
+	},
+	{
+		"name": "Himari",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Millennium",
+		"movement": 2,
+		"strength": 72,
+		"rangedStrength": 57,
+		"range": 3,
+		"cost": 501,
+		"uniques": [
+			"[+36]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>",
+			"[This Unit] gains the [Serangan Tembus] promotion",
+			"[This Unit] gains the [Pertahanan Ringan] promotion"],
+		"requiredTech": "Scientific Theory",
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Eimi",
