@@ -61,12 +61,64 @@
         "faithCostModifier": 0.33,
         "improvementBuildLengthModifier": 0.33,
         "dealDuration": 10,
-        "goldGiftModifier": 1.7,
+        "goldGiftModifier": 1.67,
         "cityStateTributeScalingInterval": 2,
         "barbarianModifier": 0.33,
         "goldenAgeLengthModifier": 0.33,
         "religiousPressureAdjacentCity": 10,
         "peaceDealDuration": 3,
+        "startYear": -4000,
+        "turns": [
+            {
+                "yearsPerTurn": 66.8,
+                "untilTurn": 75
+            },
+            {
+                "yearsPerTurn": 41.75,
+                "untilTurn": 135
+            },
+            {
+                "yearsPerTurn": 33.4,
+                "untilTurn": 160
+            },
+            {
+                "yearsPerTurn": 16.7,
+                "untilTurn": 210
+            },
+            {
+                "yearsPerTurn": 8.35,
+                "untilTurn": 270
+            },
+            {
+                "yearsPerTurn": 3.34,
+                "untilTurn": 320
+            },
+            {
+                "yearsPerTurn": 1.67,
+                "untilTurn": 440
+            },
+            {
+                "yearsPerTurn": 0.835,
+                "untilTurn": 9999
+            }
+        ]
+    },
+    {
+        "name": "Kecepatan Cahaya",
+        "modifier": 0.1,
+        "productionCostModifier": 0.1,
+        "goldCostModifier": 0.1,
+        "scienceCostModifier": 0.1,
+        "cultureCostModifier": 0.1,
+        "faithCostModifier": 0.1,
+        "improvementBuildLengthModifier": 0.1,
+        "dealDuration": 3,
+        "goldGiftModifier": 1.9,
+        "cityStateTributeScalingInterval": 0.65,
+        "barbarianModifier": 0.1,
+        "goldenAgeLengthModifier": 0.1,
+        "religiousPressureAdjacentCity": 11.4,
+        "peaceDealDuration": 1,
         "startYear": -4000,
         "turns": [
             {
