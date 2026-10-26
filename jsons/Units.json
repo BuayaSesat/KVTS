@@ -212,10 +212,10 @@
 		"strength": 55,
 		"rangedStrength": 64,
 		"range": 3,
-		"cost": 462,
+		"cost": 481,
 		"uniques": [
 			"[+16]% Strength <when attacking> <every [3] turns>",
-			"[+57]% Strength <when defending> <vs [Pertahanan Berat] units> <every [3] turns>",
+			"[+57]% Strength bonus for [Military] units within [2] tiles <when defending> <vs [Pertahanan Berat]> <every [3] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Metallurgy",
