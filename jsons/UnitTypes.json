@@ -476,4 +476,49 @@
 			"[This Unit] gains the [] promotion",
 			"[This Unit] gains the [] promotion"]
 	},
+	{
+		"name": "Saori",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Atsuko",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Misaki",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Hiyori",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Subaru",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
 ]
