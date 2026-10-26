@@ -205,6 +205,21 @@
 			"[+7]% Strength <when attacking> <every [4] turns>",
 			"[+14]% Strength bonus for [Military] units within [2] tiles <when defending> <every [4] turns>"]
 	},
+	{
+		"name": "(N) Emergency Field Aid",
+		"unitTypes": ["Hoshino"],
+		"uniques": [
+			"Unit will heal every turn, even if it performs an action <when below [30] HP> <once>"]
+	},
+	{
+		"name": "(N) Emergency Field Aid I",
+		"unitTypes": ["Hoshino"],
+		"prerequisites": ["(N) Emergency Field Aid"],
+		"uniques": [
+			"[9] Movement <when below [30] HP> <once>",
+			"Unit will heal every turn, even if it performs an action <when below [30] HP> <once>",
+			"[-999] HP when healing <when below [30] HP> <once>"]
+	},
 	{//RIO
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
