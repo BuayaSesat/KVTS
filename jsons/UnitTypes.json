@@ -3,7 +3,46 @@
 		"name": "Ayane",
 		"movementType": "Land",
 		"uniques": [
-			"[This Unit] gains the [Halo] promotion"]
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Hoshino",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Shiroko",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Serika",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Nonomi",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
 	},
 	{
 		"name": "Rio",
@@ -13,5 +52,32 @@
 			"[This Unit] gains the [(N) The only way] promotion",
 			"[This Unit] gains the [(P) Starchaser] promotion",
 			"[This Unit] gains the [(S) Avant-Guard] promotion"]
-	}
+	},
+	{
+		"name": "Yuuka",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Noa",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Koyuki",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
 ]
