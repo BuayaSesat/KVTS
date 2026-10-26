@@ -9,6 +9,7 @@
 		"range": 3,
 		"cost": 337,
 		"uniques": [
+			"[8] Movement <every [4] turns>",
 			"All adjacent units heal [13] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
