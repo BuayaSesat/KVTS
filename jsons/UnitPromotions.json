@@ -187,7 +187,23 @@
 		"prerequisites": ["(EX) Tactical Suppression I"],
 		"uniques": [
 			"[+7]% Strength <when attacking> <every [4] turns>",
-			"
+			"[+10]% Strength bonus for [Military] units within [2] tiles <when defending> <every [4] turns>"]
+	},
+	{
+		"name": "(EX) Tactical Suppression III",
+		"unitTypes": ["Hoshino"],
+		"prerequisites": ["(EX) Tactical Suppression II"],
+		"uniques": [
+			"[+7]% Strength <when attacking> <every [4] turns>",
+			"[+10]% Strength bonus for [Military] units within [2] tiles <when defending> <every [4] turns>"]
+	},
+	{
+		"name": "(EX) Tactical Suppression MAX",
+		"unitTypes": ["Hoshino"],
+		"prerequisites": ["(EX) Tactical Suppression III"],
+		"uniques": [
+			"[+7]% Strength <when attacking> <every [4] turns>",
+			"[+14]% Strength bonus for [Military] units within [2] tiles <when defending> <every [4] turns>"]
 	},
 	{//RIO
 		"name": "(EX) Big Sister I",
