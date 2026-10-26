@@ -175,6 +175,20 @@
 		"uniques": [
 			"[+17]% Strength bonus for [Military] units within [2] tiles <when defending>"]
 	},
+	{//HOSHINO
+		"name": "(EX) Tactical Suppression I",
+		"unitTypes": ["Hoshino"],
+		"uniques": [
+			"[+7]% Strength <when attacking> <every [4] turns>"]
+	},
+	{
+		"name": "(EX) Tactical Suppression II",
+		"unitTypes": ["Hoshino"],
+		"prerequisites": ["(EX) Tactical Suppression I"],
+		"uniques": [
+			"[+7]% Strength <when attacking> <every [4] turns>",
+			"
+	},
 	{//RIO
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
