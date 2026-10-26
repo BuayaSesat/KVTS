@@ -55,18 +55,21 @@
 	{
 		"name": "(EX) Care Package II",
 		"unitTypes": ["Ayane"],
+		"prerequisites": ["(EX) Care Package I"],
 		"uniques": [
 			"All adjacent units heal [4] HP when healing <every [4] turns>"]
 	},
 	{
 		"name": "(EX) Care Package III",
 		"unitTypes": ["Ayane"],
+		"prerequisites": ["(EX) Care Package II"],
 		"uniques": [
 			"All adjacent units heal [2] HP when healing <every [4] turns>"]
 	},
 	{
 		"name": "(EX) Care Package MAX",
 		"unitTypes": ["Ayane"],
+		"prerequisites": ["(EX) Care Package III"],
 		"uniques": [
 			"All adjacent units heal [4] HP when healing <every [4] turns>"]
 	},
