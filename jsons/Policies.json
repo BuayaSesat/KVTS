@@ -50,8 +50,8 @@
 			{
 				"name": "Idola Pakaian Renang",
 				"uniques": [
-					"[+1 Happiness] per every [100000] [Gold]",
-					"[+1 Culture] per every [100000] [Gold]"],
+					"[+1 Happiness] per every [25000] [Gold]",
+					"[+1 Culture] per every [25000] [Gold]"],
 				"requires": ["Pekerjaan Paruh Waktu"],
 				"row": 2,
 				"column": 5
