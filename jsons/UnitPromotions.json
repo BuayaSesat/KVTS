@@ -216,7 +216,7 @@
 		"unitTypes": ["Hoshino"],
 		"prerequisites": ["(N) Emergency Field Aid"],
 		"uniques": [
-			"[9] Movement <when below [30] HP> <once>",
+			"[9] Movement <when below [30] HP> <[1] times>",
 			"Unit will heal every turn, even if it performs an action <when below [30] HP> <once>",
 			"[-999] HP when healing <when below [30] HP> <once>"]
 	},
