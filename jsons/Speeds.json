@@ -46,8 +46,8 @@
                 "untilTurn": 440
             },
             {
-                "yearsPerTurn": 0.9,
-                "untilTurn": 999
+                "yearsPerTurn": 0.75,
+                "untilTurn": 9999
             }
         ]
     },
@@ -67,6 +67,40 @@
         "goldenAgeLengthModifier": 0.33,
         "religiousPressureAdjacentCity": 10,
         "peaceDealDuration": 3,
-        "startYear": -4000
+        "startYear": -4000,
+        "turns": [
+            {
+                "yearsPerTurn": 66.8,
+                "untilTurn": 75
+            },
+            {
+                "yearsPerTurn": 41.75,
+                "untilTurn": 135
+            },
+            {
+                "yearsPerTurn": 33.4,
+                "untilTurn": 160
+            },
+            {
+                "yearsPerTurn": 16.7,
+                "untilTurn": 210
+            },
+            {
+                "yearsPerTurn": 8.35,
+                "untilTurn": 270
+            },
+            {
+                "yearsPerTurn": 3.34,
+                "untilTurn": 320
+            },
+            {
+                "yearsPerTurn": 1.67,
+                "untilTurn": 440
+            },
+            {
+                "yearsPerTurn": 0.835,
+                "untilTurn": 9999
+            }
+        ]
     }
 ]
