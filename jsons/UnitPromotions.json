@@ -50,7 +50,25 @@
 		"name": "(EX) Care Package I",
 		"unitTypes": ["Ayane"],
 		"uniques": [
-			"All adjacent units heal [2] HP when healing"]
+			"All adjacent units heal [2] HP when healing <every [4] turns>"]
+	},
+	{
+		"name": "(EX) Care Package II",
+		"unitTypes": ["Ayane"],
+		"uniques": [
+			"All adjacent units heal [4] HP when healing <every [4] turns>"]
+	},
+	{
+		"name": "(EX) Care Package III",
+		"unitTypes": ["Ayane"],
+		"uniques": [
+			"All adjacent units heal [2] HP when healing <every [4] turns>"]
+	},
+	{
+		"name": "(EX) Care Package MAX",
+		"unitTypes": ["Ayane"],
+		"uniques": [
+			"All adjacent units heal [4] HP when healing <every [4] turns>"]
 	},
 	{
 		"name": "(EX) Big Sister I",
