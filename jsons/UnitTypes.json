@@ -251,4 +251,229 @@
 			"[This Unit] gains the [] promotion",
 			"[This Unit] gains the [] promotion"]
 	},
+	{
+		"name": "Seia",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Nagisa",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Mika",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Sakurako",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Mari",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Hinata",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Tsurugi",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Hasumi",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Mashiro",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Ichika",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Mine",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Hanae",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Serina",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Ui",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Shimiko",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Yoshimi",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Natsu",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Airi",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Kazusa",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Suzumi",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Reisa",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Hifumi",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Azusa",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Koharu",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
+	{
+		"name": "Hanako",
+		"movementType": "Land",
+		"uniques": [
+			"[This Unit] gains the [Halo] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion",
+			"[This Unit] gains the [] promotion"]
+	},
 ]
