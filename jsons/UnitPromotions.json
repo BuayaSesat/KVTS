@@ -107,6 +107,40 @@
 		"uniques": [
 			"[+15]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
 	},
+	{
+		"name": "(P) Passion for Learning",
+		"unitTypes": ["Ayane"],
+		"uniques": [
+			"All adjacent units heal [2] HP when healing"]
+	},
+	{
+		"name": "(P) Passion for Learning I",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(P) Passion for Learning"],
+		"uniques": [
+			"All adjacent units heal [2] HP when healing"]
+	},
+	{
+		"name": "(P) Passion for Learning II",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(P) Passion for Learning I"],
+		"uniques": [
+			"All adjacent units heal [2] HP when healing"]
+	},
+	{
+		"name": "(P) Passion for Learning III",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(P) Passion for Learning II"],
+		"uniques": [
+			"All adjacent units heal [2] HP when healing"]
+	},
+	{
+		"name": "(P) Passion for Learning MAX",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(P) Passion for Learning III"],
+		"uniques": [
+			"All adjacent units heal [3] HP when healing"]
+	},
 	{//RIO
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
