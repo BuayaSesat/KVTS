@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Sangat Cepat",
+        "modifier": 0.50,
+        "productionCostModifier": 0.50,
+        "goldCostModifier": 0.50,
+        "scienceCostModifier": 0.50,
+        "cultureCostModifier": 0.50,
+        "faithCostModifier": 0.50,
+        "improvementBuildLengthModifier": 0.50,
+        "dealDuration": 15,
+        "goldGiftModifier": 1.5,
+        "cityStateTributeScalingInterval": 3,
+        "barbarianModifier": 0.50,
+        "goldenAgeLengthModifier": 0.50,
+        "religiousPressureAdjacentCity": 9,
+        "peaceDealDuration": 5,
+        "startYear": -4000
+    },
+    {
+        "name": "Bakushin",
+        "modifier": 0.33,
+        "productionCostModifier": 0.33,
+        "goldCostModifier": 0.33,
+        "scienceCostModifier": 0.33,
+        "cultureCostModifier": 0.33,
+        "faithCostModifier": 0.33,
+        "improvementBuildLengthModifier": 0.33,
+        "dealDuration": 10,
+        "goldGiftModifier": 1.7,
+        "cityStateTributeScalingInterval": 2,
+        "barbarianModifier": 0.33,
+        "goldenAgeLengthModifier": 0.33,
+        "religiousPressureAdjacentCity": 10,
+        "peaceDealDuration": 3,
+        "startYear": -4000
+    }
+]
