@@ -22,7 +22,7 @@
                 "untilTurn": 75
             },
             {
-                "yearsPerTurn": 38,
+                "yearsPerTurn": 37.5,
                 "untilTurn": 135
             },
             {
@@ -42,11 +42,11 @@
                 "untilTurn": 320
             },
             {
-                "yearsPerTurn": 2,
+                "yearsPerTurn": 1.5,
                 "untilTurn": 440
             },
             {
-                "yearsPerTurn": 1,
+                "yearsPerTurn": 0.9,
                 "untilTurn": 999
             }
         ]
