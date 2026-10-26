@@ -46,7 +46,7 @@
 		"uniques": [
 			"[+25]% Strength <when defending> <vs [Serangan Eksplosif]>"]
 	},
-	{
+	{//AYANE
 		"name": "(EX) Care Package I",
 		"unitTypes": ["Ayane"],
 		"uniques": [
@@ -74,6 +74,40 @@
 			"All adjacent units heal [4] HP when healing <every [4] turns>"]
 	},
 	{
+		"name": "(N) Learning Support",
+		"unitTypes": ["Ayane"],
+		"uniques": [
+			"[+8]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Learning Support I",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(N) Learning Support"],
+		"uniques": [
+			"[+10]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Learning Support II",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(N) Learning Support I"],
+		"uniques": [
+			"[+11]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Learning Support III",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(N) Learning Support II"],
+		"uniques": [
+			"[+13]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Learning Support MAX",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(N) Learning Support III"],
+		"uniques": [
+			"[+15]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+	},
+	{//RIO
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
 		"uniques": [
