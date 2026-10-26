@@ -15,7 +15,40 @@
         "goldenAgeLengthModifier": 0.50,
         "religiousPressureAdjacentCity": 9,
         "peaceDealDuration": 5,
-        "startYear": -4000
+        "startYear": -4000,
+        "turns": [
+            {
+                "yearsPerTurn": 60,
+                "untilTurn": 75
+            },
+            {
+                "yearsPerTurn": 37.5,
+                "untilTurn": 135
+            },
+            {
+                "yearsPerTurn": 30,
+                "untilTurn": 160
+            },
+            {
+                "yearsPerTurn": 15,
+                "untilTurn": 210
+            },
+            {
+                "yearsPerTurn": 7.5,
+                "untilTurn": 270
+            },
+            {
+                "yearsPerTurn": 3,
+                "untilTurn": 320
+            },
+            {
+                "yearsPerTurn": 1,5,
+                "untilTurn": 440
+            },
+            {
+                "yearsPerTurn": 0.9,
+                "untilTurn": 999
+            }
     },
     {
         "name": "Bakushin",
