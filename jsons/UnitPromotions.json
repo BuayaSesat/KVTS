@@ -141,6 +141,40 @@
 		"uniques": [
 			"All adjacent units heal [3] HP when healing"]
 	},
+	{
+		"name": "(S) Increasing Morale",
+		"unitTypes": ["Ayane"],
+		"uniques": [
+			"[+10]% Strength bonus for [Military] units within [2] tiles <when defending>"]
+	},
+	{
+		"name": "(S) Increasing Morale I",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(S) Increasing Morale"],
+		"uniques": [
+			"[+12]% Strength bonus for [Military] units within [2] tiles <when defending>"]
+	},
+	{
+		"name": "(S) Increasing Morale II",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(S) Increasing Morale I"],
+		"uniques": [
+			"[+13]% Strength bonus for [Military] units within [2] tiles <when defending>"]
+	},
+	{
+		"name": "(S) Increasing Morale III",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(S) Increasing Morale II"],
+		"uniques": [
+			"[+15]% Strength bonus for [Military] units within [2] tiles <when defending>"]
+	},
+	{
+		"name": "(S) Increasing Morale MAX",
+		"unitTypes": ["Ayane"],
+		"prerequisites": ["(S) Increasing Morale III"],
+		"uniques": [
+			"[+17]% Strength bonus for [Military] units within [2] tiles <when defending>"]
+	},
 	{//RIO
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
@@ -210,14 +244,14 @@
 		"name": "(P) Starchaser",
 		"unitTypes": ["Rio"],
 		"uniques": [
-			"[+7]% Strength <when attacking>"]
+			"[+15]% Strength <when attacking>"]
 	},
 	{
 		"name": "(P) Starchaser I",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["(P) Starchaser"],
 		"uniques": [
-			"[+2]% Strength <when attacking>"]
+			"[+4]% Strength <when attacking>"]
 	},
 	{
 		"name": "(P) Starchaser II",
@@ -231,47 +265,47 @@
 		"unitTypes": ["Rio"],
 		"prerequisites": ["(P) Starchaser II"],
 		"uniques": [
-			"[+2]% Strength <when attacking>"]
+			"[+4]% Strength <when attacking>"]
 	},
 	{
 		"name": "(P) Starchaser MAX",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["(P) Starchaser III"],
 		"uniques": [
-			"[+2]% Strength <when attacking>"]
+			"[+4]% Strength <when attacking>"]
 	},
 	{
 		"name": "(S) Avant-Guard",
 		"unitTypes": ["Rio"],
 		"uniques": [
-			"[+5]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
+			"[+10]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
 		"name": "(S) Avant-Guard I",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["(S) Avant-Guard"],
 		"uniques": [
-			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
+			"[+12]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
 		"name": "(S) Avant-Guard II",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["(S) Avant-Guard I"],
 		"uniques": [
-			"[+6]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
+			"[+13]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
 		"name": "(S) Avant-Guard III",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["(S) Avant-Guard II"],
 		"uniques": [
-			"[+8]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
+			"[+15]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 	{
 		"name": "(S) Avant-Guard MAX",
 		"unitTypes": ["Rio"],
 		"prerequisites": ["(S) Avant-Guard III"],
 		"uniques": [
-			"[+9]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
+			"[+17]% Strength bonus for [Military] units within [2] tiles <when attacking>"]
 	},
 ]
