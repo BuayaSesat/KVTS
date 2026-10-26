@@ -59,7 +59,7 @@
 			{
 				"name": "Abydos Complete",
 				"uniques": [
-					"Empire enters a [250]-turn Golden Age <when above [0] [Gold]> <when not in a Golden Age> <every [1] turns>",
+					"[+125 Gold] from [Desert] tiles [in all cities]",
 					"[Great Merchant] is earned [+100]% faster"]
 			}
 		]
