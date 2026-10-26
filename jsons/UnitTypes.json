@@ -4,6 +4,7 @@
 		"movementType": "Land",
 		"uniques": [
 			"[This Unit] gains the [Halo] promotion"]
+	},
 	{
 		"name": "Rio",
 		"movementType": "Land",
