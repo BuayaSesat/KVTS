@@ -308,6 +308,33 @@
 		"uniques": [
 			"[2] HP when healing <every [4] turns>"]
 	},
+	{
+		"name": "(EX) Summon Drone: Fire Support I",
+		"unitTypes": ["Shiroko"],
+		"uniques": [
+			"[+9]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(EX) Summon Drone: Fire Support II",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(EX) Summon Drone: Fire Support I"],
+		"uniques": [
+			"[+9]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(EX) Summon Drone: Fire Support III",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(EX) Summon Drone: Fire Support II"],
+		"uniques": [
+			"[+9]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(EX) Summon Drone: Fire Support MAX",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(EX) Summon Drone: Fire Support III"],
+		"uniques": [
+			"[+9]% Strength <when attacking> <every [2] turns>"]
+	},
 	{//RIO
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
