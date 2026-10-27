@@ -209,7 +209,7 @@
 		"name": "(N) Emergency Field Aid",
 		"unitTypes": ["Hoshino"],
 		"uniques": [
-			"Unit will heal every turn, even if it performs an action <when below [30] HP> <once>"]
+			"[This Unit] heals [-999] HP <when below [30] HP> <[1] times>"]
 	},
 	{//RIO
 		"name": "(EX) Big Sister I",
