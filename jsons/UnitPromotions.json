@@ -308,7 +308,7 @@
 		"uniques": [
 			"[2] HP when healing <every [4] turns>"]
 	},
-	{
+	{//SHIROKO
 		"name": "(EX) Summon Drone: Fire Support I",
 		"unitTypes": ["Shiroko"],
 		"uniques": [
@@ -334,6 +334,13 @@
 		"prerequisites": ["(EX) Summon Drone: Fire Support III"],
 		"uniques": [
 			"[+9]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(N) Grenade Toss ",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(N) Grenade Toss "],
+		"uniques": [
+			"[+<every [2] turns>"]
 	},
 	{//RIO
 		"name": "(EX) Big Sister I",
