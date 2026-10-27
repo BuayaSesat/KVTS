@@ -209,8 +209,35 @@
 		"name": "(N) Emergency Field Aid",
 		"unitTypes": ["Hoshino"],
 		"uniques": [
-			"Unit will heal every turn, even if it performs an action <when below [30] HP>",
-			"[-999] HP when healing <when below [30] HP>"]
+			"Unit will heal every turn, even if it performs an action <when below [31] HP>"]
+	},
+	{
+		"name": "(N) Emergency Field Aid I",
+		"unitTypes": ["Hoshino"],
+		"prerequisites": ["(N) Emergency Field Aid"],
+		"uniques": [
+			"[2] HP when healing <when below [31] HP>"]
+	},
+	{
+		"name": "(N) Emergency Field Aid II",
+		"unitTypes": ["Hoshino"],
+		"prerequisites": ["(N) Emergency Field Aid I"],
+		"uniques": [
+			"[1] HP when healing <when below [31] HP>"]
+	},
+	{
+		"name": "(N) Emergency Field Aid III",
+		"unitTypes": ["Hoshino"],
+		"prerequisites": ["(N) Emergency Field Aid II"],
+		"uniques": [
+			"[3] HP when healing <when below [31] HP>"]
+	},
+	{
+		"name": "(N) Emergency Field Aid MAX",
+		"unitTypes": ["Hoshino"],
+		"prerequisites": ["(N) Emergency Field Aid III"],
+		"uniques": [
+			"[2] HP when healing <when below [31] HP>"]
 	},
 	{//RIO
 		"name": "(EX) Big Sister I",
