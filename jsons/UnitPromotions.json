@@ -50,28 +50,28 @@
 		"name": "(EX) Care Package I",
 		"unitTypes": ["Ayane"],
 		"uniques": [
-			"All adjacent units heal [2] HP when healing <every [4] turns>"]
+			"All adjacent units heal [3] HP when healing <every [4] turns>"]
 	},
 	{
 		"name": "(EX) Care Package II",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(EX) Care Package I"],
 		"uniques": [
-			"All adjacent units heal [4] HP when healing <every [4] turns>"]
+			"All adjacent units heal [3] HP when healing <every [4] turns>"]
 	},
 	{
 		"name": "(EX) Care Package III",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(EX) Care Package II"],
 		"uniques": [
-			"All adjacent units heal [2] HP when healing <every [4] turns>"]
+			"All adjacent units heal [3] HP when healing <every [4] turns>"]
 	},
 	{
 		"name": "(EX) Care Package MAX",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(EX) Care Package III"],
 		"uniques": [
-			"All adjacent units heal [4] HP when healing <every [4] turns>"]
+			"All adjacent units heal [3] HP when healing <every [4] turns>"]
 	},
 	{
 		"name": "(N) Learning Support",
@@ -91,21 +91,21 @@
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(N) Learning Support I"],
 		"uniques": [
-			"[+11]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+			"[+12]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
 	},
 	{
 		"name": "(N) Learning Support III",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(N) Learning Support II"],
 		"uniques": [
-			"[+13]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+			"[+14]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
 	},
 	{
 		"name": "(N) Learning Support MAX",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(N) Learning Support III"],
 		"uniques": [
-			"[+15]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+			"[+16]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
 	},
 	{
 		"name": "(P) Passion for Learning",
@@ -139,7 +139,7 @@
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(P) Passion for Learning III"],
 		"uniques": [
-			"All adjacent units heal [3] HP when healing"]
+			"All adjacent units heal [2] HP when healing"]
 	},
 	{
 		"name": "(S) Increasing Morale",
@@ -159,21 +159,21 @@
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(S) Increasing Morale I"],
 		"uniques": [
-			"[+13]% Strength bonus for [Military] units within [2] tiles <when defending>"]
+			"[+14]% Strength bonus for [Military] units within [2] tiles <when defending>"]
 	},
 	{
 		"name": "(S) Increasing Morale III",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(S) Increasing Morale II"],
 		"uniques": [
-			"[+15]% Strength bonus for [Military] units within [2] tiles <when defending>"]
+			"[+16]% Strength bonus for [Military] units within [2] tiles <when defending>"]
 	},
 	{
 		"name": "(S) Increasing Morale MAX",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(S) Increasing Morale III"],
 		"uniques": [
-			"[+17]% Strength bonus for [Military] units within [2] tiles <when defending>"]
+			"[+18]% Strength bonus for [Military] units within [2] tiles <when defending>"]
 	},
 	{//HOSHINO
 		"name": "(EX) Tactical Suppression I",
@@ -223,14 +223,14 @@
 		"unitTypes": ["Hoshino"],
 		"prerequisites": ["(N) Emergency Field Aid I"],
 		"uniques": [
-			"[1] HP when healing <when below [31] HP>"]
+			"[2] HP when healing <when below [31] HP>"]
 	},
 	{
 		"name": "(N) Emergency Field Aid III",
 		"unitTypes": ["Hoshino"],
 		"prerequisites": ["(N) Emergency Field Aid II"],
 		"uniques": [
-			"[3] HP when healing <when below [31] HP>"]
+			"[2] HP when healing <when below [31] HP>"]
 	},
 	{
 		"name": "(N) Emergency Field Aid MAX",
@@ -257,7 +257,7 @@
 		"unitTypes": ["Hoshino"],
 		"prerequisites": ["(P) Countermeasures Council President I"],
 		"uniques": [
-			"[+1]% Strength <when defending>"]
+			"[+4]% Strength <when defending>"]
 	},
 	{
 		"name": "(P) Countermeasures Council President III",
@@ -292,14 +292,14 @@
 		"unitTypes": ["Hoshino"],
 		"prerequisites": ["(S) Supression Veteran I"],
 		"uniques": [
-			"[0] HP when healing <every [4] turns>"]
+			"[2] HP when healing <every [4] turns>"]
 	},
 	{
 		"name": "(S) Supression Veteran III",
 		"unitTypes": ["Hoshino"],
 		"prerequisites": ["(S) Supression Veteran II"],
 		"uniques": [
-			"[1] HP when healing <every [4] turns>"]
+			"[2] HP when healing <every [4] turns>"]
 	},
 	{
 		"name": "(S) Supression Veteran MAX",
