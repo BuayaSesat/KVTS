@@ -209,7 +209,7 @@
 		"name": "(N) Emergency Field Aid",
 		"unitTypes": ["Hoshino"],
 		"uniques": [
-			"[This Unit] heals [-999] HP <when below [30] HP> <[1] times>"]
+			"[This Unit] heals [99] HP <when below [30] HP> <[1] times>"]
 	},
 	{//RIO
 		"name": "(EX) Big Sister I",
