@@ -632,6 +632,74 @@
 		"uniques": [
 			"[+5]% Strength <when attacking> <every [3] turns>"]
 	},
+	{
+		"name": "(P) That's not okay!",
+		"unitTypes": ["Nonomi"],
+		"uniques": [
+			"[+15]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) That's not okay! I",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(P) That's not okay!"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) That's not okay! II",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(P) That's not okay! I"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) That's not okay! III",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(P) That's not okay! II"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) That's not okay! MAX",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(P) That's not okay! III"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(S) I'll clean up spick-and-span~♧",
+		"unitTypes": ["Nonomi"],
+		"uniques": [
+			"[+7]% Strength <when attacking> <vs [Armored] units>"]
+	},
+	{
+		"name": "(S) I'll clean up spick-and-span~♧ I",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(S) I'll clean up spick-and-span~♧"],
+		"uniques": [
+			"[+2]% Strength <when attacking> <vs [Armored] units>"]
+	},
+	{
+		"name": "(S) I'll clean up spick-and-span~♧ II",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(S) I'll clean up spick-and-span~♧ I"],
+		"uniques": [
+			"[+2]% Strength <when attacking> <vs [Armored] units>"]
+	},
+	{
+		"name": "(S) I'll clean up spick-and-span~♧ III",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(S) I'll clean up spick-and-span~♧ II"],
+		"uniques": [
+			"[+2]% Strength <when attacking> <vs [Armored] units>"]
+	},
+	{
+		"name": "(S) I'll clean up spick-and-span~♧ MAX",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(S) I'll clean up spick-and-span~♧ III"],
+		"uniques": [
+			"[+2]% Strength <when attacking> <vs [Armored] units>"]
+	},
 //RIO
 	{
 		"name": "(EX) Big Sister I",
