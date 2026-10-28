@@ -572,10 +572,65 @@
 	},
 //NONOMI
 	{
-		"name": "(EX) It's punishment time~♣︎",
+		"name": "(EX) It's punishment time~♣︎ I",
 		"unitTypes": ["Nonomi"],
 		"uniques": [
 			"[+10]% Strength <when attacking> <every [5] turns>"]
+	},
+	{
+		"name": "(EX) It's punishment time~♣︎ II",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(EX) It's punishment time~♣︎ I"],
+		"uniques": [
+			"[+10]% Strength <when attacking> <every [5] turns>"]
+	},
+	{
+		"name": "(EX) It's punishment time~♣︎ III",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(EX) It's punishment time~♣︎ II"],
+		"uniques": [
+			"[+10]% Strength <when attacking> <every [5] turns>"]
+	},
+	{
+		"name": "(EX) It's punishment time~♣︎ MAX",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(EX) It's punishment time~♣︎ III"],
+		"uniques": [
+			"[+10]% Strength <when attacking> <every [5] turns>"]
+	},
+	{
+		"name": "(N) Ta-da☆",
+		"unitTypes": ["Nonomi"],
+		"uniques": [
+			"[+5]% Strength <when attacking> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Ta-da☆ I",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(N) Ta-da☆"],
+		"uniques": [
+			"[+5]% Strength <when attacking> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Ta-da☆ II",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(N) Ta-da☆ I"],
+		"uniques": [
+			"[+5]% Strength <when attacking> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Ta-da☆ III",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(N) Ta-da☆ II"],
+		"uniques": [
+			"[+5]% Strength <when attacking> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Ta-da☆ MAX",
+		"unitTypes": ["Nonomi"],
+		"prerequisites": ["(N) Ta-da☆ III"],
+		"uniques": [
+			"[+5]% Strength <when attacking> <every [3] turns>"]
 	},
 //RIO
 	{
