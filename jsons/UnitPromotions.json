@@ -468,6 +468,81 @@
 		"uniques": [
 			"[+6]% Strength <when attacking> <every [2] turns>"]
 	},
+	{
+		"name": "(N) Precision Shooting",
+		"unitTypes": ["Serika"],
+		"uniques": [
+			"[+20]% Strength <when attacking> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Precision Shooting I",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(N) Precision Shooting"],
+		"uniques": [
+			"[+9]% Strength <when attacking> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Precision Shooting II",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(N) Precision Shooting I"],
+		"uniques": [
+			"[+9]% Strength <when attacking> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Precision Shooting III",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(N) Precision Shooting II"],
+		"uniques": [
+			"[+9]% Strength <when attacking> <every [3] turns>"]
+	},
+	{
+		"name": "(N) Precision Shooting MAX",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(N) Precision Shooting III"],
+		"uniques": [
+			"[+9]% Strength <when attacking> <every [3] turns>"]
+	},
+	{
+		"name": "(P) Part-time Job Spirit",
+		"unitTypes": ["Serika"],
+		"uniques": [
+			"[+15]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) Part-time Job Spirit I",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(P) Part-time Job Spirit"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) Part-time Job Spirit II",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(P) Part-time Job Spirit I"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) Part-time Job Spirit III",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(P) Part-time Job Spirit II"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) Part-time Job Spirit MAX",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(P) Part-time Job Spirit III"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(S) Wrath of the Countermeasure Committe ",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(S) Wrath of the Countermeasure Committe "],
+		"uniques": [
+			"[+4]% Strength <when attacking> <every [2] turns>"]
+	},
 //RIO
 	{
 		"name": "(EX) Big Sister I",
