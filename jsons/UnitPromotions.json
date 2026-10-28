@@ -46,7 +46,8 @@
 		"uniques": [
 			"[+25]% Strength <when defending> <vs [Serangan Eksplosif]>"]
 	},
-	{//AYANE
+//AYANE
+	{
 		"name": "(EX) Care Package I",
 		"unitTypes": ["Ayane"],
 		"uniques": [
@@ -175,7 +176,8 @@
 		"uniques": [
 			"[+18]% Strength bonus for [Military] units within [2] tiles <when defending>"]
 	},
-	{//HOSHINO
+//HOSHINO
+	{
 		"name": "(EX) Tactical Suppression I",
 		"unitTypes": ["Hoshino"],
 		"uniques": [
@@ -308,7 +310,8 @@
 		"uniques": [
 			"[2] HP when healing <every [4] turns>"]
 	},
-	{//SHIROKO
+//SHIROKO
+	{
 		"name": "(EX) Summon Drone: Fire Support I",
 		"unitTypes": ["Shiroko"],
 		"uniques": [
@@ -437,7 +440,8 @@
 		"uniques": [
 			"[+11]% Strength <when attacking> <with [20]% chance> <every [3] turns>"]
 	},
-	{//SERIKA
+//SERIKA
+	{
 		"name": "(EX) You're such a bother! I",
 		"unitTypes": ["Serika"],
 		"uniques": [
@@ -464,7 +468,8 @@
 		"uniques": [
 			"[+6]% Strength <when attacking> <every [2] turns>"]
 	},
-	{//RIO
+//RIO
+	{
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
 		"uniques": [
