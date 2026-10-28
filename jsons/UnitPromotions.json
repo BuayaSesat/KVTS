@@ -437,6 +437,33 @@
 		"uniques": [
 			"[+11]% Strength <when attacking> <with [20]% chance> <every [3] turns>"]
 	},
+	{//SERIKA
+		"name": "(EX) You're such a bother! I",
+		"unitTypes": ["Serika"],
+		"uniques": [
+			"[+6]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(EX) You're such a bother! II",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(EX) You're such a bother! I"],
+		"uniques": [
+			"[+6]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(EX) You're such a bother! III",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(EX) You're such a bother! II"],
+		"uniques": [
+			"[+6]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(EX) You're such a bother! MAX",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(EX) You're such a bother! III"],
+		"uniques": [
+			"[+6]% Strength <when attacking> <every [2] turns>"]
+	},
 	{//RIO
 		"name": "(EX) Big Sister I",
 		"unitTypes": ["Rio"],
