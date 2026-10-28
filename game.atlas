@@ -2681,12 +2681,12 @@ UnitIcons/Erika
 
 
 
-Images/Tilesets/AbsoluteUnits/Unit/Ayane.png
+Images/Tilesets/AbsoluteUnits/Units/Ayane.png
 size: 100, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Tilesets/AbsoluteUnits/Unit/Ayane
+Tilesets/AbsoluteUnits/Units/Ayane
   rotate: false
   xy: 0, 0
   size: 100, 100
