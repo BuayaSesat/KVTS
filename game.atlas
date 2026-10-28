@@ -2681,6 +2681,27 @@ UnitIcons/Erika
 
 
 
+Images/Tilesets/AbsoluteUnits/Unit/Ayane.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+Tilesets/AbsoluteUnits/Unit/Ayane
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
 Images/UnitPromotionIcons/Halo.png
 size: 100, 100
 format: RGBA8888
