@@ -77,35 +77,35 @@
 		"name": "(N) Learning Support",
 		"unitTypes": ["Ayane"],
 		"uniques": [
-			"[+8]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+			"[+16]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
 	},
 	{
 		"name": "(N) Learning Support I",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(N) Learning Support"],
 		"uniques": [
-			"[+10]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+			"[+20]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
 	},
 	{
 		"name": "(N) Learning Support II",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(N) Learning Support I"],
 		"uniques": [
-			"[+12]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+			"[+24]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
 	},
 	{
 		"name": "(N) Learning Support III",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(N) Learning Support II"],
 		"uniques": [
-			"[+14]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+			"[+28]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
 	},
 	{
 		"name": "(N) Learning Support MAX",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(N) Learning Support III"],
 		"uniques": [
-			"[+16]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
+			"[+32]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>"]
 	},
 	{
 		"name": "(P) Passion for Learning",
@@ -118,28 +118,28 @@
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(P) Passion for Learning"],
 		"uniques": [
-			"All adjacent units heal [2] HP when healing"]
+			"All adjacent units heal [1] HP when healing"]
 	},
 	{
 		"name": "(P) Passion for Learning II",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(P) Passion for Learning I"],
 		"uniques": [
-			"All adjacent units heal [2] HP when healing"]
+			"All adjacent units heal [1] HP when healing"]
 	},
 	{
 		"name": "(P) Passion for Learning III",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(P) Passion for Learning II"],
 		"uniques": [
-			"All adjacent units heal [2] HP when healing"]
+			"All adjacent units heal [1] HP when healing"]
 	},
 	{
 		"name": "(P) Passion for Learning MAX",
 		"unitTypes": ["Ayane"],
 		"prerequisites": ["(P) Passion for Learning III"],
 		"uniques": [
-			"All adjacent units heal [2] HP when healing"]
+			"All adjacent units heal [1] HP when healing"]
 	},
 	{
 		"name": "(S) Increasing Morale",
