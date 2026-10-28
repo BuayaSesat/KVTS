@@ -346,28 +346,96 @@
 		"unitTypes": ["Shiroko"],
 		"prerequisites": ["(N) Grenade Toss"],
 		"uniques": [
-			"[+3]% Strength <when attacking> <every [3] turns>"]
+			"[+5]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
 		"name": "(N) Grenade Toss II",
 		"unitTypes": ["Shiroko"],
 		"prerequisites": ["(N) Grenade Toss I"],
 		"uniques": [
-			"[+3]% Strength <when attacking> <every [3] turns>"]
+			"[+5]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
 		"name": "(N) Grenade Toss III",
 		"unitTypes": ["Shiroko"],
 		"prerequisites": ["(N) Grenade Toss II"],
 		"uniques": [
-			"[+3]% Strength <when attacking> <every [3] turns>"]
+			"[+5]% Strength <when attacking> <every [3] turns>"]
 	},
 	{
 		"name": "(N) Grenade Toss MAX",
 		"unitTypes": ["Shiroko"],
 		"prerequisites": ["(N) Grenade Toss III"],
 		"uniques": [
-			"[+3]% Strength <when attacking> <every [3] turns>"]
+			"[+5]% Strength <when attacking> <every [3] turns>"]
+	},
+	{
+		"name": "(P) Pinpoint",
+		"unitTypes": ["Shiroko"],
+		"uniques": [
+			"[+15]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) Pinpoint I",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(P) Pinpoint"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) Pinpoint II",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(P) Pinpoint I"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) Pinpoint III",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(P) Pinpoint II"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(P) Pinpoint MAX",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(P) Pinpoint III"],
+		"uniques": [
+			"[+4]% Strength <when attacking>"]
+	},
+	{
+		"name": "(S) High-speed Rapid Fire",
+		"unitTypes": ["Shiroko"],
+		"uniques": [
+			"[+48]% Strength <when attacking> <with [20]% chance> <every [3] turns>"]
+	},
+	{
+		"name": "(S) High-speed Rapid Fire I",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(S) High-speed Rapid Fire"],
+		"uniques": [
+			"[+11]% Strength <when attacking> <with [20]% chance> <every [3] turns>"]
+	},
+	{
+		"name": "(S) High-speed Rapid Fire II",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(S) High-speed Rapid Fire I"],
+		"uniques": [
+			"[+11]% Strength <when attacking> <with [20]% chance> <every [3] turns>"]
+	},
+	{
+		"name": "(S) High-speed Rapid Fire III",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(S) High-speed Rapid Fire II"],
+		"uniques": [
+			"[+11]% Strength <when attacking> <with [20]% chance> <every [3] turns>"]
+	},
+	{
+		"name": "(S) High-speed Rapid Fire MAX",
+		"unitTypes": ["Shiroko"],
+		"prerequisites": ["(S) High-speed Rapid Fire III"],
+		"uniques": [
+			"[+11]% Strength <when attacking> <with [20]% chance> <every [3] turns>"]
 	},
 	{//RIO
 		"name": "(EX) Big Sister I",
