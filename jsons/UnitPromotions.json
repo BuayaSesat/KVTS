@@ -570,6 +570,13 @@
 		"uniques": [
 			"[+8]% Strength <when attacking> <every [2] turns>"]
 	},
+//NONOMI
+	{
+		"name": "(EX) It's punishment time~♣︎",
+		"unitTypes": ["Nonomi"],
+		"uniques": [
+			"[+10]% Strength <when attacking> <every [5] turns>"]
+	},
 //RIO
 	{
 		"name": "(EX) Big Sister I",
