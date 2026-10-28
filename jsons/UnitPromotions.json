@@ -445,28 +445,28 @@
 		"name": "(EX) You're such a bother! I",
 		"unitTypes": ["Serika"],
 		"uniques": [
-			"[+6]% Strength <when attacking> <every [2] turns>"]
+			"[+8]% Strength <when attacking> <every [2] turns>"]
 	},
 	{
 		"name": "(EX) You're such a bother! II",
 		"unitTypes": ["Serika"],
 		"prerequisites": ["(EX) You're such a bother! I"],
 		"uniques": [
-			"[+6]% Strength <when attacking> <every [2] turns>"]
+			"[+8]% Strength <when attacking> <every [2] turns>"]
 	},
 	{
 		"name": "(EX) You're such a bother! III",
 		"unitTypes": ["Serika"],
 		"prerequisites": ["(EX) You're such a bother! II"],
 		"uniques": [
-			"[+6]% Strength <when attacking> <every [2] turns>"]
+			"[+8]% Strength <when attacking> <every [2] turns>"]
 	},
 	{
 		"name": "(EX) You're such a bother! MAX",
 		"unitTypes": ["Serika"],
 		"prerequisites": ["(EX) You're such a bother! III"],
 		"uniques": [
-			"[+6]% Strength <when attacking> <every [2] turns>"]
+			"[+8]% Strength <when attacking> <every [2] turns>"]
 	},
 	{
 		"name": "(N) Precision Shooting",
@@ -537,11 +537,38 @@
 			"[+4]% Strength <when attacking>"]
 	},
 	{
-		"name": "(S) Wrath of the Countermeasure Committe ",
+		"name": "(S) Wrath of the Countermeasure Committe",
 		"unitTypes": ["Serika"],
-		"prerequisites": ["(S) Wrath of the Countermeasure Committe "],
 		"uniques": [
-			"[+4]% Strength <when attacking> <every [2] turns>"]
+			"[+32]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(S) Wrath of the Countermeasure Committe I",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(S) Wrath of the Countermeasure Committe"],
+		"uniques": [
+			"[+8]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(S) Wrath of the Countermeasure Committe II",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(S) Wrath of the Countermeasure Committe I"],
+		"uniques": [
+			"[+8]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(S) Wrath of the Countermeasure Committe III",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(S) Wrath of the Countermeasure Committe II"],
+		"uniques": [
+			"[+8]% Strength <when attacking> <every [2] turns>"]
+	},
+	{
+		"name": "(S) Wrath of the Countermeasure Committe MAX",
+		"unitTypes": ["Serika"],
+		"prerequisites": ["(S) Wrath of the Countermeasure Committe III"],
+		"uniques": [
+			"[+8]% Strength <when attacking> <every [2] turns>"]
 	},
 //RIO
 	{
