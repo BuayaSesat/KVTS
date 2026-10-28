@@ -1,4 +1,3 @@
-//NATION
 Images/NationIcons/Abydos.png
 size: 100, 91
 format: RGBA8888
@@ -63,7 +62,15 @@ NationIcons/Gehenna
   orig: 100, 91
   offset: 0, 0
   index: -1
-                                                  //BUILDING
+
+
+
+
+
+
+
+
+
 Images/BuildingPortraits/Kaiser Loan.png
 size: 100, 100
 format: RGBA8888
@@ -128,7 +135,15 @@ BuildingPortraits/OSIS
   orig: 100, 100
   offset: 0, 0
   index: -1
-                                                  //POLICY
+
+
+
+
+
+
+
+
+
 Images/PolicyIcons/Bereskan Helmet Gang.png
 size: 100, 91
 format: RGBA8888
@@ -453,7 +468,15 @@ PolicyIcons/Kedokteran Darurat
   orig: 100, 100
   offset: 0, 0
   index: -1
-                                                  //UNIT PORTRAITS
+
+
+
+
+
+
+
+
+
 Images/UnitPortraits/Ayane.png
 size: 200, 200
 format: RGBA8888
@@ -1519,7 +1542,15 @@ UnitPortraits/Erika
   orig: 200, 200
   offset: 0, 0
   index: -1
-                                                  //UNIT ICONS
+
+
+
+
+
+
+
+
+
 Images/UnitIcons/Ayane.png
 size: 118, 124
 format: RGBA8888
@@ -2641,7 +2672,15 @@ UnitIcons/Erika
   orig: 118, 124
   offset: 0, 0
   index: -1
-                                                  //UNIT PROMOTION
+
+
+
+
+
+
+
+
+
 Images/UnitPromotionIcons/Halo.png
 size: 100, 100
 format: RGBA8888
