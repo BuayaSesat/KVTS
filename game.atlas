@@ -2746,6 +2746,305 @@ TileSets/AbsoluteUnits/Units/Nonomi
   offset: 0, 0
   index: -1
 
+Images/TileSets/AbsoluteUnits/Units/Rio.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Rio
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Yuuka.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Yuuka
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Noa.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Noa
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Koyuki.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Koyuki
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Maki.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Maki
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Hare.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Hare
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Kotama.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Kotama
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Chihiro.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Chihiro
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Neru.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Neru
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Asuna.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Asuna
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Karin.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Karin
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Akane.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Akane
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Toki.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Toki
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Himari.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Himari
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Eimi.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Eimi
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Utaha.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Utaha
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Hibiki.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Hibiki
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Kotori.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Kotori
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Momoi.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Momoi
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Midori.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Midori
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Yuzu.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Yuzu
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Aris.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Aris
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Sumire.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Sumire
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
 
 
 
