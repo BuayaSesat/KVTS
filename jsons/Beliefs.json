@@ -2,7 +2,7 @@
 	{
 		"name": "Kemalasan",
 		"type": "Pantheon"
-		"uniques": ["[-10]% [Production] <for [AI player] Civilizations>"],
+		"uniques": ["[+10]% [Production] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Kelaparan"
@@ -97,7 +97,7 @@
 	{
 		"name": "Menunggu 19jt Lapangan Pekerjaan"
 		"type": "Follower"
-		"uniques": ["[-2]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
+		"uniques": ["[+2]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Makan Siang Gratis"
@@ -122,11 +122,11 @@
 	{
 		"name": "WNI Seumur Hidup"
 		"type": "Follower"
-		"uniques": ["[-1 Happiness] per [1] population [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[+1 Happiness] per [1] population [in all cities] <for [AI player] Civilizations>"],
 	},
 	{
 		"name": "Cabulisme"
 		"type": "Follower"
-		"uniques": ["[-8 Faith] [in all cities] <for [AI player] Civilizations>"],
+		"uniques": ["[+8 Faith] [in all cities] <for [AI player] Civilizations>"],
 	},
 ]
