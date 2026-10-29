@@ -2694,6 +2694,58 @@ TileSets/AbsoluteUnits/Units/Ayane
   offset: 0, 0
   index: -1
 
+Images/TileSets/AbsoluteUnits/Units/Hoshino.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Hoshino
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Shiroko.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Shiroko
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Serika.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Serika
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Nonomi.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Nonomi
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
 
 
 
