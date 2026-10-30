@@ -3370,6 +3370,71 @@ TileSets/AbsoluteUnits/Units/Hanako
   offset: 0, 0
   index: -1
 
+Images/TileSets/AbsoluteUnits/Units/Saori.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Saori
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Atsuko.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Atsuko
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Misaki.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Misaki
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Hiyori.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Hiyori
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/AbsoluteUnits/Units/Subaru.png
+size: 95, 81
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Subaru
+  rotate: false
+  xy: 0, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
 
 
 
