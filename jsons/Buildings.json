@@ -1,37 +1,5 @@
 [
 	{
-		"name": "Barracks",
-		"cost": 75,
-		"maintenance": 1,
-		"requiredTech": "Bronze Working",
-		"uniques": [
-			"New [Military] units start with [15] XP [in this city]",
-			"New [Halo] units start with [150] XP [in this city]",
-			"Destroyed when the city is captured"]
-	},
-	{
-		"name": "Armory",
-		"cost": 160,
-		"maintenance": 1,
-		"requiredTech": "Steel",
-		"requiredBuilding": "Barracks",
-		"uniques": [
-			"New [Military] units start with [15] XP [in this city]",
-			"New [Halo] units start with [150] XP [in this city]",
-			"Destroyed when the city is captured"]
-	},
-	{
-		"name": "Military Academy",
-		"cost": 300,
-		"maintenance": 1,
-		"requiredTech": "Military Science",
-		"requiredBuilding": "Armory",
-		"uniques": [
-			"New [Military] units start with [15] XP [in this city]",
-			"New [Halo] units start with [300] XP [in this city]",
-			"Destroyed when the city is captured"]
-	},
-	{
 		"name": "Kaiser Loan",
 		"replaces": "National Treasury",
 		"uniqueTo": "Abydos",
