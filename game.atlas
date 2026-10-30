@@ -1628,20 +1628,6 @@ UnitIcons/Rio
   orig: 118, 124
   offset: 0, 0
   index: -1
-UnitPromotionIcons/(EX) Big Sister
-  rotate: false
-  xy: 0, 0
-  size: 118, 124
-  orig: 118, 124
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/(EX) Big Sister MAX
-  rotate: false
-  xy: 0, 0
-  size: 118, 124
-  orig: 118, 124
-  offset: 0, 0
-  index: -1
 
 Images/UnitIcons/Yuuka.png
 size: 118, 124
@@ -1733,34 +1719,6 @@ UnitIcons/Kotama
   orig: 118, 124
   offset: 0, 0
   index: -1
-UnitPromotionIcons/(P) Starchaser
-  rotate: false
-  xy: 0, 0
-  size: 118, 124
-  orig: 118, 124
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/(P) Starchaser MAX
-  rotate: false
-  xy: 0, 0
-  size: 118, 124
-  orig: 118, 124
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/(S) Avant-Guard
-  rotate: false
-  xy: 0, 0
-  size: 118, 124
-  orig: 118, 124
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/(S) Avant-Guard MAX
-  rotate: false
-  xy: 0, 0
-  size: 118, 124
-  orig: 118, 124
-  offset: 0, 0
-  index: -1
 
 Images/UnitIcons/Chihiro.png
 size: 118, 124
@@ -1820,20 +1778,6 @@ format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitIcons/Akane
-  rotate: false
-  xy: 0, 0
-  size: 118, 124
-  orig: 118, 124
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/(N) The only way
-  rotate: false
-  xy: 0, 0
-  size: 118, 124
-  orig: 118, 124
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/(N) The only way MAX
   rotate: false
   xy: 0, 0
   size: 118, 124
