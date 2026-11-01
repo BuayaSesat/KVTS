@@ -927,8 +927,7 @@
 		"uniques": [
 			"[+97]% Strength <when attacking> <every [4] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
-			"[This Unit] gains the [Pertahanan Spesial] promotion",
-			"[This Unit] gains the [Arius Squad] promotion"],
+			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Metallurgy",
 		"attackSound": "shoot"
 	},
@@ -944,8 +943,7 @@
 			"[+4] HP when healing <every [4] turns>",
 			"All adjacent units heal [14] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
-			"[This Unit] gains the [Pertahanan Spesial] promotion",
-			"[This Unit] gains the [Arius Squad] promotion"],
+			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "rapid"
 	},
@@ -963,8 +961,7 @@
 			"[6] additional attacks per turn <every [5] turns>",
 			"[-61]% Strength <when attacking> <every [5] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
-			"[This Unit] gains the [Pertahanan Spesial] promotion",
-			"[This Unit] gains the [Arius Squad] promotion"],
+			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Dynamite",
 		"attackSound": "missile"
 	},
@@ -983,8 +980,7 @@
 			"[+60]% Strength bonus for [Military] units within [1] tiles <when attacking> <when adjacent to a [Arius Squad] unit> <every [3] turns>",
 			"[-60]% Strength <when attacking> <when adjacent to a [Arius Squad] unit> <every [3] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
-			"[This Unit] gains the [Pertahanan Ringan] promotion",
-			"[This Unit] gains the [Arius Squad] promotion"],
+			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Rifling",
 		"attackSound": "cannon"
 	},
