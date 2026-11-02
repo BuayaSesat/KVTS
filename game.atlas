@@ -3698,7 +3698,7 @@ TileSets/AbsoluteUnits/Units/Erika
 
 
 
-Images/UnitPromotionIcons/Serangan.png
+Images/UnitPromotionIcons/Serangan Eksplosif.png
 size: 50, 50
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -3710,6 +3710,11 @@ UnitPromotionIcons/Serangan Eksplosif
   orig: 50, 50
   offset: 0, 0
   index: -1
+Images/UnitPromotionIcons/Serangan.png
+size: 50, 50
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 UnitPromotionIcons/Serangan Tembus
   rotate: false
   xy: 0, 0
