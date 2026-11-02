@@ -3710,6 +3710,7 @@ UnitPromotionIcons/Serangan Eksplosif
   orig: 50, 50
   offset: 0, 0
   index: -1
+
 Images/UnitPromotionIcons/Serangan.png
 size: 50, 50
 format: RGBA8888
