@@ -3711,7 +3711,7 @@ UnitPromotionIcons/Serangan Eksplosif
   offset: 0, 0
   index: -1
 
-Images/UnitPromotionIcons/Serangan.png
+Images/UnitPromotionIcons/Serangan Tembus.png
 size: 50, 50
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -3723,6 +3723,12 @@ UnitPromotionIcons/Serangan Tembus
   orig: 50, 50
   offset: 0, 0
   index: -1
+
+Images/UnitPromotionIcons/Serangan Mistik.png
+size: 50, 50
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 UnitPromotionIcons/Serangan Mistik
   rotate: false
   xy: 0, 0
@@ -3730,6 +3736,12 @@ UnitPromotionIcons/Serangan Mistik
   orig: 50, 50
   offset: 0, 0
   index: -1
+
+Images/UnitPromotionIcons/Serangan Sonik.png
+size: 50, 50
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 UnitPromotionIcons/Serangan Sonik
   rotate: false
   xy: 0, 0
