@@ -3698,55 +3698,37 @@ TileSets/AbsoluteUnits/Units/Erika
 
 
 
-Images/UnitPromotionIcons/Serangan Eksplosif.png
-size: 100, 100
+Images/UnitPromotionIcons/Serangan.png
+size: 50, 50
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitPromotionIcons/Serangan Eksplosif
   rotate: false
   xy: 0, 0
-  size: 100, 100
-  orig: 100, 100
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
-
-Images/UnitPromotionIcons/Serangan Tembus.png
-size: 100, 100
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 UnitPromotionIcons/Serangan Tembus
   rotate: false
   xy: 0, 0
-  size: 100, 100
-  orig: 100, 100
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
-
-Images/UnitPromotionIcons/Serangan Mistik.png
-size: 100, 100
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 UnitPromotionIcons/Serangan Mistik
   rotate: false
   xy: 0, 0
-  size: 100, 100
-  orig: 100, 100
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
-
-Images/UnitPromotionIcons/Serangan Sonik.png
-size: 100, 100
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 UnitPromotionIcons/Serangan Sonik
   rotate: false
   xy: 0, 0
-  size: 100, 100
-  orig: 100, 100
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 
