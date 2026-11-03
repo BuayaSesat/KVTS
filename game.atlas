@@ -1570,13 +1570,6 @@ UnitIcons/Ayane
   orig: 118, 124
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Penyembuh
-  rotate: false
-  xy: 0, 0
-  size: 118, 124
-  orig: 118, 124
-  offset: 0, 0
-  index: -1
 
 Images/UnitIcons/Hoshino.png
 size: 118, 124
