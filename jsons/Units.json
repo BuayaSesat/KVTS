@@ -114,7 +114,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Industrialization",
-		"attackSound": "rapid"
+		"attackSound": "smg"
 	},
 	{
 		"name": "Noa",
@@ -186,7 +186,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Electricity",
-		"attackSound": "boom"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Kotama",
@@ -234,7 +234,7 @@
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Industrialization",
-		"attackSound": "rapid"
+		"attackSound": "smg"
 	},
 	{
 		"name": "Asuna",
@@ -269,7 +269,7 @@
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Rifling",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Akane",
@@ -353,7 +353,7 @@
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Industrialization",
-		"attackSound": "shipguns"
+		"attackSound": "smg"
 	},
 	{
 		"name": "Hibiki",
@@ -426,7 +426,7 @@
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Rifling",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Yuzu",
@@ -444,7 +444,7 @@
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Dynamite",
-		"attackSound": "boom"
+		"attackSound": "blow"
 	},
 	{
 		"name": "Aris",
@@ -464,7 +464,7 @@
 			"[This Unit] gains the [Serangan Mistik] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Electricity",
-		"attackSound": "nuke"
+		"attackSound": "biglaser"
 	},
 	{
 		"name": "Sumire",
@@ -518,7 +518,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Military Science",
-		"attackSound": "boom"
+		"attackSound": "shoot"
 	},
 	{
 		"name": "Mika",
@@ -534,7 +534,7 @@
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Industrialization",
-		"attackSound": "rapid"
+		"attackSound": "smg"
 	},
 	{
 		"name": "Sakurako",
@@ -616,7 +616,7 @@
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Rifling",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Mashiro",
@@ -633,7 +633,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Rifling",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Ichika",
@@ -722,7 +722,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Scientific Theory",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Shimiko",
@@ -758,7 +758,7 @@
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "missile"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Natsu",
@@ -772,7 +772,7 @@
 			"[This Unit] gains the [Serangan Mistik] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "rapid"
+		"attackSound": "smg"
 	},
 	{
 		"name": "Airi",
@@ -791,7 +791,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "boom"
+		"attackSound": "smg"
 	},
 	{
 		"name": "Kazusa",
@@ -897,7 +897,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Scientific Theory",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Hanako",
@@ -929,7 +929,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "shoot"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Atsuko",
@@ -945,7 +945,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Biology",
-		"attackSound": "rapid"
+		"attackSound": "smg"
 	},
 	{
 		"name": "Misaki",
@@ -963,7 +963,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Dynamite",
-		"attackSound": "missile"
+		"attackSound": "blow"
 	},
 	{
 		"name": "Hiyori",
@@ -982,7 +982,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Rifling",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Subaru",
@@ -999,7 +999,7 @@
 			"[This Unit] gains the [Serangan Mistik] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Metallurgy",
-		"attackSound": "shoot"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Makoto",
@@ -1019,7 +1019,7 @@
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion"],
 		"requiredTech": "Rifling",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Iroha",
@@ -1039,7 +1039,7 @@
 			"[This Unit] gains the [Serangan Mistik] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Dynamite",
-		"attackSound": "tankshot"
+		"attackSound": "blow"
 	},
 	{
 		"name": "Ibuki",
@@ -1149,7 +1149,7 @@
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Rifling",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Chinatsu",
@@ -1183,7 +1183,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Rifling",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Kayoko",
@@ -1220,7 +1220,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Dynamite",
-		"attackSound": "boom"
+		"attackSound": "rapid"
 	},
 	{
 		"name": "Haruka",
@@ -1255,7 +1255,7 @@
 			"[This Unit] gains the [Serangan Mistik] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "cannon"
+		"attackSound": "49mm"
 	},
 	{
 		"name": "Akari",
@@ -1327,7 +1327,7 @@
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Fertilizer",
-		"attackSound": "rapid"
+		"attackSound": "smg"
 	},
 	{
 		"name": "Juri",
@@ -1364,7 +1364,7 @@
 			"[This Unit] gains the [Serangan Mistik] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion"],
 		"requiredTech": "Biology",
-		"attackSound": "boom"
+		"attackSound": "blow"
 	},
 	{
 		"name": "Kasumi",
