@@ -2,44 +2,44 @@
 	{
 		"name": "Serangan Eksplosif",
 		"uniques": [
-			"[+50]% Strength <when attacking> <vs [Pertahanan Ringan]>"]
+			"[+100]% Strength <when attacking> <vs [Pertahanan Ringan]>"]
 	},
 	{
 		"name": "Serangan Tembus",
 		"uniques": [
-			"[+50]% Strength <when attacking> <vs [Pertahanan Berat]>"]
+			"[+100]% Strength <when attacking> <vs [Pertahanan Berat]>"]
 	},
 	{
 		"name": "Serangan Mistik",
 		"uniques": [
-			"[+50]% Strength <when attacking> <vs [Pertahanan Spesial]>"]
+			"[+100]% Strength <when attacking> <vs [Pertahanan Spesial]>"]
 	},
 	{
 		"name": "Serangan Sonik",
 		"uniques": [
-			"[+25]% Strength <when attacking> <vs [Pertahanan Spesial]>",
-			"[+50]% Strength <when attacking> <vs [Pertahanan Elastis]>"]
+			"[+50]% Strength <when attacking> <vs [Pertahanan Spesial]>",
+			"[+100]% Strength <when attacking> <vs [Pertahanan Elastis]>"]
 	},
 	{
 		"name": "Pertahanan Ringan",
 		"uniques": [
-			"[+25]% Strength <when defending> <vs [Serangan Tembus]>"]
+			"[+50]% Strength <when defending> <vs [Serangan Tembus]>"]
 	},
 	{
 		"name": "Pertahanan Berat",
 		"uniques": [
-			"[+25]% Strength <when defending> <vs [Serangan Mistik]>",
-			"[+25]% Strength <when defending> <vs [Serangan Sonik]>"]
+			"[+50]% Strength <when defending> <vs [Serangan Mistik]>",
+			"[+50]% Strength <when defending> <vs [Serangan Sonik]>"]
 	},
 	{
 		"name": "Pertahanan Spesial",
 		"uniques": [
-			"[+25]% Strength <when defending> <vs [Serangan Eksplosif]>"]
+			"[+50]% Strength <when defending> <vs [Serangan Eksplosif]>"]
 	},
 	{
 		"name": "Pertahanan Elastis",
 		"uniques": [
-			"[+25]% Strength <when defending> <vs [Serangan Eksplosif]>"]
+			"[+50]% Strength <when defending> <vs [Serangan Eksplosif]>"]
 	},
 	{
 		"name": "Arius Squad"
