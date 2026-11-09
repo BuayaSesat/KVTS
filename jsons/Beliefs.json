@@ -1,43 +1,18 @@
 [
 	{
-		"name": "Kemalasan",
-		"type": "Pantheon"
-		"uniques": ["[+999]% [Production] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "Kelaparan"
-		"type": "Pantheon"
-		"uniques": ["[-15]% [Food] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "Kemiskinan"
-		"type": "Pantheon"
-		"uniques": ["[-15]% [Gold] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "Kebodohan"
-		"type": "Pantheon"
-		"uniques": ["[-10]% [Science] <for [AI player] Civilizations>"],
-    },
-    {
-		"name": "Kebiadaban"
-		"type": "Pantheon"
-		"uniques": ["[-15]% [Culture] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "Ketidakbahagiaan"
-		"type": "Pantheon"
-		"uniques": ["[-20]% [Happiness] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "Keraguan"
-		"type": "Pantheon"
-		"uniques": ["[-2 Faith] [in all cities] <for [AI player] Civilizations>"],
-	},
-	{
 		"name": "Terangi Dunia"
 		"type": "Founder"
-		"uniques": ["[4] Sight <for [All] units>", "Reveals the entire map"],
+		"uniques": ["[2] Sight <for [All] units>", "Reveals the entire map"],
+	},
+	{
+		"name": "Mobilitas"
+		"type": "Founder"
+		"uniques": ["[1] Movement <for [All] units>", "No movement cost to pillage"],
+	},
+	{
+		"name": "Penembak Jitu"
+		"type": "Founder"
+		"uniques": ["[1] Range <for [Ranged] units>", "Ranged attacks may be performed over obstacles"],
 	},
 	{
 		"name": "Wajib Militer"
@@ -48,16 +23,6 @@
 		"name": "Penculikan"
 		"type": "Founder"
 		"uniques": ["When defeating a [All] unit, earn [40] Gold and recruit it <with [40]% chance>"],
-	},
-	{
-		"name": "Keajaiban Dunia"
-		"type": "Founder"
-		"uniques": ["[+40]% Production when constructing [Wonders] wonders [in all cities]"],
-	},
-	{
-		"name": "Hacker Jangan Menyerang"
-		"type": "Founder"
-		"uniques": ["Gain an extra spy", "[-50]% enemy spy effectiveness [in your cities]"],
 	},
 	{
 		"name": "Warga Saling Lempar Menu MBG"
@@ -80,53 +45,8 @@
 		"uniques": ["[1] additional attacks per turn <with [20]% chance>"],
 	},
 	{
-		"name": "Mobilitas"
-		"type": "Enhancer"
-		"uniques": ["[1] Movement <for [All] units>", "No movement cost to pillage"],
-	},
-	{
-		"name": "Penembak Jitu"
-		"type": "Enhancer"
-		"uniques": ["[1] Range <for [Ranged] units>", "Ranged attacks may be performed over obstacles"],
-	},
-	{
 		"name": "Seruan Perang"
 		"type": "Enhancer"
 		"uniques": ["[+80]% XP gained from combat"],
-	},
-	{
-		"name": "Menunggu 19jt Lapangan Pekerjaan"
-		"type": "Follower"
-		"uniques": ["[+999]% [Production] from every [Buildings] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "Makan Siang Gratis"
-		"type": "Follower"
-		"uniques": ["[+40]% Food consumption by [Followers of this Religion] [in all cities] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "Emas 74 KG"
-		"type": "Follower"
-		"uniques": ["[-1 Gold] per [1] population [in all cities] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "10 + 6 = 17"
-		"type": "Follower"
-		"uniques": ["[-1 Science] per [1] population [in all cities] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "Batik Is From Malaysia"
-		"type": "Follower"
-		"uniques": ["[-1 Culture] from [All] tiles [in all cities] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "WNI Seumur Hidup"
-		"type": "Follower"
-		"uniques": ["[+1 Happiness] per [1] population [in all cities] <for [AI player] Civilizations>"],
-	},
-	{
-		"name": "Cabulisme"
-		"type": "Follower"
-		"uniques": ["[+999 Faith] [in all cities] <for [AI player] Civilizations>"],
-	},
+	}
 ]
