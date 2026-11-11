@@ -170,8 +170,8 @@
 			{
 				"name": "Ksatria Perbaikan",
 				"uniques": [
-					"[10] HP when healing <for [All] units>",
-					"[10] HP when healing <in [Friendly] tiles>"],
+					"[5] HP when healing <for [All] units>",
+					"[10] HP when healing <for [All] units> <in [Friendly] tiles>"],
 				"requires": ["Pesta Teh"],
 				"row": 2,
 				"column": 5
