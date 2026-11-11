@@ -11,7 +11,8 @@
 		"uniques": [
 			"All adjacent units heal [13] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
-			"[This Unit] gains the [Pertahanan Ringan] promotion"],
+			"[This Unit] gains the [Pertahanan Ringan] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "shoot"
 	},
@@ -386,7 +387,8 @@
 			"[4] Movement <every [4] turns>",
 			"All adjacent units heal [16] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
-			"[This Unit] gains the [Pertahanan Ringan] promotion"],
+			"[This Unit] gains the [Pertahanan Ringan] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Industrialization",
 		"attackSound": "rapid"
 	},
@@ -564,7 +566,8 @@
 		"uniques": [
 			"All adjacent units heal [17] HP when healing <every [2] turns>",
 			"[This Unit] gains the [Serangan Mistik] promotion",
-			"[This Unit] gains the [Pertahanan Spesial] promotion"],
+			"[This Unit] gains the [Pertahanan Spesial] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Acoustics",
 		"attackSound": "shoot"
 	},
@@ -684,7 +687,8 @@
 		"uniques": [
 			"All adjacent units heal [12] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
-			"[This Unit] gains the [Pertahanan Berat] promotion"],
+			"[This Unit] gains the [Pertahanan Berat] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "rapid"
 	},
@@ -701,7 +705,8 @@
 			"[1] Movement <every [2] turns>",
 			"All adjacent units heal [12] HP when healing <every [2] turns>",
 			"[This Unit] gains the [Serangan Mistik] promotion",
-			"[This Unit] gains the [Pertahanan Ringan] promotion"],
+			"[This Unit] gains the [Pertahanan Ringan] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "rapid"
 	},
@@ -895,7 +900,8 @@
 			"[+3]% Strength <when attacking> <every [3] turns>",
 			"All adjacent units heal [11] HP when healing <every [3] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
-			"[This Unit] gains the [Pertahanan Berat] promotion"],
+			"[This Unit] gains the [Pertahanan Berat] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Scientific Theory",
 		"attackSound": "49mm"
 	},
@@ -911,7 +917,8 @@
 		"uniques": [
 			"All adjacent units heal [16] HP when healing <every [5] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
-			"[This Unit] gains the [Pertahanan Spesial] promotion"],
+			"[This Unit] gains the [Pertahanan Spesial] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "rapid"
 	},
@@ -943,7 +950,8 @@
 			"[+4] HP when healing <every [4] turns>",
 			"All adjacent units heal [14] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
-			"[This Unit] gains the [Pertahanan Spesial] promotion"],
+			"[This Unit] gains the [Pertahanan Spesial] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "smg"
 	},
@@ -1163,7 +1171,8 @@
 		"uniques": [
 			"All adjacent units heal [11] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
-			"[This Unit] gains the [Pertahanan Ringan] promotion"],
+			"[This Unit] gains the [Pertahanan Ringan] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "shoot"
 	},
@@ -1325,7 +1334,8 @@
 			"[4] Movement <every [5] turns>",
 			"All adjacent units heal [12] HP when healing <every [5] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
-			"[This Unit] gains the [Pertahanan Berat] promotion"],
+			"[This Unit] gains the [Pertahanan Berat] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Fertilizer",
 		"attackSound": "smg"
 	},
@@ -1362,7 +1372,8 @@
 			"[-21]% Strength <when attacking> <every [5] turns>",
 			"All adjacent units heal [10] HP when healing <every [5] turns>",
 			"[This Unit] gains the [Serangan Mistik] promotion",
-			"[This Unit] gains the [Pertahanan Ringan] promotion"],
+			"[This Unit] gains the [Pertahanan Ringan] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "blow"
 	},
@@ -1430,7 +1441,8 @@
 		"uniques": [
 			"All adjacent units heal [12] HP when healing <every [3] turns>",
 			"[This Unit] gains the [Serangan Sonik] promotion",
-			"[This Unit] gains the [Pertahanan Ringan] promotion"],
+			"[This Unit] gains the [Pertahanan Ringan] promotion",
+			"[This Unit] gains the [Penyembuh] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "shoot"
 	},
