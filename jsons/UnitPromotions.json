@@ -43,5 +43,13 @@
 	},
 	{
 		"name": "Arius Squad"
+	},
+	{
+		"name": "Penyembuh"
+	},
+	{
+		"name": "Pasien"
+		"uniques": [
+			"Unit will heal every turn, even if it performs an action <when adjacent to a [Penyembuh] unit>"]
 	}
 ]
