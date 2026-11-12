@@ -2,7 +2,7 @@
 	{
 		"name": "Serangan Eksplosif",
 		"uniques": [
-			"[+100]% Strength <when attacking> <vs [Pertahanan Ringan]>"]
+			"[+0]% Strength <when attacking> <vs [Pertahanan Ringan]>"]
 	},
 	{
 		"name": "Serangan Tembus",
@@ -34,12 +34,12 @@
 	{
 		"name": "Pertahanan Spesial",
 		"uniques": [
-			"[+50]% Strength <when defending> <vs [Serangan Eksplosif]>"]
+			"[+0]% Strength <when defending> <vs [Serangan Eksplosif]>"]
 	},
 	{
 		"name": "Pertahanan Elastis",
 		"uniques": [
-			"[+50]% Strength <when defending> <vs [Serangan Eksplosif]>"]
+			"[+0]% Strength <when defending> <vs [Serangan Eksplosif]>"]
 	},
 	{
 		"name": "Arius Squad"
