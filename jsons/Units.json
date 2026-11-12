@@ -927,8 +927,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 54,
-		"rangedStrength": 64,
+		"strength": 136,
+		"rangedStrength": 78,
 		"range": 2,
 		"cost": 438,
 		"uniques": [
@@ -943,7 +943,7 @@
 		"unitType": "Armored",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 144,
+		"strength": 165,
 		"cost": 473,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [4] turns>",
@@ -960,8 +960,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 40,
-		"rangedStrength": 156,
+		"strength": 211,
+		"rangedStrength": 166,
 		"range": 3,
 		"cost": 853,
 		"uniques": [
@@ -978,8 +978,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 58,
-		"rangedStrength": 68,
+		"strength": 153,
+		"rangedStrength": 89,
 		"range": 3,
 		"cost": 487,
 		"uniques": [
@@ -997,8 +997,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 48,
-		"rangedStrength": 64,
+		"strength": 131,
+		"rangedStrength": 77,
 		"range": 2,
 		"cost": 405,
 		"uniques": [
