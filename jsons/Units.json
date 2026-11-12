@@ -951,7 +951,7 @@
 			"All adjacent units heal [14] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion",
-			"[This Unit] gains the [Penyembuh] promotion"],
+			"[This Unit] gains the [Garis Depan Penyembuh] promotion"],
 		"requiredTech": "Biology",
 		"attackSound": "smg"
 	},
