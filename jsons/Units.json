@@ -715,8 +715,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 37,
-		"rangedStrength": 68,
+		"strength": 128,
+		"rangedStrength": 87,
 		"range": 3,
 		"cost": 425,
 		"uniques": [
@@ -734,8 +734,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 50,
-		"rangedStrength": 42,
+		"strength": 123,
+		"rangedStrength": 64,
 		"range": 3,
 		"cost": 382,
 		"uniques": [
@@ -751,8 +751,8 @@
 		"unitType": "Siege",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 44,
-		"rangedStrength": 66,
+		"strength": 141,
+		"rangedStrength": 90,
 		"range": 3,
 		"cost": 454,
 		"uniques": [
@@ -770,7 +770,7 @@
 		"unitType": "Armored",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 136,
+		"strength": 152,
 		"cost": 441,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
@@ -784,8 +784,8 @@
 		"unitType": "Siege",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 51,
-		"rangedStrength": 36,
+		"strength": 116,
+		"rangedStrength": 56,
 		"range": 3,
 		"cost": 366,
 		"uniques": [
@@ -803,8 +803,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 47,
-		"rangedStrength": 65,
+		"strength": 130,
+		"rangedStrength": 78,
 		"range": 3,
 		"cost": 449,
 		"uniques": [
@@ -820,8 +820,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 52,
-		"rangedStrength": 44,
+		"strength": 127,
+		"rangedStrength": 65,
 		"range": 2,
 		"cost": 364,
 		"uniques": [
@@ -838,7 +838,7 @@
 		"unitType": "Armored",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 148,
+		"strength": 172,
 		"cost": 529
 		"uniques": [
 			"[1] Movement <every [3] turns>",
@@ -854,8 +854,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 55,
-		"rangedStrength": 52,
+		"strength": 132,
+		"rangedStrength": 70,
 		"range": 2,
 		"cost": 423,
 		"uniques": [
@@ -874,8 +874,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 53,
-		"rangedStrength": 61,
+		"strength": 134,
+		"rangedStrength": 75,
 		"range": 2,
 		"cost": 421
 		"uniques": [
@@ -890,8 +890,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 40,
-		"rangedStrength": 57,
+		"strength": 127,
+		"rangedStrength": 76,
 		"range": 3,
 		"cost": 408,
 		"uniques": [
@@ -910,8 +910,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 49,
-		"rangedStrength": 41,
+		"strength": 124,
+		"rangedStrength": 60,
 		"range": 3,
 		"cost": 366
 		"uniques": [
