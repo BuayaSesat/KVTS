@@ -5,7 +5,7 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 107,
-		"rangedStrength": 42,
+		"rangedStrength": 74,
 		"range": 3,
 		"cost": 337,
 		"uniques": [
@@ -38,7 +38,7 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 104,
-		"rangedStrength": 91,
+		"rangedStrength": 121,
 		"range": 2,
 		"cost": 471,
 		"uniques": [
@@ -54,7 +54,7 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 106,
-		"rangedStrength": 95,
+		"rangedStrength": 124,
 		"range": 2,
 		"cost": 463,
 		"uniques": [
@@ -71,7 +71,7 @@
 		"uniqueTo": "Abydos",
 		"movement": 2,
 		"strength": 94,
-		"rangedStrength": 85,
+		"rangedStrength": 111,
 		"range": 3,
 		"cost": 444,
 		"uniques": [
