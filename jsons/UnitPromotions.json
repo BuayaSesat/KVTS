@@ -45,13 +45,24 @@
 		"name": "Arius Squad"
 	},
 	{
+		"name": "Garis Depan"
+		"uniques": [
+			"[+50]% Strength <vs [Ranged] units>"]
+	},
+	{
 		"name": "Penyembuh"
 		"uniques": [
 			"[+100]% Strength <when defending> <vs [Ranged] units>"]
 	},
 	{
+		"name": "Garis Depan Penyembuh"
+		"uniques": [
+			"[+50]% Strength <vs [Ranged] units>"]
+	},
+	{
 		"name": "Pasien"
 		"uniques": [
-			"Unit will heal every turn, even if it performs an action <when adjacent to a [Penyembuh] unit>"]
+			"Unit will heal every turn, even if it performs an action <when adjacent to a [Penyembuh] unit>",
+			"Unit will heal every turn, even if it performs an action <when adjacent to a [Garis Depan Penyembuh] unit>"]
 	}
 ]
