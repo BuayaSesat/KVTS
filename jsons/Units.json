@@ -4,8 +4,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Abydos",
 		"movement": 2,
-		"strength": 52,
-		"rangedStrength": 28,
+		"strength": 107,
+		"rangedStrength": 42,
 		"range": 3,
 		"cost": 337,
 		"uniques": [
@@ -21,7 +21,7 @@
 		"unitType": "Armored",
 		"uniqueTo": "Abydos",
 		"movement": 2,
-		"strength": 159,
+		"strength": 183,
 		"cost": 553,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
@@ -37,8 +37,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Abydos",
 		"movement": 2,
-		"strength": 54,
-		"rangedStrength": 78,
+		"strength": 150,
+		"rangedStrength": 91,
 		"range": 2,
 		"cost": 471,
 		"uniques": [
@@ -53,8 +53,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Abydos",
 		"movement": 2,
-		"strength": 52,
-		"rangedStrength": 76,
+		"strength": 153,
+		"rangedStrength": 95,
 		"range": 2,
 		"cost": 463,
 		"uniques": [
@@ -70,8 +70,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Abydos",
 		"movement": 2,
-		"strength": 45,
-		"rangedStrength": 67,
+		"strength": 136,
+		"rangedStrength": 85,
 		"range": 3,
 		"cost": 444,
 		"uniques": [
