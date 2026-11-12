@@ -46,6 +46,8 @@
 	},
 	{
 		"name": "Penyembuh"
+		"uniques": [
+			"[+100]% Strength <when defending> <vs [Ranged] units>"]
 	},
 	{
 		"name": "Pasien"
