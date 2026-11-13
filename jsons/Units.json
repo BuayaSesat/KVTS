@@ -1386,8 +1386,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
-		"strength": 58,
-		"rangedStrength": 59,
+		"strength": 97,
+		"rangedStrength": 100,
 		"range": 2,
 		"cost": 438,
 		"uniques": [
