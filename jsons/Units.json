@@ -1330,8 +1330,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
-		"strength": 52,
-		"rangedStrength": 31,
+		"strength": 90,
+		"rangedStrength": 82,
 		"range": 3,
 		"cost": 352,
 		"uniques": [
@@ -1348,8 +1348,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
-		"strength": 46,
-		"rangedStrength": 37,
+		"strength": 89,
+		"rangedStrength": 94,
 		"range": 3,
 		"cost": 408,
 		"uniques": [
@@ -1366,8 +1366,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Gehenna",
 		"movement": 2,
-		"strength": 46,
-		"rangedStrength": 37,
+		"strength": 79,
+		"rangedStrength": 75,
 		"range": 3,
 		"cost": 359,
 		"uniques": [
