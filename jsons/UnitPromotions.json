@@ -42,6 +42,11 @@
 			"[+25]% Strength <when defending> <vs [Serangan Eksplosif]>"]
 	},
 	{
+		"name": "Can see over obstacles"
+		"uniques": [
+			"Can see over obstacles"]
+	},
+	{
 		"name": "Arius Squad"
 	},
 	{
