@@ -1188,7 +1188,7 @@
 		"strength": 106,
 		"rangedStrength": 139,
 		"range": 3,
-		"cost": 542,
+		"cost": 650,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1206,7 +1206,7 @@
 		"strength": 90,
 		"rangedStrength": 74,
 		"range": 2,
-		"cost": 357,
+		"cost": 443,
 		"uniques": [
 			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
@@ -1225,7 +1225,7 @@
 		"strength": 86,
 		"rangedStrength": 94,
 		"range": 3,
-		"cost": 409,
+		"cost": 537,
 		"uniques": [
 			"[2] Movement <every [4] turns>",
 			"[2] additional attacks per turn <every [4] turns>",
@@ -1241,7 +1241,7 @@
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 178,
-		"cost": 510,
+		"cost": 595,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1259,7 +1259,7 @@
 		"strength": 104,
 		"rangedStrength": 137,
 		"range": 3,
-		"cost": 524,
+		"cost": 626,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1278,7 +1278,7 @@
 		"strength": 100,
 		"rangedStrength": 114,
 		"range": 2,
-		"cost": 435,
+		"cost": 534,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1296,7 +1296,7 @@
 		"strength": 107,
 		"rangedStrength": 126,
 		"range": 2,
-		"cost": 477,
+		"cost": 564,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
@@ -1316,7 +1316,7 @@
 		"strength": 89,
 		"rangedStrength": 97,
 		"range": 3,
-		"cost": 404,
+		"cost": 430,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
 			"[-3] HP when healing <every [3] turns>",
