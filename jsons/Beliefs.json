@@ -7,7 +7,7 @@
 	{
 		"name": "Mobilitas"
 		"type": "Founder"
-		"uniques": ["[1] Movement <for [All] units>", "No movement cost to pillage"],
+		"uniques": ["[1] Movement <for [All] units>", "[All] tiles cost [1] movement"],
 	},
 	{
 		"name": "Penembak Jitu"
