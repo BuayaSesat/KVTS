@@ -1333,7 +1333,7 @@
 		"strength": 90,
 		"rangedStrength": 82,
 		"range": 3,
-		"cost": 352,
+		"cost": 430,
 		"uniques": [
 			"[4] Movement <every [5] turns>",
 			"All adjacent units heal [12] HP when healing <every [5] turns>",
@@ -1351,7 +1351,7 @@
 		"strength": 89,
 		"rangedStrength": 94,
 		"range": 3,
-		"cost": 408,
+		"cost": 781,
 		"uniques": [
 			"[4] Movement <every [3] turns>",
 			"[4] additional attacks per turn <every [3] turns>",
@@ -1369,7 +1369,7 @@
 		"strength": 79,
 		"rangedStrength": 75,
 		"range": 3,
-		"cost": 359,
+		"cost": 415,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [5] turns>",
 			"[+21]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [5] turns>",
@@ -1389,7 +1389,7 @@
 		"strength": 97,
 		"rangedStrength": 100,
 		"range": 2,
-		"cost": 438,
+		"cost": 511,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1406,7 +1406,7 @@
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 157,
-		"cost": 416,
+		"cost": 491,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
@@ -1424,7 +1424,7 @@
 		"strength": 114,
 		"rangedStrength": 119,
 		"range": 2,
-		"cost": 501,
+		"cost": 561,
 		"uniques": [
 			"Can move after attacking <every [4] turns>",
 			"[+109]% Strength <when attacking> <every [4] turns>",
@@ -1441,7 +1441,7 @@
 		"strength": 117,
 		"rangedStrength": 114,
 		"range": 3,
-		"cost": 470,
+		"cost": 528,
 		"uniques": [
 			"All adjacent units heal [12] HP when healing <every [3] turns>",
 			"[This Unit] gains the [Serangan Sonik] promotion",
