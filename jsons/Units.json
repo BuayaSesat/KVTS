@@ -1041,7 +1041,7 @@
 		"strength": 118,
 		"rangedStrength": 143,
 		"range": 3,
-		"cost": 609,
+		"cost": 868,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [8] turns>",
 			"[+31]% Strength <every [8] turns>",
@@ -1061,7 +1061,7 @@
 		"strength": 92,
 		"rangedStrength": 105,
 		"range": 2,
-		"cost": 397,
+		"cost": 524,
 		"uniques": [
 			"[+46]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[-46]% Strength <when attacking> <every [3] turns>",
@@ -1081,7 +1081,7 @@
 		"strength": 116,
 		"rangedStrength": 123,
 		"range": 3,
-		"cost": 621,
+		"cost": 661,
 		"uniques": [
 			"[3] Movement <every [3] turns>",
 			"[+26]% Strength <vs [Armored] units> <when attacking> <every [3] turns>",
@@ -1102,7 +1102,7 @@
 		"strength": 93,
 		"rangedStrength": 110,
 		"range": 2,
-		"cost": 434,
+		"cost": 487,
 		"uniques": [
 			"[+136]% Strength <when attacking> <every [6] turns>",
 			"[This Unit] gains the [Serangan Sonik] promotion",
@@ -1118,7 +1118,7 @@
 		"strength": 92,
 		"rangedStrength": 105,
 		"range": 3,
-		"cost": 445,
+		"cost": 498,
 		"uniques": [
 			"[1] Movement <every [7] turns>",
 			"[1] additional attacks per turn <every [7] turns>",
@@ -1136,7 +1136,7 @@
 		"strength": 93,
 		"rangedStrength": 85,
 		"range": 3,
-		"cost": 404,
+		"cost": 444,
 		"uniques": [
 			"[+42]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>",
 			"[-42]% Strength <when attacking> <every [3] turns>",
@@ -1153,7 +1153,7 @@
 		"strength": 103,
 		"rangedStrength": 128,
 		"range": 3,
-		"cost": 543,
+		"cost": 742,
 		"uniques": [
 			"[2] Movement <every [3] turns>",
 			"[2] additional attacks per turn <every [3] turns>",
@@ -1171,7 +1171,7 @@
 		"strength": 85,
 		"rangedStrength": 72,
 		"range": 3,
-		"cost": 318,
+		"cost": 383,
 		"uniques": [
 			"All adjacent units heal [11] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
