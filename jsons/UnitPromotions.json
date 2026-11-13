@@ -47,8 +47,7 @@
 	{
 		"name": "Penyembuh"
 		"uniques": [
-			"Unit will heal every turn, even if it performs an action",
-			"[+100]% Strength <when defending> <vs [Ranged] units>"]
+			"Unit will heal every turn, even if it performs an action"]
 	},
 	{
 		"name": "Garis Depan Penyembuh"
