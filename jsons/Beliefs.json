@@ -2,7 +2,7 @@
 	{
 		"name": "Terangi Dunia"
 		"type": "Founder"
-		"uniques": ["[4] Sight <for [Military] units>", "All newly-trained [Military] units [in all cities] receive the [Can see over obstacles] promotion"],
+		"uniques": ["[2] Sight <for [Military] units>", "All newly-trained [Military] units [in all cities] receive the [Can see over obstacles] promotion"],
 	},
 	{
 		"name": "Mobilitas"
