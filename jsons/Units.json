@@ -927,8 +927,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 136,
-		"rangedStrength": 78,
+		"strength": 97,
+		"rangedStrength": 107,
 		"range": 2,
 		"cost": 438,
 		"uniques": [
@@ -962,8 +962,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 211,
-		"rangedStrength": 166,
+		"strength": 128,
+		"rangedStrength": 189,
 		"range": 3,
 		"cost": 853,
 		"uniques": [
@@ -981,8 +981,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 153,
-		"rangedStrength": 89,
+		"strength": 109,
+		"rangedStrength": 121,
 		"range": 3,
 		"cost": 487,
 		"uniques": [
@@ -1001,8 +1001,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Arius",
 		"movement": 2,
-		"strength": 131,
-		"rangedStrength": 77,
+		"strength": 86,
+		"rangedStrength": 92,
 		"range": 2,
 		"cost": 405,
 		"uniques": [
