@@ -50,8 +50,8 @@
 			{
 				"name": "Idola Pakaian Renang",
 				"uniques": [
-					"[+1 Happiness] per every [250000] [Gold]",
-					"[+1 Culture] per every [250000] [Gold]"],
+					"[+1 Happiness] per every [25000] [Gold]",
+					"[+1 Culture] per every [25000] [Gold]"],
 				"requires": ["Pekerjaan Paruh Waktu"],
 				"row": 2,
 				"column": 5
@@ -295,7 +295,8 @@
 			{
 				"name": "Tim Prefek",
 				"uniques": [
-					"Great General provides double combat bonus",
+					"[1] Sight <for [Great General] units>",
+					"[1] Movement <for [Great General] units>",
 					"Free [Great General] appears"],
 				"requires": ["Pemecah Masalah 68"],
 				"row": 2,
