@@ -715,8 +715,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 128,
-		"rangedStrength": 87,
+		"strength": 85,
+		"rangedStrength": 108,
 		"range": 3,
 		"cost": 425,
 		"uniques": [
@@ -734,8 +734,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 123,
-		"rangedStrength": 64,
+		"strength": 92,
+		"rangedStrength": 94,
 		"range": 3,
 		"cost": 382,
 		"uniques": [
@@ -751,8 +751,8 @@
 		"unitType": "Siege",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 141,
-		"rangedStrength": 90,
+		"strength": 96,
+		"rangedStrength": 116,
 		"range": 3,
 		"cost": 454,
 		"uniques": [
@@ -784,8 +784,8 @@
 		"unitType": "Siege",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 116,
-		"rangedStrength": 56,
+		"strength": 88,
+		"rangedStrength": 86,
 		"range": 3,
 		"cost": 366,
 		"uniques": [
@@ -803,8 +803,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 130,
-		"rangedStrength": 78,
+		"strength": 90,
+		"rangedStrength": 104,
 		"range": 3,
 		"cost": 449,
 		"uniques": [
@@ -820,8 +820,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 127,
-		"rangedStrength": 65,
+		"strength": 94,
+		"rangedStrength": 96,
 		"range": 2,
 		"cost": 364,
 		"uniques": [
@@ -854,8 +854,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 132,
-		"rangedStrength": 70,
+		"strength": 97,
+		"rangedStrength": 101,
 		"range": 2,
 		"cost": 423,
 		"uniques": [
@@ -874,8 +874,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 134,
-		"rangedStrength": 75,
+		"strength": 96,
+		"rangedStrength": 104,
 		"range": 2,
 		"cost": 421
 		"uniques": [
@@ -890,8 +890,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 127,
-		"rangedStrength": 76,
+		"strength": 89,
+		"rangedStrength": 102,
 		"range": 3,
 		"cost": 408,
 		"uniques": [
@@ -910,8 +910,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Trinity",
 		"movement": 2,
-		"strength": 124,
-		"rangedStrength": 60,
+		"strength": 94,
+		"rangedStrength": 92,
 		"range": 3,
 		"cost": 366
 		"uniques": [
