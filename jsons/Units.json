@@ -91,7 +91,7 @@
 		"strength": 112,
 		"rangedStrength": 109,
 		"range": 3,
-		"cost": 522,
+		"cost": 657,
 		"uniques": [
 			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
@@ -108,7 +108,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 179,
-		"cost": 493,
+		"cost": 458,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
 			"[3] HP when healing <every [3] turns>",
@@ -125,7 +125,7 @@
 		"strength": 86,
 		"rangedStrength": 71,
 		"range": 2,
-		"cost": 344,
+		"cost": 380,
 		"uniques": [
 			"[+43]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>",
 			"[-43]% Strength <when attacking> <every [3] turns>",
@@ -142,7 +142,7 @@
 		"strength": 102,
 		"rangedStrength": 129,
 		"range": 3,
-		"cost": 521,
+		"cost": 590,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -162,7 +162,7 @@
 		"strength": 90,
 		"rangedStrength": 103,
 		"range": 3,
-		"cost": 459,
+		"cost": 502,
 		"uniques": [
 			"[+131]% Strength <when attacking> <every [5] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
@@ -178,7 +178,7 @@
 		"strength": 91,
 		"rangedStrength": 99,
 		"range": 3,
-		"cost": 422,
+		"cost": 548,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -197,7 +197,7 @@
 		"strength": 81,
 		"rangedStrength": 74,
 		"range": 3,
-		"cost": 338,
+		"cost": 407,
 		"uniques": [
 			"[+25]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[-25]% Strength <when attacking> <every [3] turns>",
@@ -214,7 +214,7 @@
 		"strength": 104,
 		"rangedStrength": 112,
 		"range": 3,
-		"cost": 481,
+		"cost": 565,
 		"uniques": [
 			"[+16]% Strength <when attacking> <every [3] turns>",
 			"[+57]% Strength bonus for [Military] units within [2] tiles <when defending> <vs [Pertahanan Berat]> <every [3] turns>",
@@ -229,7 +229,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 159,
-		"cost": 469,
+		"cost": 445,
 		"uniques": [
 			"[+38]% Strength <when attacking> <every [2] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
@@ -245,7 +245,7 @@
 		"strength": 104,
 		"rangedStrength": 119,
 		"range": 2,
-		"cost": 458,
+		"cost": 578,
 		"uniques": [
 			"[+23]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [65]% chance> <every [2] turns>",
@@ -263,7 +263,7 @@
 		"strength": 97,
 		"rangedStrength": 124,
 		"range": 3,
-		"cost": 468,
+		"cost": 541,
 		"uniques": [
 			"[+59]% Strength <when attacking> <every [4] turns>",
 			"[+48]% Strength <when attacking> <vs [Armored] units> <every [4] turns>",
@@ -280,7 +280,7 @@
 		"strength": 89,
 		"rangedStrength": 75,
 		"range": 2,
-		"cost": 386,
+		"cost": 469,
 		"uniques": [
 			"[+1]% Strength <when attacking> <every [2] turns>",
 			"[+44]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
@@ -297,7 +297,7 @@
 		"strength": 99,
 		"rangedStrength": 111,
 		"range": 2,
-		"cost": 439,
+		"cost": 484,
 		"uniques": [
 			"[+20]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [12]% chance> <every [2] turns>",
@@ -315,7 +315,7 @@
 		"strength": 112,
 		"rangedStrength": 107,
 		"range": 3,
-		"cost": 489,
+		"cost": 516,
 		"uniques": [
 			"[+36]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>",
 			"[-36]% Strength <when attacking> <every [3] turns>",
@@ -330,7 +330,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 190,
-		"cost": 522,
+		"cost": 482,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [4] turns>",
 			"[-2] HP when healing <every [4] turns>",
@@ -348,7 +348,7 @@
 		"strength": 97,
 		"rangedStrength": 109,
 		"range": 3,
-		"cost": 432,
+		"cost": 491,
 		"uniques": [
 			"[+24]% Strength <every [4] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
@@ -364,7 +364,7 @@
 		"strength": 88,
 		"rangedStrength": 103,
 		"range": 3,
-		"cost": 482,
+		"cost": 679,
 		"uniques": [
 			"[4] Movement <every [4] turns>",
 			"[4] additional attacks per turn <every [4] turns>",
@@ -382,7 +382,7 @@
 		"strength": 85,
 		"rangedStrength": 86,
 		"range": 3,
-		"cost": 360,
+		"cost": 441,
 		"uniques": [
 			"[4] Movement <every [4] turns>",
 			"All adjacent units heal [16] HP when healing <every [4] turns>",
@@ -400,7 +400,7 @@
 		"strength": 102,
 		"rangedStrength": 103,
 		"range": 2,
-		"cost": 424,
+		"cost": 538,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
@@ -419,7 +419,7 @@
 		"strength": 107,
 		"rangedStrength": 143,
 		"range": 3,
-		"cost": 657,
+		"cost": 1032,
 		"uniques": [
 			"[4] Movement <every [3] turns>",
 			"[4] additional attacks per turn <every [3] turns>",
@@ -438,7 +438,7 @@
 		"strength": 99,
 		"rangedStrength": 120,
 		"range": 2,
-		"cost": 480,
+		"cost": 543,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -456,7 +456,7 @@
 		"strength": 104,
 		"rangedStrength": 145,
 		"range": 3,
-		"cost": 548,
+		"cost": 629,
 		"uniques": [
 			"[3] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
@@ -474,7 +474,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 164,
-		"cost": 511,
+		"cost": 592,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
@@ -1081,7 +1081,7 @@
 		"strength": 116,
 		"rangedStrength": 123,
 		"range": 3,
-		"cost": 661,
+		"cost": 698,
 		"uniques": [
 			"[3] Movement <every [3] turns>",
 			"[+26]% Strength <vs [Armored] units> <when attacking> <every [3] turns>",
@@ -1259,7 +1259,7 @@
 		"strength": 104,
 		"rangedStrength": 137,
 		"range": 3,
-		"cost": 626,
+		"cost": 619,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
