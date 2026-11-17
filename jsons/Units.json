@@ -492,7 +492,7 @@
 		"strength": 88,
 		"rangedStrength": 79,
 		"range": 2,
-		"cost": 364,
+		"cost": 431,
 		"uniques": [
 			"[+25]% Strength bonus for [Military] units within [1] tiles <every [3] turns>",
 			"[-25]% Strength <every [3] turns>",
@@ -511,7 +511,7 @@
 		"strength": 116,
 		"rangedStrength": 120,
 		"range": 3,
-		"cost": 541,
+		"cost": 650,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
@@ -528,7 +528,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 172,
-		"cost": 511,
+		"cost": 485,
 		"uniques": [
 			"[+71]% Strength <when attacking> <every [6] turns>",
 			"[+81]% Strength <when attacking> <vs [non-[Wounded]] units> <every [6] turns>",
@@ -546,7 +546,7 @@
 		"strength": 100,
 		"rangedStrength": 113,
 		"range": 2,
-		"cost": 443,
+		"cost": 485,
 		"uniques": [
 			"[+57]% Strength <when attacking> <every [4] turns>",
 			"[This Unit] gains the [Serangan Mistik] promotion",
@@ -562,7 +562,7 @@
 		"strength": 99,
 		"rangedStrength": 86,
 		"range": 3,
-		"cost": 401,
+		"cost": 464,
 		"uniques": [
 			"All adjacent units heal [17] HP when healing <every [2] turns>",
 			"[This Unit] gains the [Serangan Mistik] promotion",
@@ -579,7 +579,7 @@
 		"strength": 98,
 		"rangedStrength": 107,
 		"range": 2,
-		"cost": 467,
+		"cost": 602,
 		"uniques": [
 			"[4] Movement <every [6] turns>",
 			"[4] additional attacks per turn <every [6] turns>",
