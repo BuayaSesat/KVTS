@@ -930,7 +930,7 @@
 		"strength": 97,
 		"rangedStrength": 107,
 		"range": 2,
-		"cost": 438,
+		"cost": 497,
 		"uniques": [
 			"[+97]% Strength <when attacking> <every [4] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
@@ -945,7 +945,7 @@
 		"uniqueTo": "Arius",
 		"movement": 2,
 		"strength": 165,
-		"cost": 473,
+		"cost": 439,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [4] turns>",
 			"[+4] HP when healing <every [4] turns>",
@@ -965,7 +965,7 @@
 		"strength": 128,
 		"rangedStrength": 189,
 		"range": 3,
-		"cost": 853,
+		"cost": 1179,
 		"uniques": [
 			"[6] Movement <every [5] turns>",
 			"[6] additional attacks per turn <every [5] turns>",
@@ -984,7 +984,7 @@
 		"strength": 109,
 		"rangedStrength": 121,
 		"range": 3,
-		"cost": 487,
+		"cost": 549,
 		"uniques": [
 			"[-24]% Strength <when attacking> <every [3] turns>",
 			"[+35]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>",
@@ -1004,7 +1004,7 @@
 		"strength": 86,
 		"rangedStrength": 92,
 		"range": 2,
-		"cost": 405,
+		"cost": 406,
 		"uniques": [
 			"Can move after attacking <every [4] turns>",
 			"[+27]% Strength <when attacking> <every [4] turns>",
