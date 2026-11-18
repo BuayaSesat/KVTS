@@ -205,7 +205,7 @@
 			"Scientific": 0
 		},
 		"uniques": [
-			"[+75]% growth [in all cities] <when between [-1] and [-10] [Happiness]>",
+			"[+75]% growth [in all cities] <when between [-10] and [-1] [Happiness]>",
 			"[+50]% [Production] [in all cities] <when below [-10] [Happiness]>",
 			"[+33]% Strength <for [All] units> <when below [-10] [Happiness]>",
 			"Only available <for [Arius] Civilizations>"],
