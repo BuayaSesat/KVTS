@@ -718,10 +718,10 @@
 		"strength": 85,
 		"rangedStrength": 108,
 		"range": 3,
-		"cost": 425,
+		"cost": 470,
 		"uniques": [
 			"[+25]% Strength bonus for [Military] units within [1] tiles <every [5] turns>",
-			"[+23]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [5] turns>",
+			"[+48]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [5] turns>",
 			"[-25]% Strength <every [5] turns>",
 			"[-23]% Strength <when attacking> <every [5] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
@@ -737,7 +737,7 @@
 		"strength": 92,
 		"rangedStrength": 94,
 		"range": 3,
-		"cost": 382,
+		"cost": 465,
 		"uniques": [
 			"[+24]% Strength bonus for [Military] units within [2] tiles <when defending> <every [3] turns>",
 			"[-24]% Strength <when defending> <every [3] turns>",
