@@ -613,7 +613,7 @@
 		"strength": 103,
 		"rangedStrength": 133,
 		"range": 3,
-		"cost": 477,
+		"cost": 549,
 		"uniques": [
 			"[+47]% Strength <when attacking> <every [5] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
@@ -629,7 +629,7 @@
 		"strength": 101,
 		"rangedStrength": 127,
 		"range": 3,
-		"cost": 480,
+		"cost": 568,
 		"uniques": [
 			"[+31]% Strength <when attacking> <every [3] turns>",
 			"[+62]% Strength <when attacking> <with [50]% chance> <every [3] turns>",
@@ -646,7 +646,7 @@
 		"strength": 100,
 		"rangedStrength": 114,
 		"range": 2,
-		"cost": 456,
+		"cost": 523,
 		"uniques": [
 			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
