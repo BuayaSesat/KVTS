@@ -823,7 +823,7 @@
 		"strength": 94,
 		"rangedStrength": 96,
 		"range": 2,
-		"cost": 364,
+		"cost": 478,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -839,7 +839,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 172,
-		"cost": 529
+		"cost": 598,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
