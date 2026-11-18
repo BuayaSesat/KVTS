@@ -754,7 +754,7 @@
 		"strength": 96,
 		"rangedStrength": 116,
 		"range": 3,
-		"cost": 454,
+		"cost": 588,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -771,7 +771,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 152,
-		"cost": 441,
+		"cost": 388,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
 			"[This Unit] gains the [Serangan Mistik] promotion",
@@ -787,7 +787,7 @@
 		"strength": 88,
 		"rangedStrength": 86,
 		"range": 3,
-		"cost": 366,
+		"cost": 463,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
@@ -806,7 +806,7 @@
 		"strength": 90,
 		"rangedStrength": 104,
 		"range": 3,
-		"cost": 449,
+		"cost": 499,
 		"uniques": [
 			"Can move after attacking <every [4] turns>",
 			"[+83]% Strength <when attacking> <every [4] turns>",
