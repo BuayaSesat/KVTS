@@ -546,7 +546,7 @@
 		"strength": 100,
 		"rangedStrength": 113,
 		"range": 2,
-		"cost": 485,
+		"cost": 490,
 		"uniques": [
 			"[+57]% Strength <when attacking> <every [4] turns>",
 			"[This Unit] gains the [Serangan Mistik] promotion",
@@ -562,9 +562,9 @@
 		"strength": 99,
 		"rangedStrength": 86,
 		"range": 3,
-		"cost": 464,
+		"cost": 457,
 		"uniques": [
-			"All adjacent units heal [17] HP when healing <every [2] turns>",
+			"All adjacent units heal [14] HP when healing <every [2] turns>",
 			"[This Unit] gains the [Serangan Mistik] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion",
 			"[This Unit] gains the [Penyembuh] promotion"],
@@ -595,7 +595,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 199,
-		"cost": 620,
+		"cost": 705,
 		"uniques": [
 			"[2] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
