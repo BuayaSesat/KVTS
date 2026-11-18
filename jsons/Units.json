@@ -913,9 +913,9 @@
 		"strength": 94,
 		"rangedStrength": 92,
 		"range": 3,
-		"cost": 440,
+		"cost": 441,
 		"uniques": [
-			"All adjacent units heal [16] HP when healing <every [5] turns>",
+			"All adjacent units heal [17] HP when healing <every [5] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Spesial] promotion",
 			"[This Unit] gains the [Penyembuh] promotion"],
