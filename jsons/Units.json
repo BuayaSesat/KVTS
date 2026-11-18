@@ -662,7 +662,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 175,
-		"cost": 540,
+		"cost": 582,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [4] turns>",
 			"[1] Movement <every [4] turns>",
@@ -683,9 +683,9 @@
 		"strength": 91,
 		"rangedStrength": 89,
 		"range": 3,
-		"cost": 357,
+		"cost": 429,
 		"uniques": [
-			"All adjacent units heal [12] HP when healing <every [4] turns>",
+			"All adjacent units heal [13] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion",
 			"[This Unit] gains the [Penyembuh] promotion"],
@@ -700,10 +700,10 @@
 		"strength": 92,
 		"rangedStrength": 90,
 		"range": 3,
-		"cost": 365,
+		"cost": 464,
 		"uniques": [
 			"[1] Movement <every [2] turns>",
-			"All adjacent units heal [12] HP when healing <every [2] turns>",
+			"All adjacent units heal [14] HP when healing <every [2] turns>",
 			"[This Unit] gains the [Serangan Mistik] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion",
 			"[This Unit] gains the [Penyembuh] promotion"],
