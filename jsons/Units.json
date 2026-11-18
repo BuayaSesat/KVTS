@@ -492,7 +492,7 @@
 		"strength": 88,
 		"rangedStrength": 79,
 		"range": 2,
-		"cost": 431,
+		"cost": 435,
 		"uniques": [
 			"[+25]% Strength bonus for [Military] units within [1] tiles <every [3] turns>",
 			"[-25]% Strength <every [3] turns>",
@@ -511,7 +511,7 @@
 		"strength": 116,
 		"rangedStrength": 120,
 		"range": 3,
-		"cost": 650,
+		"cost": 651,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
@@ -528,7 +528,7 @@
 		"uniqueTo": "Trinity",
 		"movement": 2,
 		"strength": 172,
-		"cost": 485,
+		"cost": 525,
 		"uniques": [
 			"[+71]% Strength <when attacking> <every [6] turns>",
 			"[+81]% Strength <when attacking> <vs [non-[Wounded]] units> <every [6] turns>",
