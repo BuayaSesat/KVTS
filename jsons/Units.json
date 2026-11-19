@@ -245,7 +245,7 @@
 		"strength": 104,
 		"rangedStrength": 119,
 		"range": 2,
-		"cost": 578,
+		"cost": 584,
 		"uniques": [
 			"[+23]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [65]% chance> <every [2] turns>",
@@ -263,7 +263,7 @@
 		"strength": 97,
 		"rangedStrength": 124,
 		"range": 3,
-		"cost": 541,
+		"cost": 554,
 		"uniques": [
 			"[+59]% Strength <when attacking> <every [4] turns>",
 			"[+48]% Strength <when attacking> <vs [Armored] units> <every [4] turns>",
@@ -280,7 +280,7 @@
 		"strength": 89,
 		"rangedStrength": 75,
 		"range": 2,
-		"cost": 469,
+		"cost": 468,
 		"uniques": [
 			"[+1]% Strength <when attacking> <every [2] turns>",
 			"[+44]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [2] turns>",
@@ -297,7 +297,7 @@
 		"strength": 99,
 		"rangedStrength": 111,
 		"range": 2,
-		"cost": 484,
+		"cost": 487,
 		"uniques": [
 			"[+20]% Strength <when attacking> <every [2] turns>",
 			"Withdraws before melee combat <with [12]% chance> <every [2] turns>",
