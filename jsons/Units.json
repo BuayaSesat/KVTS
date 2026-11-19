@@ -162,7 +162,7 @@
 		"strength": 90,
 		"rangedStrength": 103,
 		"range": 3,
-		"cost": 502,
+		"cost": 504,
 		"uniques": [
 			"[+131]% Strength <when attacking> <every [5] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
@@ -197,7 +197,7 @@
 		"strength": 81,
 		"rangedStrength": 74,
 		"range": 3,
-		"cost": 407,
+		"cost": 413,
 		"uniques": [
 			"[+25]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[-25]% Strength <when attacking> <every [3] turns>",
@@ -214,7 +214,7 @@
 		"strength": 104,
 		"rangedStrength": 112,
 		"range": 3,
-		"cost": 565,
+		"cost": 566,
 		"uniques": [
 			"[+16]% Strength <when attacking> <every [3] turns>",
 			"[+57]% Strength bonus for [Military] units within [2] tiles <when defending> <vs [Pertahanan Berat]> <every [3] turns>",
@@ -229,7 +229,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 159,
-		"cost": 445,
+		"cost": 473,
 		"uniques": [
 			"[+38]% Strength <when attacking> <every [2] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
