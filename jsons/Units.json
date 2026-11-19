@@ -315,7 +315,7 @@
 		"strength": 112,
 		"rangedStrength": 107,
 		"range": 3,
-		"cost": 516,
+		"cost": 514,
 		"uniques": [
 			"[+36]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>",
 			"[-36]% Strength <when attacking> <every [3] turns>",
