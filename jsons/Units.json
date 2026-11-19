@@ -91,7 +91,7 @@
 		"strength": 112,
 		"rangedStrength": 109,
 		"range": 3,
-		"cost": 657,
+		"cost": 652,
 		"uniques": [
 			"[1] Movement <every [2] turns>",
 			"[1] additional attacks per turn <every [2] turns>",
@@ -108,10 +108,10 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 179,
-		"cost": 458,
+		"cost": 459,
 		"uniques": [
 			"Unit will heal every turn, even if it performs an action <every [3] turns>",
-			"[3] HP when healing <every [3] turns>",
+			"[4] HP when healing <every [3] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion"],
 		"requiredTech": "Industrialization",
@@ -125,7 +125,7 @@
 		"strength": 86,
 		"rangedStrength": 71,
 		"range": 2,
-		"cost": 380,
+		"cost": 391,
 		"uniques": [
 			"[+43]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>",
 			"[-43]% Strength <when attacking> <every [3] turns>",
