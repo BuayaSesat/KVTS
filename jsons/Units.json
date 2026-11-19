@@ -348,7 +348,7 @@
 		"strength": 97,
 		"rangedStrength": 109,
 		"range": 3,
-		"cost": 491,
+		"cost": 494,
 		"uniques": [
 			"[+24]% Strength <every [4] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
@@ -364,7 +364,7 @@
 		"strength": 88,
 		"rangedStrength": 103,
 		"range": 3,
-		"cost": 679,
+		"cost": 678,
 		"uniques": [
 			"[4] Movement <every [4] turns>",
 			"[4] additional attacks per turn <every [4] turns>",
@@ -382,10 +382,10 @@
 		"strength": 85,
 		"rangedStrength": 86,
 		"range": 3,
-		"cost": 441,
+		"cost": 443,
 		"uniques": [
 			"[4] Movement <every [4] turns>",
-			"All adjacent units heal [16] HP when healing <every [4] turns>",
+			"All adjacent units heal [18] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion",
 			"[This Unit] gains the [Penyembuh] promotion"],
