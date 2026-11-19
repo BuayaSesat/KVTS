@@ -419,7 +419,7 @@
 		"strength": 107,
 		"rangedStrength": 143,
 		"range": 3,
-		"cost": 1032,
+		"cost": 1037,
 		"uniques": [
 			"[4] Movement <every [3] turns>",
 			"[4] additional attacks per turn <every [3] turns>",
@@ -438,7 +438,7 @@
 		"strength": 99,
 		"rangedStrength": 120,
 		"range": 2,
-		"cost": 543,
+		"cost": 544,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -456,7 +456,7 @@
 		"strength": 104,
 		"rangedStrength": 145,
 		"range": 3,
-		"cost": 629,
+		"cost": 637,
 		"uniques": [
 			"[3] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
@@ -474,7 +474,7 @@
 		"uniqueTo": "Millennium",
 		"movement": 2,
 		"strength": 164,
-		"cost": 592,
+		"cost": 620,
 		"uniques": [
 			"[1] Movement <every [3] turns>",
 			"[1] additional attacks per turn <every [3] turns>",
