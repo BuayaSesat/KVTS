@@ -213,8 +213,8 @@
 			{
 				"name": "Kebenaran Dunia",
 				"uniques": [
-					"[+10]% [Production] [in all cities]",
-					"[+100]% unhappiness from the number of cities"],
+					"[+20]% [Production] [in all cities]",
+					"[+50]% unhappiness from the number of cities"],
 				"row": 1,
 				"column": 3
 			},
