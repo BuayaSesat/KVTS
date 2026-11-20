@@ -1259,7 +1259,7 @@
 		"strength": 104,
 		"rangedStrength": 137,
 		"range": 3,
-		"cost": 619,
+		"cost": 622,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1278,7 +1278,7 @@
 		"strength": 100,
 		"rangedStrength": 114,
 		"range": 2,
-		"cost": 534,
+		"cost": 536,
 		"uniques": [
 			"[1] Movement <every [4] turns>",
 			"[1] additional attacks per turn <every [4] turns>",
@@ -1296,7 +1296,7 @@
 		"strength": 107,
 		"rangedStrength": 126,
 		"range": 2,
-		"cost": 564,
+		"cost": 572,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
