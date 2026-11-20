@@ -206,14 +206,15 @@
 		},
 		"uniques": [
 			"[+75]% growth [in all cities] <when between [-10] and [-1] [Happiness]>",
-			"[+50]% [Production] [in all cities] <when below [-10] [Happiness]>",
-			"[+33]% Strength <for [All] units> <when below [-10] [Happiness]>",
+			"[+75]% [Production] [in all cities] <when below [-10] [Happiness]>",
+			"[+33]% Strength <for [Military] units> <when below [-10] [Happiness]>",
+			"[999] units cost no maintenance",
 			"Only available <for [Arius] Civilizations>"],
 		"policies": [
 			{
 				"name": "Kebenaran Dunia",
 				"uniques": [
-					"[+20]% [Production] [in all cities]",
+					"[+25]% [Production] [in all cities]",
 					"[+50]% unhappiness from the number of cities"],
 				"row": 1,
 				"column": 3
