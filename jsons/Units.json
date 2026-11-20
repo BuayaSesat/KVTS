@@ -1136,7 +1136,7 @@
 		"strength": 93,
 		"rangedStrength": 85,
 		"range": 3,
-		"cost": 444,
+		"cost": 449,
 		"uniques": [
 			"[+42]% Strength bonus for [Military] units within [1] tiles <when attacking> <every [3] turns>",
 			"[-42]% Strength <when attacking> <every [3] turns>",
@@ -1153,7 +1153,7 @@
 		"strength": 103,
 		"rangedStrength": 128,
 		"range": 3,
-		"cost": 742,
+		"cost": 748,
 		"uniques": [
 			"[2] Movement <every [3] turns>",
 			"[2] additional attacks per turn <every [3] turns>",
@@ -1171,9 +1171,9 @@
 		"strength": 85,
 		"rangedStrength": 72,
 		"range": 3,
-		"cost": 383,
+		"cost": 386,
 		"uniques": [
-			"All adjacent units heal [11] HP when healing <every [4] turns>",
+			"All adjacent units heal [13] HP when healing <every [4] turns>",
 			"[This Unit] gains the [Serangan Tembus] promotion",
 			"[This Unit] gains the [Pertahanan Ringan] promotion",
 			"[This Unit] gains the [Penyembuh] promotion"],
