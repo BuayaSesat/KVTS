@@ -1333,10 +1333,10 @@
 		"strength": 90,
 		"rangedStrength": 82,
 		"range": 3,
-		"cost": 430,
+		"cost": 431,
 		"uniques": [
 			"[4] Movement <every [5] turns>",
-			"All adjacent units heal [12] HP when healing <every [5] turns>",
+			"All adjacent units heal [13] HP when healing <every [5] turns>",
 			"[This Unit] gains the [Serangan Eksplosif] promotion",
 			"[This Unit] gains the [Pertahanan Berat] promotion",
 			"[This Unit] gains the [Penyembuh] promotion"],
@@ -1351,7 +1351,7 @@
 		"strength": 89,
 		"rangedStrength": 94,
 		"range": 3,
-		"cost": 781,
+		"cost": 778,
 		"uniques": [
 			"[4] Movement <every [3] turns>",
 			"[4] additional attacks per turn <every [3] turns>",
@@ -1369,7 +1369,7 @@
 		"strength": 79,
 		"rangedStrength": 75,
 		"range": 3,
-		"cost": 415,
+		"cost": 412,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [5] turns>",
 			"[+21]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [5] turns>",
