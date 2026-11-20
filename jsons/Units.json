@@ -1406,7 +1406,7 @@
 		"uniqueTo": "Gehenna",
 		"movement": 2,
 		"strength": 157,
-		"cost": 491,
+		"cost": 502,
 		"uniques": [
 			"[1] Movement <every [5] turns>",
 			"[1] additional attacks per turn <every [5] turns>",
@@ -1424,7 +1424,7 @@
 		"strength": 114,
 		"rangedStrength": 119,
 		"range": 2,
-		"cost": 561,
+		"cost": 574,
 		"uniques": [
 			"Can move after attacking <every [4] turns>",
 			"[+109]% Strength <when attacking> <every [4] turns>",
@@ -1441,7 +1441,7 @@
 		"strength": 117,
 		"rangedStrength": 114,
 		"range": 3,
-		"cost": 528,
+		"cost": 518,
 		"uniques": [
 			"All adjacent units heal [12] HP when healing <every [3] turns>",
 			"[This Unit] gains the [Serangan Sonik] promotion",
