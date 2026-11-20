@@ -1021,7 +1021,7 @@
 		"strength": 116,
 		"rangedStrength": 135,
 		"range": 3,
-		"cost": 607,
+		"cost": 609,
 		"uniques": [
 			"[1] Movement <every [6] turns>",
 			"[1] additional attacks per turn <every [6] turns>",
@@ -1041,7 +1041,7 @@
 		"strength": 118,
 		"rangedStrength": 143,
 		"range": 3,
-		"cost": 868,
+		"cost": 864,
 		"uniques": [
 			"May Paradrop to [All] tiles up to [4] tiles away <every [8] turns>",
 			"[+31]% Strength <every [8] turns>",
@@ -1061,7 +1061,7 @@
 		"strength": 92,
 		"rangedStrength": 105,
 		"range": 2,
-		"cost": 524,
+		"cost": 522,
 		"uniques": [
 			"[+46]% Strength bonus for [Military] units within [2] tiles <when attacking> <every [3] turns>",
 			"[-46]% Strength <when attacking> <every [3] turns>",
@@ -1081,7 +1081,7 @@
 		"strength": 116,
 		"rangedStrength": 123,
 		"range": 3,
-		"cost": 698,
+		"cost": 733,
 		"uniques": [
 			"[3] Movement <every [3] turns>",
 			"[+26]% Strength <vs [Armored] units> <when attacking> <every [3] turns>",
@@ -1102,7 +1102,7 @@
 		"strength": 93,
 		"rangedStrength": 110,
 		"range": 2,
-		"cost": 487,
+		"cost": 493,
 		"uniques": [
 			"[+136]% Strength <when attacking> <every [6] turns>",
 			"[This Unit] gains the [Serangan Sonik] promotion",
